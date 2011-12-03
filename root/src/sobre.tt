@@ -1,0 +1,42 @@
+
+<h2>Sobre</h2>
+
+<p>
+Este projeto foi desenvolvido durante o evento "<a target="_blank" href="http://desarrollandoamerica.org/">
+Desarrolando America</a>" pela comunidade "<a target="_blank" href="http://sao-paulo.pm.org/">São Paulo 
+Perl Mongers</a>" e <a target="_blank" href="http://www.opendatabr.org/">Opendata-BR</a>".
+</p>
+
+<h2>Descrição da Ideia</h2>
+
+<p>
+Estimular a divulgação de dados sobre segurança pública dos estados,
+município e do país para permitir a comparação entre regiões através
+da análise de índices de ocorrência de crimes. Demonstrar esses dados
+na forma de mapas e gráficos irá permitir que a sociedade tire
+conclusões e encontre soluções para o problema da segurança. Esse
+jornalismo de dados deverá pressionar o estado a divulgar mais
+informação sobre segurança e a população a endereçar os problemas.
+</p>
+
+<p>
+Prevemos a criação de 3 telas, uma para a visualização geral de
+regiões, outra com o detalhamento de regiões específicas e uma para
+demonstrar o "ranking" das regiões nos diversos tipos de ocorrências.
+</p>
+
+<h2>Fontes de Dados</h2>
+
+<p>
+Iremos utilizar dados provenientes do IBGE (Instituto Brasileiro de
+Geografia e Estatística) contendo os polígonos dos mapas e informações
+de georeferenciamento, além dos dados do censo. Os dados do IBGE serão
+cruzados com dados fornecidos pela SSP (Secretaria de Segurança
+Pública) do estado do Rio Grande do Sul contendo as ocorrências
+relatadas nos call centers de Porto Alegre e dados gerais de
+ocorrências nas cidades do interior do estado. A princípio, apenas os
+dados do Rio Grande do Sul estarão disponíveis, mas acreditamos que
+quando a aplicação estiver funcionando, outros estados serão
+pressionados a divulgar seus dados também.
+</p>
+
