@@ -9,8 +9,8 @@ use File::Basename;
 use Text::CSV;
 my $parser   = Spreadsheet::ParseExcel->new();
 =pod
-MUNICÍPIOS  / INDICADORES
-Homicídio
+Municípios
+Homicidio
 Furtos
 Furto de veículo
 Roubos
@@ -19,13 +19,13 @@ Roubo de veículo
 Extorsão
 Extorsão mediante sequestro
 Estelionato
-Delitos relac. à corrupção
-Delitos relac. a armas e munições
-Entorp. Posse
-Entorp. Tráfico
+Delitos relacionados à corrupçao
+Delitos relacionados a armas e muniçoes
+Entorpecentes - Posse
+Entorpecentes - Tráfico
 =cut
 my %expected_header = (
-	municipio => qr /MUNIC.PIOS\s+\/\s+INDICADORES/io,
+	municipio => qr /MUNIC.PIOS/io,
 	homicidio  => qr /homic.dio/io,
 	furtos_veiculo => qr /Furto de veículo\s*$/io,
 	furtos => qr /\bfurtos\s*$/io,
@@ -35,10 +35,10 @@ my %expected_header = (
 	extorsao => qr /Extorsão$/io,
 	extorsao_sequesto => qr /extors.o mediante sequestro/io,
 	estelionato => qr /estelionato/io,
-	delitos_corrupcao => qr /Delitos relac. à corrupção/io,
-	posse_entorpecente   => qr /entorp\. posse/io,
-	delitos_municoes     => qr /Delitos relac.+ a armas e munições/io,
-	trafico_entorpecente => qr /entorp\. tr.fico/io,
+	delitos_corrupcao => qr /Delitos relacionados à corrupçao/io,
+	delitos_municoes     => qr /Delitos relacionados a armas e muniçoes/io,
+	posse_entorpecente   => qr /entorp.+ posse/io,
+	trafico_entorpecente => qr /entorp.+ tr.fico/io,
 );
 my @ordem_colunas = qw /municipio homicidio furtos_veiculo furtos roubos latrocionio roubo_veiculo
 extorsao extorsao_sequesto estelionato delitos_corrupcao posse_entorpecente delitos_municoes trafico_entorpecente ano/;
@@ -46,14 +46,12 @@ extorsao extorsao_sequesto estelionato delitos_corrupcao posse_entorpecente deli
 my $csv = Text::CSV->new ( { binary => 1,eol => $/  } )  # should set binary attribute.
 				or die "Cannot use CSV: ".Text::CSV->error_diag ();
 
-my($ano) = $ARGV[0] =~ /__(\d{4})__/;
+my($ano) = $ARGV[0] =~ /_(\d{4})__/;
 
 my $out_file = "../../data-transform/xls2csv/ano-$ano.csv";
+use DDP;
+print "parsing $ARGV[0]\n";
 
-
-open my $fh, ">:encoding(utf8)", $out_file or die "$out_file: $!";
-$csv->print ($fh, \@ordem_colunas);
-print "writing on $out_file\n";
 # apenas para exibir
 my $reg_num        = 0;
 
@@ -63,10 +61,15 @@ if ( !defined $workbook ) {
 	die $parser->error(), ".\n";
 }
 
+my $data = {
+	# <municipio> => {
+	# 		<column> => $sum
+	# }
+};
 for my $worksheet ( $workbook->worksheets() ) {
-	
+
     my $name = $worksheet->get_name();
-	next unless $name =~ /indicadores/i;
+print "working on $name\n";
 
 	my ( $row_min, $row_max ) = $worksheet->row_range();
 	my ( $col_min, $col_max ) = $worksheet->col_range();
@@ -88,7 +91,7 @@ for my $worksheet ( $workbook->worksheets() ) {
 						# qual é o valor que está escrito e bateu com a regexpr
 
 						$header_map->{$header_name} = $col;
-						$header_map->{$header_name} = $col + 1 if ($header_name eq 'municipio'); # mais 1 porque o indicadores está mesclado
+						
 					}
 				}
 			}
@@ -108,11 +111,10 @@ for my $worksheet ( $workbook->worksheets() ) {
 				$value =~ s/\,//g;
 
 				if (($header_name eq 'delitos_corrupcao' && $value =~ $expected_header{delitos_corrupcao}) ||
-						($value =~ /Rio Grande do Sul/ && $header_name eq 'municipio' )
+						($value =~ /RS/ && $header_name eq 'municipio' )
 					){
 					$abort = 1; last;
 				}
-				
 				$registro->{$header_name} = $value;
 			}
 			next if $abort;
@@ -120,16 +122,43 @@ for my $worksheet ( $workbook->worksheets() ) {
 			# se existe alguma chave, algum conteudo foi encontrado
 			if (keys %$registro > 3){
 				$reg_num++;
-				$registro->{ano} = $ano;
-				my $item = [];
-				push(@$item, $registro->{$_}) for @ordem_colunas;
-				$csv->print ($fh, $item);
+
+				next unless $registro->{municipio};
+				
+				$registro->{municipio} = uc $registro->{municipio};
+
+				for (@ordem_colunas ){
+					next if $_ eq 'municipio';
+					next unless $registro->{$_};
+					next if $registro->{$_} && $registro->{$_} !~ /^[0-9]+$/o;
+					$data->{$registro->{municipio}}{$_} ||= 0;
+					$data->{$registro->{municipio}}{$_} += $registro->{$_};
+					
+				}
+				$data->{$registro->{municipio}}{ano} = $ano;
 			}
-
 		}
-
 	}
 
 }
+
+open my $fh, ">:encoding(utf8)", $out_file or die "$out_file: $!";
+$csv->print ($fh, \@ordem_colunas);
+print "writing on $out_file\n";
+
+foreach my $municipio(sort keys %$data){
+
+	my $item = $data->{$municipio};
+
+	my $csvarr = [];
+	$item->{municipio} = $municipio;
+	foreach (@ordem_colunas ){
+		$item->{$_} ||= 0;
+		push(@$csvarr, $item->{$_});
+	}
+	$csv->print ($fh, $csvarr);
+
+}
+
 close $fh or die "$out_file: $!";
 print "done!\n";
