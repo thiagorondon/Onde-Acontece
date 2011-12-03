@@ -3,14 +3,11 @@
 use strict;
 use Spreadsheet::ParseExcel;
 use utf8;
+use File::Basename;
+
 
 use Text::CSV;
 my $parser   = Spreadsheet::ParseExcel->new();
-my $workbook = $parser->parse($ARGV[0]);
-
-if ( !defined $workbook ) {
-	die $parser->error(), ".\n";
-}
 =pod
 MUNICÍPIOS  / INDICADORES
 Homicídio
@@ -40,7 +37,7 @@ my %expected_header = (
 	estelionato => qr /estelionato/io,
 	delitos_corrupcao => qr /Delitos relac. à corrupção/io,
 	posse_entorpecente   => qr /entorp\. posse/io,
-	delitos_municoes     => qr /Delitos relac. a armas e munições/io,
+	delitos_municoes     => qr /Delitos relac.+ a armas e munições/io,
 	trafico_entorpecente => qr /entorp\. tr.fico/io,
 );
 my @ordem_colunas = qw /municipio homicidio furtos_veiculo furtos roubos latrocionio roubo_veiculo
@@ -49,14 +46,22 @@ extorsao extorsao_sequesto estelionato delitos_corrupcao posse_entorpecente deli
 my $csv = Text::CSV->new ( { binary => 1,eol => $/  } )  # should set binary attribute.
 				or die "Cannot use CSV: ".Text::CSV->error_diag ();
 
-my $out_file = $ARGV[0];
-$out_file =~ s/xls/csv/g;
+my($ano) = $ARGV[0] =~ /__(\d{4})__/;
+
+my $out_file = "../../data-transform/xls2csv/ano-$ano.csv";
+
 
 open my $fh, ">:encoding(utf8)", $out_file or die "$out_file: $!";
 $csv->print ($fh, \@ordem_colunas);
-
+print "writing on $out_file\n";
 # apenas para exibir
 my $reg_num        = 0;
+
+my $workbook = $parser->parse($ARGV[0]);
+
+if ( !defined $workbook ) {
+	die $parser->error(), ".\n";
+}
 
 for my $worksheet ( $workbook->worksheets() ) {
 	
@@ -126,3 +131,4 @@ for my $worksheet ( $workbook->worksheets() ) {
 
 }
 close $fh or die "$out_file: $!";
+print "done!\n";
