@@ -8,7 +8,7 @@ BEGIN { extends 'Catalyst::Controller' }
 # Sets the actions in this controller to be registered with no prefix
 # so they function identically to actions created in MyApp.pm
 #
-__PACKAGE__->config(namespace => '');
+__PACKAGE__->config( namespace => '' );
 
 =head1 NAME
 
@@ -26,11 +26,10 @@ The root page (/)
 
 =cut
 
-sub index :Path :Args(0) {
-    my ( $self, $c ) = @_;
+sub base : Chained('/') PathPart('') : CaptureArgs(0) {
+}
 
-    # Hello World
-    $c->response->body( $c->welcome_message );
+sub root : Chained('base') PathPart('') Args(0) {
 }
 
 =head2 default
@@ -39,9 +38,9 @@ Standard 404 error page
 
 =cut
 
-sub default :Path {
+sub error_404 : Chained('base') PathPart('') Args {
     my ( $self, $c ) = @_;
-    $c->response->body( 'Page not found' );
+    $c->response->body('Page not found');
     $c->response->status(404);
 }
 
@@ -51,7 +50,8 @@ Attempt to render a view, if needed.
 
 =cut
 
-sub end : ActionClass('RenderView') {}
+sub end : ActionClass('RenderView') {
+}
 
 =head1 AUTHOR
 
