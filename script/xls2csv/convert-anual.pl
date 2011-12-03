@@ -37,7 +37,7 @@ my %expected_header = (
 	estelionato => qr /estelionato/io,
 	delitos_corrupcao => qr /Delitos relac. à corrupção/io,
 	posse_entorpecente   => qr /entorp\. posse/io,
-	delitos_municoes     => qr /Delitos relac. a armas e munições/io,
+	delitos_municoes     => qr /Delitos relac.+ a armas e munições/io,
 	trafico_entorpecente => qr /entorp\. tr.fico/io,
 );
 my @ordem_colunas = qw /municipio homicidio furtos_veiculo furtos roubos latrocionio roubo_veiculo
