@@ -23,12 +23,7 @@ body {
 	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #333333), color-stop(100%, #222222));
 	background-image: -webkit-linear-gradient(top, #333333, #222222);
 	background-image: -o-linear-gradient(top, #333333, #222222);
-	background-image: linear-gradient(top, #333333, #222222);
-	
-	/*height: 400px; vc pode definir aqui se quiser
-	 *		ai ja faz um .footer > span4 {  height: XPTO  } pra poder por tracinhos entre as bordas
-	 */
-	
+	background-image: linear-gradient(top, #333333, #222222);	
 }
 .margem {
 	padding: 30px 0;
