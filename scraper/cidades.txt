@@ -1,0 +1,496 @@
+Aceguá|430003
+Água Santa|430005
+Agudo|430010
+Ajuricaba|430020
+Alecrim|430030
+Alegrete|430040
+Alegria|430045
+Almirante Tamandaré do Sul|430047
+Alpestre|430050
+Alto Alegre|430055
+Alto Feliz|430057
+Alvorada|430060
+Amaral Ferrador|430063
+Ametista do Sul|430064
+André da Rocha|430066
+Anta Gorda|430070
+Antônio Prado|430080
+Arambaré|430085
+Araricá|430087
+Aratiba|430090
+Arroio do Meio|430100
+Arroio do Padre|430107
+Arroio do Sal|430105
+Arroio do Tigre|430120
+Arroio dos Ratos|430110
+Arroio Grande|430130
+Arvorezinha|430140
+Augusto Pestana|430150
+Áurea|430155
+Bagé|430160
+Balneário Pinhal|430163
+Barão|430165
+Barão de Cotegipe|430170
+Barão do Triunfo|430175
+Barra do Guarita|430185
+Barra do Quaraí|430187
+Barra do Ribeiro|430190
+Barra do Rio Azul|430192
+Barra Funda|430195
+Barracão|430180
+Barros Cassal|430200
+Benjamin Constant do Sul|430205
+Bento Gonçalves|430210
+Boa Vista das Missões|430215
+Boa Vista do Buricá|430220
+Boa Vista do Cadeado|430222
+Boa Vista do Incra|430223
+Boa Vista do Sul|430225
+Bom Jesus|430230
+Bom Princípio|430235
+Bom Progresso|430237
+Bom Retiro do Sul|430240
+Boqueirão do Leão|430245
+Bossoroca|430250
+Bozano|430258
+Braga|430260
+Brochier|430265
+Butiá|430270
+Caçapava do Sul|430280
+Cacequi|430290
+Cachoeira do Sul|430300
+Cachoeirinha|430310
+Cacique Doble|430320
+Caibaté|430330
+Caiçara|430340
+Camaquã|430350
+Camargo|430355
+Cambará do Sul|430360
+Campestre da Serra|430367
+Campina das Missões|430370
+Campinas do Sul|430380
+Campo Bom|430390
+Campo Novo|430400
+Campos Borges|430410
+Candelária|430420
+Cândido Godói|430430
+Candiota|430435
+Canela|430440
+Canguçu|430450
+Canoas|430460
+Canudos do Vale|430461
+Capão Bonito do Sul|430462
+Capão da Canoa|430463
+Capão do Cipó|430465
+Capão do Leão|430466
+Capela de Santana|430468
+Capitão|430469
+Capivari do Sul|430467
+Caraá|430471
+Carazinho|430470
+Carlos Barbosa|430480
+Carlos Gomes|430485
+Casca|430490
+Caseiros|430495
+Catuípe|430500
+Caxias do Sul|430510
+Centenário|430511
+Cerrito|430512
+Cerro Branco|430513
+Cerro Grande|430515
+Cerro Grande do Sul|430517
+Cerro Largo|430520
+Chapada|430530
+Charqueadas|430535
+Charrua|430537
+Chiapetta|430540
+Chuí|430543
+Chuvisca|430544
+Cidreira|430545
+Ciríaco|430550
+Colinas|430558
+Colorado|430560
+Condor|430570
+Constantina|430580
+Coqueiro Baixo|430583
+Coqueiros do Sul|430585
+Coronel Barros|430587
+Coronel Bicaco|430590
+Coronel Pilar|430593
+Cotiporã|430595
+Coxilha|430597
+Crissiumal|430600
+Cristal|430605
+Cristal do Sul|430607
+Cruz Alta|430610
+Cruzaltense|430613
+Cruzeiro do Sul|430620
+David Canabarro|430630
+Derrubadas|430632
+Dezesseis de Novembro|430635
+Dilermando de Aguiar|430637
+Dois Irmãos|430640
+Dois Irmãos das Missões|430642
+Dois Lajeados|430645
+Dom Feliciano|430650
+Dom Pedrito|430660
+Dom Pedro de Alcântara|430655
+Dona Francisca|430670
+Doutor Maurício Cardoso|430673
+Doutor Ricardo|430675
+Eldorado do Sul|430676
+Encantado|430680
+Encruzilhada do Sul|430690
+Engenho Velho|430692
+Entre Rios do Sul|430695
+Entre-Ijuís|430693
+Erebango|430697
+Erechim|430700
+Ernestina|430705
+Erval Grande|430720
+Erval Seco|430730
+Esmeralda|430740
+Esperança do Sul|430745
+Espumoso|430750
+Estação|430755
+Estância Velha|430760
+Esteio|430770
+Estrela|430780
+Estrela Velha|430781
+Eugênio de Castro|430783
+Fagundes Varela|430786
+Farroupilha|430790
+Faxinal do Soturno|430800
+Faxinalzinho|430805
+Fazenda Vilanova|430807
+Feliz|430810
+Flores da Cunha|430820
+Floriano Peixoto|430825
+Fontoura Xavier|430830
+Formigueiro|430840
+Forquetinha|430843
+Fortaleza dos Valos|430845
+Frederico Westphalen|430850
+Garibaldi|430860
+Garruchos|430865
+Gaurama|430870
+General Câmara|430880
+Gentil|430885
+Getúlio Vargas|430890
+Giruá|430900
+Glorinha|430905
+Gramado|430910
+Gramado dos Loureiros|430912
+Gramado Xavier|430915
+Gravataí|430920
+Guabiju|430925
+Guaíba|430930
+Guaporé|430940
+Guarani das Missões|430950
+Harmonia|430955
+Herval|430710
+Herveiras|430957
+Horizontina|430960
+Hulha Negra|430965
+Humaitá|430970
+Ibarama|430975
+Ibiaçá|430980
+Ibiraiaras|430990
+Ibirapuitã|430995
+Ibirubá|431000
+Igrejinha|431010
+Ijuí|431020
+Ilópolis|431030
+Imbé|431033
+Imigrante|431036
+Independência|431040
+Inhacorá|431041
+Ipê|431043
+Ipiranga do Sul|431046
+Iraí|431050
+Itaara|431053
+Itacurubi|431055
+Itapuca|431057
+Itaqui|431060
+Itati|431065
+Itatiba do Sul|431070
+Ivorá|431075
+Ivoti|431080
+Jaboticaba|431085
+Jacuizinho|431087
+Jacutinga|431090
+Jaguarão|431100
+Jaguari|431110
+Jaquirana|431112
+Jari|431113
+Jóia|431115
+Júlio de Castilhos|431120
+Lagoa Bonita do Sul|431123
+Lagoa dos Três Cantos|431127
+Lagoa Vermelha|431130
+Lagoão|431125
+Lajeado|431140
+Lajeado do Bugre|431142
+Lavras do Sul|431150
+Liberato Salzano|431160
+Lindolfo Collor|431162
+Linha Nova|431164
+Maçambara|431171
+Machadinho|431170
+Mampituba|431173
+Manoel Viana|431175
+Maquiné|431177
+Maratá|431179
+Marau|431180
+Marcelino Ramos|431190
+Mariana Pimentel|431198
+Mariano Moro|431200
+Marques de Souza|431205
+Mata|431210
+Mato Castelhano|431213
+Mato Leitão|431215
+Mato Queimado|431217
+Maximiliano de Almeida|431220
+Minas do Leão|431225
+Miraguaí|431230
+Montauri|431235
+Monte Alegre dos Campos|431237
+Monte Belo do Sul|431238
+Montenegro|431240
+Mormaço|431242
+Morrinhos do Sul|431244
+Morro Redondo|431245
+Morro Reuter|431247
+Mostardas|431250
+Muçum|431260
+Muitos Capões|431261
+Muliterno|431262
+Não-Me-Toque|431265
+Nicolau Vergueiro|431267
+Nonoai|431270
+Nova Alvorada|431275
+Nova Araçá|431280
+Nova Bassano|431290
+Nova Boa Vista|431295
+Nova Bréscia|431300
+Nova Candelária|431301
+Nova Esperança do Sul|431303
+Nova Hartz|431306
+Nova Pádua|431308
+Nova Palma|431310
+Nova Petrópolis|431320
+Nova Prata|431330
+Nova Ramada|431333
+Nova Roma do Sul|431335
+Nova Santa Rita|431337
+Novo Barreiro|431349
+Novo Cabrais|431339
+Novo Hamburgo|431340
+Novo Machado|431342
+Novo Tiradentes|431344
+Novo Xingu|431346
+Osório|431350
+Paim Filho|431360
+Palmares do Sul|431365
+Palmeira das Missões|431370
+Palmitinho|431380
+Panambi|431390
+Pantano Grande|431395
+Paraí|431400
+Paraíso do Sul|431402
+Pareci Novo|431403
+Parobé|431405
+Passa Sete|431406
+Passo do Sobrado|431407
+Passo Fundo|431410
+Paulo Bento|431413
+Paverama|431415
+Pedras Altas|431417
+Pedro Osório|431420
+Pejuçara|431430
+Pelotas|431440
+Picada Café|431442
+Pinhal|431445
+Pinhal da Serra|431446
+Pinhal Grande|431447
+Pinheirinho do Vale|431449
+Pinheiro Machado|431450
+Pirapó|431455
+Piratini|431460
+Planalto|431470
+Poço das Antas|431475
+Pontão|431477
+Ponte Preta|431478
+Portão|431480
+Porto Alegre|431490
+Porto Lucena|431500
+Porto Mauá|431505
+Porto Vera Cruz|431507
+Porto Xavier|431510
+Pouso Novo|431513
+Presidente Lucena|431514
+Progresso|431515
+Protásio Alves|431517
+Putinga|431520
+Quaraí|431530
+Quatro Irmãos|431531
+Quevedos|431532
+Quinze de Novembro|431535
+Redentora|431540
+Relvado|431545
+Restinga Seca|431550
+Rio dos Índios|431555
+Rio Grande|431560
+Rio Pardo|431570
+Riozinho|431575
+Roca Sales|431580
+Rodeio Bonito|431590
+Rolador|431595
+Rolante|431600
+Ronda Alta|431610
+Rondinha|431620
+Roque Gonzales|431630
+Rosário do Sul|431640
+Sagrada Família|431642
+Saldanha Marinho|431643
+Salto do Jacuí|431645
+Salvador das Missões|431647
+Salvador do Sul|431650
+Sananduva|431660
+Santa Bárbara do Sul|431670
+Santa Cecília do Sul|431673
+Santa Clara do Sul|431675
+Santa Cruz do Sul|431680
+Santa Margarida do Sul|431697
+Santa Maria|431690
+Santa Maria do Herval|431695
+Santa Rosa|431720
+Santa Tereza|431725
+Santa Vitória do Palmar|431730
+Santana da Boa Vista|431700
+Santana do Livramento|431710
+Santiago|431740
+Santo Ângelo|431750
+Santo Antônio da Patrulha|431760
+Santo Antônio das Missões|431770
+Santo Antônio do Palma|431755
+Santo Antônio do Planalto|431775
+Santo Augusto|431780
+Santo Cristo|431790
+Santo Expedito do Sul|431795
+São Borja|431800
+São Domingos do Sul|431805
+São Francisco de Assis|431810
+São Francisco de Paula|431820
+São Gabriel|431830
+São Jerônimo|431840
+São João da Urtiga|431842
+São João do Polêsine|431843
+São Jorge|431844
+São José das Missões|431845
+São José do Herval|431846
+São José do Hortêncio|431848
+São José do Inhacorá|431849
+São José do Norte|431850
+São José do Ouro|431860
+São José do Sul|431861
+São José dos Ausentes|431862
+São Leopoldo|431870
+São Lourenço do Sul|431880
+São Luiz Gonzaga|431890
+São Marcos|431900
+São Martinho|431910
+São Martinho da Serra|431912
+São Miguel das Missões|431915
+São Nicolau|431920
+São Paulo das Missões|431930
+São Pedro da Serra|431935
+São Pedro das Missões|431936
+São Pedro do Butiá|431937
+São Pedro do Sul|431940
+São Sebastião do Caí|431950
+São Sepé|431960
+São Valentim|431970
+São Valentim do Sul|431971
+São Valério do Sul|431973
+São Vendelino|431975
+São Vicente do Sul|431980
+Sapiranga|431990
+Sapucaia do Sul|432000
+Sarandi|432010
+Seberi|432020
+Sede Nova|432023
+Segredo|432026
+Selbach|432030
+Senador Salgado Filho|432032
+Sentinela do Sul|432035
+Serafina Corrêa|432040
+Sério|432045
+Sertão|432050
+Sertão Santana|432055
+Sete de Setembro|432057
+Severiano de Almeida|432060
+Silveira Martins|432065
+Sinimbu|432067
+Sobradinho|432070
+Soledade|432080
+Tabaí|432085
+Tapejara|432090
+Tapera|432100
+Tapes|432110
+Taquara|432120
+Taquari|432130
+Taquaruçu do Sul|432132
+Tavares|432135
+Tenente Portela|432140
+Terra de Areia|432143
+Teutônia|432145
+Tio Hugo|432146
+Tiradentes do Sul|432147
+Toropi|432149
+Torres|432150
+Tramandaí|432160
+Travesseiro|432162
+Três Arroios|432163
+Três Cachoeiras|432166
+Três Coroas|432170
+Três de Maio|432180
+Três Forquilhas|432183
+Três Palmeiras|432185
+Três Passos|432190
+Trindade do Sul|432195
+Triunfo|432200
+Tucunduva|432210
+Tunas|432215
+Tupanci do Sul|432218
+Tupanciretã|432220
+Tupandi|432225
+Tuparendi|432230
+Turuçu|432232
+Ubiretama|432234
+União da Serra|432235
+Unistalda|432237
+Uruguaiana|432240
+Vacaria|432250
+Vale do Sol|432253
+Vale Real|432254
+Vale Verde|432252
+Vanini|432255
+Venâncio Aires|432260
+Vera Cruz|432270
+Veranópolis|432280
+Vespasiano Correa|432285
+Viadutos|432290
+Viamão|432300
+Vicente Dutra|432310
+Victor Graeff|432320
+Vila Flores|432330
+Vila Lângaro|432335
+Vila Maria|432340
+Vila Nova do Sul|432345
+Vista Alegre|432350
+Vista Alegre do Prata|432360
+Vista Gaúcha|432370
+Vitória das Missões|432375
+Westfália|432377
+Xangri-lá|432380

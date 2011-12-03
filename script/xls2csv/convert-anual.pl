@@ -41,7 +41,7 @@ my %expected_header = (
 	trafico_entorpecente => qr /entorp\. tr.fico/io,
 );
 my @ordem_colunas = qw /municipio homicidio furtos_veiculo furtos roubos latrocionio roubo_veiculo
-extorsao extorsao_sequesto estelionato delitos_corrupcao posse_entorpecente delitos_municoes trafico_entorpecente/;
+extorsao extorsao_sequesto estelionato delitos_corrupcao posse_entorpecente delitos_municoes trafico_entorpecente ano/;
 
 my $csv = Text::CSV->new ( { binary => 1,eol => $/  } )  # should set binary attribute.
 				or die "Cannot use CSV: ".Text::CSV->error_diag ();
@@ -112,7 +112,7 @@ for my $worksheet ( $workbook->worksheets() ) {
 					){
 					$abort = 1; last;
 				}
-				next if ();
+				
 				$registro->{$header_name} = $value;
 			}
 			next if $abort;
@@ -120,6 +120,7 @@ for my $worksheet ( $workbook->worksheets() ) {
 			# se existe alguma chave, algum conteudo foi encontrado
 			if (keys %$registro > 3){
 				$reg_num++;
+				$registro->{ano} = $ano;
 				my $item = [];
 				push(@$item, $registro->{$_}) for @ordem_colunas;
 				$csv->print ($fh, $item);

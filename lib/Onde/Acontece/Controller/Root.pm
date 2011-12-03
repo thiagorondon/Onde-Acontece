@@ -32,6 +32,15 @@ sub base : Chained('/') PathPart('') : CaptureArgs(0) {
 sub root : Chained('base') PathPart('') Args(0) {
 }
 
+sub contato : Chained('base') Args(0) {
+}
+
+sub faq : Chained('base') {
+}
+
+sub sobre : Chained('base') {
+}
+
 =head2 default
 
 Standard 404 error page
