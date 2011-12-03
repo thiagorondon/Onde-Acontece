@@ -2,6 +2,7 @@ package Onde::Acontece::View::TT;
 
 use strict;
 use warnings;
+use Template::AutoFilter;
 
 use base 'Catalyst::View::TT';
 
@@ -9,6 +10,8 @@ __PACKAGE__->config(
     TEMPLATE_EXTENSION => '.tt',
     WRAPPER            => 'wrapper.tt',
     render_die => 1,
+
+	CLASS => 'Template::AutoFilter',
 );
 
 =head1 NAME
