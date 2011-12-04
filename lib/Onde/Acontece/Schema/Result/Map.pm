@@ -6,7 +6,7 @@ package Onde::Acontece::Schema::Result::Map;
 
 =head1 NAME
 
-Onde::Acontece::Schema::Result::MapCountry
+Onde::Acontece::Schema::Result::Map
 
 =cut
 
@@ -15,7 +15,7 @@ use warnings;
 
 use base 'DBIx::Class::Core';
 
-=head1 TABLE: C<map_country>
+=head1 TABLE: C<map>
 
 =cut
 
@@ -28,7 +28,7 @@ __PACKAGE__->table("map");
   data_type: 'integer'
   is_auto_increment: 1
   is_nullable: 0
-  sequence: 'map_country_gid_seq'
+  sequence: 'map_gid_seq'
 
 =head2 geocodig_m
 
@@ -38,56 +38,54 @@ __PACKAGE__->table("map");
 
 =head2 uf
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 sigla
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 nome_municipio
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 regiao
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 mesorregiao
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 nome_mesoregiao
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 microrregiao
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 nome_microrregiao
 
-  data_type: 'varchar'
+  data_type: 'text'
   is_nullable: 1
-  size: 254
 
 =head2 the_geom
 
   data_type: 'geometry'
   is_nullable: 1
+
+=head2 state_id
+
+  data_type: 'integer'
+  is_foreign_key: 1
+  is_nullable: 0
 
 =cut
 
@@ -97,28 +95,30 @@ __PACKAGE__->add_columns(
     data_type         => "integer",
     is_auto_increment => 1,
     is_nullable       => 0,
-    sequence          => "map_country_gid_seq",
+    sequence          => "map_gid_seq",
   },
   "geocodig_m",
   { data_type => "numeric", is_nullable => 1, size => [10, 0] },
   "uf",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "sigla",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "nome_municipio",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "regiao",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "mesorregiao",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "nome_mesoregiao",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "microrregiao",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "nome_microrregiao",
-  { data_type => "varchar", is_nullable => 1, size => 254 },
+  { data_type => "text", is_nullable => 1 },
   "the_geom",
   { data_type => "geometry", is_nullable => 1 },
+  "state_id",
+  { data_type => "integer", is_foreign_key => 1, is_nullable => 0 },
 );
 
 =head1 PRIMARY KEY
@@ -133,9 +133,26 @@ __PACKAGE__->add_columns(
 
 __PACKAGE__->set_primary_key("gid");
 
+=head1 RELATIONS
 
-# Created by DBIx::Class::Schema::Loader v0.07014 @ 2011-12-03 17:35:07
-# DO NOT MODIFY THIS OR ANYTHING ABOVE! md5sum:g2WEIQ68RMnJMlGnstDeqQ
+=head2 state
+
+Type: belongs_to
+
+Related object: L<Onde::Acontece::Schema::Result::State>
+
+=cut
+
+__PACKAGE__->belongs_to(
+  "state",
+  "Onde::Acontece::Schema::Result::State",
+  { gid => "state_id" },
+  { is_deferrable => 1, on_delete => "CASCADE", on_update => "CASCADE" },
+);
+
+
+# Created by DBIx::Class::Schema::Loader v0.07014 @ 2011-12-03 23:20:53
+# DO NOT MODIFY THIS OR ANYTHING ABOVE! md5sum:4hy4CI85QZaNiHzc9St9vQ
 
 
 # You can replace this text with custom code or comments, and it will be preserved on regeneration
