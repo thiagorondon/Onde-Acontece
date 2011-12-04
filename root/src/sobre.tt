@@ -2,12 +2,13 @@
 <h2>Sobre</h2>
 
 <p>
-Este projeto foi desenvolvido durante o evento "<a target="_blank" href="http://desarrollandoamerica.org/">
-Desarrolando America</a>" pela comunidade "<a target="_blank" href="http://sao-paulo.pm.org/">São Paulo 
+Este projeto foi desenvolvido durante o evento 
+"<a target="_blank" href="http://desarrollandoamerica.org/">Desarrolando America</a>" 
+pela comunidade "<a target="_blank" href="http://sao-paulo.pm.org/">São Paulo 
 Perl Mongers</a>" e <a target="_blank" href="http://www.opendatabr.org/">Opendata-BR</a>".
 </p>
 
-<h2>Descrição da Ideia</h2>
+<h2>Descrição da Idéia</h2>
 
 <p>
 Estimular a divulgação de dados sobre segurança pública dos estados,
@@ -28,7 +29,7 @@ demonstrar o "ranking" das regiões nos diversos tipos de ocorrências.
 <h2>Fontes de Dados</h2>
 
 <p>
-Iremos utilizar dados provenientes do IBGE (Instituto Brasileiro de
+Utilizamos os dados provenientes do IBGE (Instituto Brasileiro de
 Geografia e Estatística) contendo os polígonos dos mapas e informações
 de georeferenciamento, além dos dados do censo. Os dados do IBGE serão
 cruzados com dados fornecidos pela SSP (Secretaria de Segurança
@@ -39,4 +40,14 @@ dados do Rio Grande do Sul estarão disponíveis, mas acreditamos que
 quando a aplicação estiver funcionando, outros estados serão
 pressionados a divulgar seus dados também.
 </p>
+
+<ul>
+<li><a href="http://www.ibge.gov.br/cidadesat/link.php?uf=rs">http://www.ibge.gov.br/cidadesat/link.php?uf=rs</a></li>
+
+<li><a href="http://www.ssp.rs.gov.br/portal/principal.php?action=estatistica&cod_catestat=36">http://www.ssp.rs.gov.br/</a></li>
+
+<li><a href="ftp://geoftp.ibge.gov.br/mapas/malhas_digitais/municipio_2007/Malha_Municipal_Digital_2007_2500/Disseminacao_2007/Proj_Geografica/SAD_69/ArcView_Shp/2007/E2500/UF/">ftp://geoftp.ibge.gov.br/mapas/malhas_digitais/</a></li>
+
+<li><a href="http://mapicons.nicolasmollet.com/">http://mapicons.nicolasmollet.com/</a></li>
+</ul>
 

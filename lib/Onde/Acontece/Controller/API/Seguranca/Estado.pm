@@ -11,7 +11,8 @@ sub base : Chained('/api/seguranca/base') PathPart('') CaptureArgs(0) {
 
 sub object : Chained('base') : PathPart('') : CaptureArgs(1) {
   my ( $self, $c, $uf ) = @_;
-  $c->stash->{estado} = $c->model('DB::State')->search( { 'me.uf' => $uf } )
+  $c->stash->{estado} = $c->stash->{object} =
+       $c->model('DB::State')->search( { 'me.uf' => $uf } )
     or $c->detach('/error_404');
 }
 
@@ -58,28 +59,31 @@ sub view_GET {
 
 }
 
-sub municipio_info : Chained('object') : PathPart('info') {
-  my ( $self, $c ) = @_;
+sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
+  my ( $self, $c, $nome ) = @_;
   my $m = $c->stash->{object}->related_resultset('municipios')->search(
-    { tipo => { -not => undef } },
+    {
+      tipo                        => { -not => undef },
+      'municipios.nome'           => $nome,
+      'ocorrencias_municipio.ano' => $c->req->params->{ano}
+    },
     {
       select => [
         qw(municipios.nome ocorrencia.tipo ocorrencias_municipio.ano ocorrencias_municipio.quant)
       ],
-      as   => [qw(nome tipo ano quant)],
-      join => { ocorrencias_municipio => 'ocorrencia' },
+      as   => [qw(nome ocorrencia.tipo ano ocorrencia.quant)],
+     join => { ocorrencias_municipio => 'ocorrencia' },
       order_by =>
         [qw(ocorrencias_municipio.ano ocorrencia.tipo municipios.nome )],
       result_class => 'DBIx::Class::ResultClass::HashRefInflator'
     }
   );
   my %mun;
-  for my $r ( $m->all ) {
-    push @{ $mun{ $r->{nome} }{ $r->{tipo} } },
-      [ $r->{ano}, $r->{quant} ];
-  }
+   for my $r ( $m->all ) {
+     push @{ $mun{ $r->{tipo} }}, { label  => $r->{ocorrencia}{tipo}, data =>  [ $r->{ano}, $r->{ocorrencia}{quant} ]};
+   }
 
-  $self->status_ok($c, entity => \%mun);
+  $self->status_ok( $c, entity => { ocorrencias => \%mun } );
 
 }
 __PACKAGE__->meta->make_immutable;
