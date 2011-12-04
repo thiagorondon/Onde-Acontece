@@ -33,8 +33,9 @@ sub base : Chained('/') PathPart('') : CaptureArgs(0) {
 sub root : Chained('base') PathPart('') Args(0) {
   my ( $self, $c ) = @_;
 
-  $c->res->redirect(
-    $c->uri_for( $c->controller('Topico')->action_for('visao_geral') ) );
+#  $c->res->redirect(
+#    $c->uri_for( $c->controller('Topico')->action_for('visao_geral') ) );
+
 }
 
 sub contato : Chained('base') Args(0) {
