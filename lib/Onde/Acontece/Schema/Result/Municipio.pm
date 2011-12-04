@@ -27,6 +27,9 @@ has_many ocorrencias_municipio =>
   'Onde::Acontece::Schema::Result::OcorrenciaMunicipio' =>
   { 'foreign.municipio_id' => 'self.id' };
 
+has_many municipio_censo => 'Onde::Acontece::Schema::Result::MunicipioCenso' =>
+  { 'foreign.municipio_id' => 'self.id' };
+
 many_to_many ocorrencias => ocorrencias_municipio => 'ocorrencia';
 
 1;

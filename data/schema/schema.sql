@@ -487,6 +487,7 @@ create table municipio_censo (
   municipio_id integer not null,
   descricao varchar(255) not null,
   valor float,
+  primary key (municipio_id, descricao),
   foreign key (municipio_id) references municipios(id)
 );
 

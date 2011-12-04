@@ -20,5 +20,4 @@ column nome => {
   is_nullable => 1,
 };
 
-
 1;

@@ -13,9 +13,3 @@ update ocorrencias set nome = 'Delitos relac. à corrupção' where id = 10;
 update ocorrencias set nome = 'Posse Entorpecentes' where id = 11;
 update ocorrencias set nome = 'Delitos relac. a armas e munições' where id = 12;
 update ocorrencias set nome = 'Tráfico Entorpecentes' where id = 13;
-
-
-
-
-
-

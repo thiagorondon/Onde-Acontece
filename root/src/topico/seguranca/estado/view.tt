@@ -22,7 +22,7 @@
       <label>Município</label>
 		<select name="municipio" class="span3">
 			<option value="">Todos</option>
-			[% FOR m IN object.related_resultset('municipios').all %]
+			[% FOR m IN municipios_lista %]
 			<option value="[% m.nome %]" [% IF c.req.params.municipio == m.nome %]selected=selected[% END %]>[% m.nome %]</option>
 			[% END %]
 		</select>
@@ -49,32 +49,27 @@
 					<ul>
 						<li><a href="#index">Indíces</a></li>
 						<li><a href="#ranking">Ranking</a></li>
+						<li><a href="#ocorrencias">Números do Estado</a></li>
 						<li><a href="#municipio">Números do Município</a></li>
-						<li><a href="#estado">Números do Estado</a></li>
 					</ul>
+				</div>
+				<div class="well">
+					<b>Percentual baseado em ocorrências/população</b><br /><br />
+					<span class="label important" style="width:30px; height: 1em; display:inline-block;">&nbsp;</span> Maior Índice<br />
+					<span style="background-color:#FEE0D2; width:30px;height: 1em;display:inline-block; " class="label">&nbsp;</span> Menor Índice<br />
+					<span style="background-color: blue;width:30px;height: 1em;display:inline-block; " class="label">&nbsp;</span> Município atual<br />
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> 
 	<h2 id="index">Indíces</h2>
-	<div class="indicadores well">
+	<div class="indicadores well span10">
 		<p><img src="/static/images/pib.png">PIB $$</p>
 		<p><img src="/static/images/grupo.png"/>3 homicídios por 1000 habitantes (total: 10000 habitantes)</p>
 		<p><img src="/static/images/grupo-0.png"/>nenhum homicídio registrado (total: 10000 habitantes)</p>
 		<p><img src="/static/images/territorio.png"/>3 homicídios por 1000 km² (total: 10000 km²)</p>
 		<p><img src="/static/images/territorio-0.png"/>nenhum homicídio km² (total: 10000 km²)</p>
-
 	</div>
-
-	<div id="graficos">
-		<div class="row">
-			<div class="span14">
-				<h3>Acompanhamento Anual de ocorrências</h3>
-				<div id="lines" style="width:570px;height:350px;"></div>
-			</div>
-		</div>
-	</div>
-	</br>
 
     <table id="ocorrencias" class="zebra-striped bordered-table">
         <tr><th></th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
@@ -86,14 +81,25 @@
         </tr>
       [% END %]
     </table>
-      [% FOREACH m IN mun.keys.sort %]
-        <table class="zebra-striped bordered-table" >
-          <tr><th>[% m %]</th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
-          [% FOREACH t IN mun.$m.keys.sort %]
-            <tr>
-              <td>[% t %]</td>[% FOREACH y IN mun.$m.$t %]<td>[% y.1 %]</td>[% END %]
-            </tr>
-          [% END %]
-        </table>
-      [% END %]
+
+	[% FOREACH m IN mun.keys.sort %]
+	<div id="graficos">
+		<div class="row">
+			<div class="span14">
+				<h3>Acompanhamento Anual de ocorrências: [%m%]</h3>
+				<div id="lines" style="width:570px;height:350px;"></div>
+			</div>
+		</div>
+	</div>
+	<br />
+	<table id="municipio" class="zebra-striped bordered-table" >
+		<tr><th>[% m %]</th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
+		[% FOREACH t IN mun.$m.keys.sort %]
+		<tr>
+			<td>[% t %]</td>[% FOREACH y IN mun.$m.$t %]<td>[% y.1 %]</td>[% END %]
+		</tr>
+		[% END %]
+	</table>
+	[% END %]
+
 </div>
