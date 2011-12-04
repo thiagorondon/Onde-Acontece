@@ -481,10 +481,7 @@ ALTER TABLE ONLY seguranca_ocorrencias
 --
 
 REVOKE ALL ON SCHEMA public FROM PUBLIC;
-REVOKE ALL ON SCHEMA public FROM edenc;
-GRANT ALL ON SCHEMA public TO edenc;
 GRANT ALL ON SCHEMA public TO PUBLIC;
-
 
 --
 -- PostgreSQL database dump complete
