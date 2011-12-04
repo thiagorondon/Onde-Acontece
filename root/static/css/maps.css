@@ -14,3 +14,13 @@ svg {
   stroke: #fff;
   stroke-width: 1.5px;
 }
+
+#chart {
+    float: left;
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+.tipsy {
+    z-index: 10000;
+}
