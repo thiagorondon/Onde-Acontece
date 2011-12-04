@@ -16,7 +16,7 @@ $(function () {
 		for (var k in datasets){
 			data.push(datasets[k]);
 		}
-		console.log(data);
+		
 		$.plot($("#lines"), data, {
 			yaxis: { min: 0 },
 		   xaxis: { tickDecimals: 0 }

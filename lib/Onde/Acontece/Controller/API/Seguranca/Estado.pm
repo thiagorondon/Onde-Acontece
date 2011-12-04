@@ -68,9 +68,9 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
     },
     {
       select => [
-        qw(municipios.nome ocorrencia.tipo ocorrencias_municipio.ano ocorrencias_municipio.quant)
+        qw(municipios.nome ocorrencia.tipo ocorrencia.nome ocorrencias_municipio.ano ocorrencias_municipio.quant)
       ],
-      as   => [qw(nome ocorrencia.tipo ano ocorrencia.quant)],
+      as   => [qw(nome ocorrencia.tipo ocorrencia.nome_oco ano ocorrencia.quant)],
      join => { ocorrencias_municipio => 'ocorrencia' },
       order_by =>
         [qw(ocorrencias_municipio.ano ocorrencia.tipo municipios.nome )],
@@ -78,9 +78,10 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
     }
   );
 
-  my %mun;
+   my %mun;
    for my $r ( $m->all ) {
-	 $mun{ $r->{ocorrencia}{tipo} }{label} ||= $r->{ocorrencia}{tipo};
+
+	 $mun{ $r->{ocorrencia}{tipo} }{label} ||= $r->{ocorrencia}{nome_oco};
 		
      push @{ $mun{ $r->{ocorrencia}{tipo} }{data} },  [ $r->{ano}, $r->{ocorrencia}{quant} ];
    }
