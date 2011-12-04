@@ -6,16 +6,16 @@
 			<label>Ano</label>
 
 			<select name="ano" class="span3">
-				<option value="2002">2002</option>
-				<option value="2003">2003</option>
-				<option value="2004">2004</option>
-				<option value="2005">2005</option>
-				<option value="2006">2006</option>
-				<option value="2007">2007</option>
-				<option value="2008">2008</option>
-				<option value="2009">2009</option>
-				<option value="2010">2010</option>
 				<option value="2011">2011</option>
+				<option value="2010">2010</option>
+				<option value="2009">2009</option>
+				<option value="2008">2008</option>
+				<option value="2007">2007</option>
+				<option value="2006">2006</option>
+				<option value="2005">2005</option>
+				<option value="2004">2004</option>
+				<option value="2003">2003</option>
+				<option value="2002">2002</option>
 			</select>
 		</div>
 		<div class="clearfix row">
@@ -36,7 +36,12 @@
 				<option value="12">Delitos relac. a armas e munições</option>
 				<option value="13">Entorp. Tráfico</option>
 			</select>
-
+    </div>
+    <div class="clearfix row">
+      <label>Município</label>
+      <select name="municipio" class="span3">
+        <option value="">Todos</option>
+      </select>
 		</div>
 		<div class="clearfix row">
 			<button class="btn primary">Visualizar</button>
