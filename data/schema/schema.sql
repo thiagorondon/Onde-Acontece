@@ -180,7 +180,11 @@ ALTER SEQUENCE municipio_maps_id_seq OWNED BY municipio_maps.id;
 CREATE TABLE municipios (
     id integer NOT NULL,
     nome character varying(255) NOT NULL,
-    estado_id integer NOT NULL
+    estado_id integer NOT NULL,
+    the_geom geometry,
+    CONSTRAINT enforce_dims_the_geom CHECK ((st_ndims(the_geom) = 2)),
+    CONSTRAINT enforce_geotype_the_geom CHECK (((geometrytype(the_geom) = 'MULTIPOLYGON'::text) OR (the_geom IS NULL))),
+    CONSTRAINT enforce_srid_the_geom CHECK ((st_srid(the_geom) = (-1)))
 );
 
 
@@ -210,7 +214,8 @@ ALTER SEQUENCE municipios_id_seq OWNED BY municipios.id;
 CREATE TABLE ocorrencia_municipios (
     ocorrencia_id integer NOT NULL,
     municipio_id integer NOT NULL,
-    quant integer NOT NULL
+    quant integer NOT NULL,
+    ano integer NOT NULL
 );
 
 
@@ -444,7 +449,7 @@ ALTER TABLE ONLY municipio_maps
 --
 
 ALTER TABLE ONLY municipios
-    ADD CONSTRAINT municipios_estado_id_fkey FOREIGN KEY (estado_id) REFERENCES states(gid) DEFERRABLE;
+    ADD CONSTRAINT municipios_estado_id_fkey FOREIGN KEY (estado_id) REFERENCES state(gid) DEFERRABLE;
 
 
 --

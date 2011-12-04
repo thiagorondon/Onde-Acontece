@@ -1,1 +1,1 @@
-insert into ocorrencias (tipo) values ('homicidio'), ('furtos_veiculo'), ('furtos'), ('roubos'), ('latrocinio'), ('roubo_veiculo'), ('extorsao'), ('extorsao_sequesto'), ('estelionato'), ('delitos_corrupcao'), ('posse_entorpecente'), ('delitos_municoes'), ('trafico_entorpecente');
+insert into ocorrencias (tipo) values ('homicidio'), ('furtos_veiculo'), ('furtos'), ('roubos'), ('latrocionio'), ('roubo_veiculo'), ('extorsao'), ('extorsao_sequesto'), ('estelionato'), ('delitos_corrupcao'), ('posse_entorpecente'), ('delitos_municoes'), ('trafico_entorpecente');
