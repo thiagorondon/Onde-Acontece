@@ -6,8 +6,14 @@ use namespace::autoclean;
 extends 'DBIx::Class::ResultSet';
 
 sub with_geojson {
-  shift->search_rs( {},
-    { '+select' => [ \q{ST_AsGeoJSON(me.the_geom)} ], '+as' => [qw(geojson)] }
+  shift->search_rs(
+    {},
+    {
+      select => [qw(nome_municipio)],
+      '+select' => [ \q{ST_AsgeoJSON((ST_Dump(the_geom)).geom)} ],
+      '+as'     => [qw(geojson)],
+      group_by  => [qw(nome_municipio sigla  the_geom)]
+    }
   );
 }
 
