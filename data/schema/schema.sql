@@ -483,6 +483,13 @@ CREATE TABLE raw_ibge_censo (
   valor float
 );
 
+create table municipio_censo (
+  municipio_id integer not null,
+  descricao varchar(255) not null,
+  valor float,
+  foreign key (municipio_id) references municipios(id)
+);
+
 --
 -- Name: public; Type: ACL; Schema: -; Owner: -
 --
