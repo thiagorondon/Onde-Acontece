@@ -73,7 +73,6 @@
         </tr>
       [% END %]
     </table>
-
       [% FOREACH m IN mun.keys.sort %]
         <table>
           <tr><td>[% m %]</td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>

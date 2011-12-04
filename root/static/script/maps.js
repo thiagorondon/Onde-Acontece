@@ -18,7 +18,9 @@
     });
 
   });
-
+   $('path').live('click', function(e){
+                    console.log($(e.target));
+                  });
   function fetch(type_id, year) {
     d3.json("/api/seguranca/RS?o_id=$$type&ano=$$year&content-type=application/json".replace('$$year', year).replace('$$type', type_id), function(json) {
       $('#chart svg').remove();

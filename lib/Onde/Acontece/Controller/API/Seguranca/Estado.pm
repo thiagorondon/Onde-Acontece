@@ -25,7 +25,8 @@ sub view_GET {
   my $ano   = $c->req->query_parameters->{ano};
   my $state = $c->stash->{estado}->related_resultset('municipios')->search(
     { 'ocorrencia.id' => $o_id, 'ocorrencias_municipio.ano' => $ano },
-    { '+select'    => [ \'st_asgeojson(municipios.the_geom)' ],
+    {
+      '+select'    => [ \'st_asgeojson(municipios.the_geom)' ],
       '+as'        => ['geojson'],
       prefetch     => [ { 'ocorrencias_municipio' => 'ocorrencia' } ],
       order_by     => [qw(ocorrencias_municipio.ano)],
@@ -41,21 +42,46 @@ sub view_GET {
       type     => 'FeatureCollection',
       features => [
         map {
-          +{type       => 'Feature',
+          +{
+            type       => 'Feature',
             id         => $_->{ocorrencias_municipio}[0]{municipio_id},
-            geometry   => decode_json($_->{geojson}),
+            geometry   => decode_json( $_->{geojson} ),
             properties => {
               name  => $_->{nome},
               quant => $_->{ocorrencias_municipio}[0]{quant}
             }
-          }
-        } $state->all
+            }
+          } $state->all
       ]
     }
   );
 
 }
 
+sub municipio_info : Chained('object') : PathPart('info') {
+  my ( $self, $c ) = @_;
+  my $m = $c->stash->{object}->related_resultset('municipios')->search(
+    { tipo => { -not => undef } },
+    {
+      select => [
+        qw(municipios.nome ocorrencia.tipo ocorrencias_municipio.ano ocorrencias_municipio.quant)
+      ],
+      as   => [qw(nome tipo ano quant)],
+      join => { ocorrencias_municipio => 'ocorrencia' },
+      order_by =>
+        [qw(ocorrencias_municipio.ano ocorrencia.tipo municipios.nome )],
+      result_class => 'DBIx::Class::ResultClass::HashRefInflator'
+    }
+  );
+  my %mun;
+  for my $r ( $m->all ) {
+    push @{ $mun{ $r->{nome} }{ $r->{tipo} } },
+      [ $r->{ano}, $r->{quant} ];
+  }
+
+  $self->status_ok($c, entity => \%mun);
+
+}
 __PACKAGE__->meta->make_immutable;
 
 1;
