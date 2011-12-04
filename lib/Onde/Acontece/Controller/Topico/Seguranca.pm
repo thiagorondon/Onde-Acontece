@@ -10,7 +10,7 @@ sub base : Chained('/topico/base') PathPart('seguranca') CaptureArgs(0) {
 
 sub view: Chained('base') PathPart('') Args(0){
 	my ( $self, $c ) = @_;
-	
+  $c->res->redirect('/seguranca/rs');
 }
 
 __PACKAGE__->meta->make_immutable;
