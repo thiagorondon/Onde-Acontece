@@ -259,8 +259,7 @@ CREATE TABLE raw_indicadores_ssprs_municipioss (
     extorsao_sequesto integer NOT NULL,
     estelionato integer NOT NULL,
     delitos_corrupcao integer NOT NULL,
-    posse integer NOT NULL,
-    entorpecente integer NOT NULL,
+    posse_entorpecente integer NOT NULL,
     delitos_municoes integer NOT NULL,
     trafico_entorpecente integer NOT NULL,
     ano integer NOT NULL
