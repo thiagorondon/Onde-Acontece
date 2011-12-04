@@ -52,7 +52,7 @@
 				[% SET view_name = c.action _ ".menu.tt"%]
 				[% PROCESS $view_name %]
 			</div>
-			</div> <h1>LALALALA</h1>
+			</div> 
 		<div id="social">
 			<iframe
 				src="http://www.facebook.com/plugins/like.php?href=[%c.req.uri%]&;layout=standard&colorscheme=light&action=likelocale=pt_BR;"
