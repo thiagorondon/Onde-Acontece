@@ -1,6 +1,7 @@
 #!perl
 
 use strict;
+use Encode;
 use Text::CSV_XS;
 use Data::Printer;
 
@@ -9,7 +10,7 @@ my @csv = glob('./data/*');
 
 my $_csv = Text::CSV_XS->new ( { binary => 1 } );
 
-open my $FH_OUT, '>:encoding(ISO-8859-1)', 'cidades_full.csv';
+open my $FH_OUT, '>:utf8', 'cidades_full.csv';
 print $FH_OUT "Cidade;Descricao;Unidade;Valor\n";
 
 for my $csv_city (@csv) {
@@ -19,12 +20,18 @@ for my $csv_city (@csv) {
     my $header = 0;
 
     $csv_city =~ s/\.\/data\///g;
+    $csv_city = decode_utf8( $csv_city );
+
     while(my $row = $_csv->getline($FH)) {
 
-	if ($header == 0 && $row->[0] !~ /Descri..o,Valor,Unidade/) { $header = 1; next };
-	next if $header == 0 || $row->[0] =~ /Fonte:IBGE/ || $row->[0] !~ /[a-z]{3}/i;
+        my $desc = $row->[0];
+        my $val  = $row->[1];
+        my $unid = $row->[2];
 
-        print $FH_OUT "${csv_city};$row->[0];$row->[2];$row->[1]\n";
+	if ($header == 0 && $desc =~ /^Descri..o$/ ) { $header = 1; next }
+	next if $header == 0 || $desc =~ /Fonte:IBGE/ || $desc !~ /[a-z]{3}/i;
+
+        print $FH_OUT "${csv_city};$desc;$unid;$val\n";
 	print STDOUT "$csv_city, $row->[0]\n";
 
     }
