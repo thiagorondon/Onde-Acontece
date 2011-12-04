@@ -4,32 +4,13 @@ use namespace::autoclean;
 
 BEGIN { extends 'Catalyst::Controller'; }
 
-sub base : Chained('/base') PathPart('') CaptureArgs(1) {
-    my ( $self, $c, $topico ) = @_;
-    $c->stash->{topico} = $topico;
-
-	$c->forward('View::Topico');
- 
+sub base : Chained('/base') PathPart('') CaptureArgs(0) {
+    my ( $self, $c ) = @_;
 }
 
-sub visao_geral : Chained('base') PathPart('') Args(0) {
-
-}
-
-sub estado_objeto : Chained('base') PathPart('') CaptureArgs(1) {
-    my ( $self, $c, $uf ) = @_;
-    $c->stash->{uf} = $uf;
-}
-
-sub estado : Chained('estado_objeto') PathPart('') Args(0) {
-}
-
-sub municipio_objeto : Chained('estado_objeto') PathPart('') CaptureArgs(1) {
-    my ( $self, $c, $municipio ) = @_;
-    $c->stash->{municipio} = $municipio;
-}
-
-sub municipio : Chained('municipio_objeto') PathPart('') Args(0) {
+sub end :Action {
+  my($self, $c) = @_;
+  $c->forward('View::Topico');
 }
 
 __PACKAGE__->meta->make_immutable;
