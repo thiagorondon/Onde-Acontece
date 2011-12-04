@@ -6,28 +6,35 @@
 			<label>Ano</label>
 
 			<select name="ano" class="span3">
-				<option value="...">20...</option>
+				<option value="2002">2002</option>
+				<option value="2003">2003</option>
+				<option value="2004">2004</option>
+				<option value="2005">2005</option>
+				<option value="2006">2006</option>
+				<option value="2007">2007</option>
+				<option value="2008">2008</option>
+				<option value="2009">2009</option>
 				<option value="2010">2010</option>
-				<option value="2011S">2011</option>
+				<option value="2011">2011</option>
 			</select>
 		</div>
 		<div class="clearfix row">
 			<label>Ocorrência</label>
 
-			<select name="ocorrecia" class="span3">
-				<option value="homicidio">Homicídio</option>
-				<option value="furtos">Furtos</option>
-				<option value="furtos_veiculo">Furto de veículo</option>
-				<option value="roubos">Roubos</option>
-				<option value="latrocionio">Latrocínio</option>
-				<option value="roubo_veiculo">Roubo de veículo</option>
-				<option value="extorsao">Extorsão</option>
-				<option value="extorsao_sequesto">Extorsão mediante sequestro</option>
-				<option value="estelionato">Estelionato</option>
-				<option value="delitos_corrupcao">Delitos relac. à corrupção</option>
-				<option value="delitos_municoes">Delitos relac. a armas e munições</option>
-				<option value="posse_entorpecente">Entorp. Posse</option>
-				<option value="trafico_entorpecente">Entorp. Tráfico</option>
+			<select name="ocorrencia" class="span3">
+				<option value="1">Homicídio</option>
+				<option value="2">Furto de veículo</option>
+				<option value="3">Furtos</option>
+				<option value="4">Roubos</option>
+				<option value="5">Latrocínio</option>
+				<option value="6">Roubo de veículo</option>
+				<option value="7">Extorsão</option>
+				<option value="8">Extorsão mediante sequestro</option>
+				<option value="9">Estelionato</option>
+				<option value="10">Delitos relac. à corrupção</option>
+				<option value="11">Entorp. Posse</option>
+				<option value="12">Delitos relac. a armas e munições</option>
+				<option value="13">Entorp. Tráfico</option>
 			</select>
 
 		</div>

@@ -26,6 +26,7 @@
 <link rel="stylesheet" type="text/css" href="/static/css/defs.css" />
 <link rel="stylesheet" type="text/css" href="/static/css/defs_topico.css" />
 <link rel="stylesheet" type="text/css" href="/static/css/tipsy.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/maps.css" />
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js""></script>
     <script src='/static/script/jquery.tipsy.js' type='text/javascript'> </script>
@@ -35,7 +36,7 @@
       @importurl("http://mbostock.github.com/d3/style.css?1.10.0");
       @importurl("http://mbostock.github.com/d3/syntax.css?1.6.0");
    </style>
-    <link href='http://mbostock.github.com/d3/ex/colorbrewer.css' rel='stylesheet' type='text/css' />
+
     <script src='http://mbostock.github.com/d3/d3.geo.js?2.6.0' type='text/javascript'> </script>
 </head>
 <body>
