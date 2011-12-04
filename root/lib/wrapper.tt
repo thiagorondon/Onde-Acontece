@@ -33,7 +33,7 @@
 				</div>
 				<div class="span6">
 					<h3>Novidades</h3>
-					<a href="/seguranca/RS">Dados de segurança pública do Rio Grande do Sul</a>
+					<a href="/seguranca/RS"><span class="label important">novo</span> Dados de segurança pública do Rio Grande do Sul</a>
 				</div>
 			</div>
 		</div>
@@ -42,6 +42,11 @@
 
 	</div>
 </div>
+
+<div id="ribbon">
+  <a href="https://github.com/desarrollandoAmericaLatina/Onde-Acontece" rel="me"></a>
+</div>
 [% PROCESS footer.tt %]
+
 </body>
 </html>
