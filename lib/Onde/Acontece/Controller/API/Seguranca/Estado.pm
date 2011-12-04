@@ -79,11 +79,11 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
     }
   );
   my %mun;
-  # for my $r ( $m->all ) {
-  #   push @{ $mun{ $r->{nome} }{ $r->{tipo} } }, [ $r->{ano}, $r->{quant} ];
-  # }
+   for my $r ( $m->all ) {
+     push @{ $mun{ $r->{tipo} }}, { label  => $r->{ocorrencia}{tipo}, data =>  [ $r->{ano}, $r->{ocorrencia}{quant} ]};
+   }
 
-  $self->status_ok( $c, entity => { municipio => [$m->all] } );
+  $self->status_ok( $c, entity => { ocorrencias => \%mun } );
 
 }
 __PACKAGE__->meta->make_immutable;
