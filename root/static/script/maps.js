@@ -8,7 +8,9 @@
   // $('svg path').live('hover', function(e){
   //   $(e.target).tipsy('show');
   // });
-  d3.json("/poligono" + window.location.pathname.replace(/\/.*?\//, '/'), function(json) {
+//  d3.json("/poligono" + window.location.pathname.replace(/\/.*?\//, '/'), function(json) {
+  d3.json("/api/seguranca/RS", function(json) {
+            console.log(json);
     region.selectAll("path").data(json.features).enter().append("svg:path").attr("d", path).attr('class', quantize).attr('original-title', function(d) {
       $(this).tipsy({gravity: $.fn.tipsy.autoNS});
       return d.properties.name;
