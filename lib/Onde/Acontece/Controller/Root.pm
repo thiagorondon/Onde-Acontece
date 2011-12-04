@@ -27,16 +27,14 @@ The root page (/)
 =cut
 
 sub base : Chained('/') PathPart('') : CaptureArgs(0) {
-    my ( $self, $c) = @_;
-
-	#$c->res->redirect( $c->uri_for( $c->controller('Topico')->action_for('base') ) );
-
+  my ( $self, $c ) = @_;
 }
 
 sub root : Chained('base') PathPart('') Args(0) {
-	my ( $self, $c) = @_;
+  my ( $self, $c ) = @_;
 
-	$c->forward('View::Topico');
+  $c->res->redirect(
+    $c->uri_for( $c->controller('Topico')->action_for('visao_geral') ) );
 }
 
 sub contato : Chained('base') Args(0) {
@@ -55,9 +53,9 @@ Standard 404 error page
 =cut
 
 sub error_404 : Chained('base') PathPart('') Args {
-    my ( $self, $c ) = @_;
-    $c->response->body('Page not found');
-    $c->response->status(404);
+  my ( $self, $c ) = @_;
+  $c->response->body('Page not found');
+  $c->response->status(404);
 }
 
 =head2 end
