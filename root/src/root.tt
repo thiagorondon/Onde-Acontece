@@ -1,1 +1,36 @@
-home page
+<div class="row">
+	<div class="span5">
+		<h2>Heading</h2>
+		<p>foo.</p>
+
+	</div>
+
+	<div class="span6">
+		<h2>Heading</h2>
+		<p>foo foo</p>
+	</div>
+
+	<div class="span5">
+		<h2>Heading</h2>
+		<p>foo.</p>
+	</div>
+
+</div>
+<div class="row">
+	<div class="span5">
+		<h2>Heading</h2>
+		<p>foo.</p>
+
+	</div>
+
+	<div class="span6">
+		<h2>Heading</h2>
+		<p>foo foo</p>
+	</div>
+
+	<div class="span5">
+		<h2>Heading</h2>
+		<p>foo.</p>
+	</div>
+
+</div>
