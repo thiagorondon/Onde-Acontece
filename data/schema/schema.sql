@@ -476,15 +476,26 @@ ALTER TABLE ONLY seguranca_ocorrencias
     ADD CONSTRAINT seguranca_ocorrencias_municipio_id_fkey FOREIGN KEY (municipio_id) REFERENCES municipios(id) DEFERRABLE;
 
 
+CREATE TABLE raw_ibge_censo (
+  cidade varchar(255) not null,
+  descricao varchar(255) not null,
+  unidade varchar(255) not null,
+  valor float
+);
+
+create table municipio_censo (
+  municipio_id integer not null,
+  descricao varchar(255) not null,
+  valor float,
+  foreign key (municipio_id) references municipios(id)
+);
+
 --
 -- Name: public; Type: ACL; Schema: -; Owner: -
 --
 
 REVOKE ALL ON SCHEMA public FROM PUBLIC;
-REVOKE ALL ON SCHEMA public FROM edenc;
-GRANT ALL ON SCHEMA public TO edenc;
 GRANT ALL ON SCHEMA public TO PUBLIC;
-
 
 --
 -- PostgreSQL database dump complete
