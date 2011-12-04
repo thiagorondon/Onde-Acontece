@@ -41,6 +41,9 @@
       <label>Município</label>
       <select name="municipio" class="span3">
         <option value="">Todos</option>
+       [% FOR m IN object.related_resultset('municipios').all %]
+        <option value="[% m.nome %]">[% m.nome %]</option>
+       [% END %]
       </select>
 		</div>
 		<div class="clearfix row">
