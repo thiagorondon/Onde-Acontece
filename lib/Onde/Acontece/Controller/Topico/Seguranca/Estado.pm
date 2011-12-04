@@ -17,7 +17,7 @@ sub object : Chained('base') : PathPart('') : CaptureArgs(1) {
 sub view : Chained('object') : PathPart('') : Args(0) {
   my ( $self, $c ) = @_;
   my $rs = $c->stash->{estado};
-
+  $c->stash->{ocorrencias} = [$c->model('DB::Ocorrencia')->all];
   my $s  =  $rs->related_resultset('municipios')->search(
     { tipo => { -not => undef } },
     { select => [
