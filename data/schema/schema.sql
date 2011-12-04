@@ -476,6 +476,13 @@ ALTER TABLE ONLY seguranca_ocorrencias
     ADD CONSTRAINT seguranca_ocorrencias_municipio_id_fkey FOREIGN KEY (municipio_id) REFERENCES municipios(id) DEFERRABLE;
 
 
+CREATE TABLE raw_ibge_censo (
+  cidade varchar(255) not null,
+  descricao varchar(255) not null,
+  unidade varchar(255) not null,
+  valor float
+);
+
 --
 -- Name: public; Type: ACL; Schema: -; Owner: -
 --

@@ -44,7 +44,7 @@ Cidade;Descricao;Unidade;Valor
 Áurea.csv;População residente - cor ou raça - Preta;pessoas;47
 Áurea.csv;População residente - cor ou raça - Parda;pessoas;206
 Áurea.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;71
-Áurea.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Áurea.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Áurea.csv;Área da unidade territorial;Km²;158.291
 Áurea.csv;Eleitorado;Eleitores;2902
 Áurea.csv;PIB per capita a preços correntes;Reais;12200.41
@@ -263,7 +263,7 @@ Almirante Tamandaré do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;67
 Almirante Tamandaré do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;26
 Almirante Tamandaré do Sul.csv;Docentes - Ensino médio - 2009;Docentes;9
 Almirante Tamandaré do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Almirante Tamandaré do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Almirante Tamandaré do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Almirante Tamandaré do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;787217506
 Almirante Tamandaré do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;597804500
 Almirante Tamandaré do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -344,7 +344,7 @@ Alto Feliz.csv;População residente - cor ou raça - Branca;pessoas;2802
 Alto Feliz.csv;População residente - cor ou raça - Preta;pessoas;34
 Alto Feliz.csv;População residente - cor ou raça - Parda;pessoas;69
 Alto Feliz.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;26
-Alto Feliz.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Alto Feliz.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Alto Feliz.csv;Área da unidade territorial;Km²;79.173
 Alto Feliz.csv;Eleitorado;Eleitores;2100
 Alto Feliz.csv;PIB per capita a preços correntes;Reais;8079.79
@@ -353,7 +353,7 @@ Alto Feliz.csv;Matrícula - Ensino médio - 2009;Matrículas;81
 Alto Feliz.csv;Docentes - Ensino fundamental - 2009;Docentes;19
 Alto Feliz.csv;Docentes - Ensino médio - 2009;Docentes;11
 Alto Feliz.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Alto Feliz.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Alto Feliz.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Alto Feliz.csv;Receitas orçamentárias realizadas - Correntes;Reais;827590366
 Alto Feliz.csv;Despesas orçamentárias empenhadas - Correntes;Reais;594929987
 Alto Feliz.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -563,7 +563,7 @@ Arambaré.csv;Matrícula - Ensino médio - 2009;Matrículas;195
 Arambaré.csv;Docentes - Ensino fundamental - 2009;Docentes;41
 Arambaré.csv;Docentes - Ensino médio - 2009;Docentes;16
 Arambaré.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Arambaré.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Arambaré.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Arambaré.csv;Receitas orçamentárias realizadas - Correntes;Reais;938752338
 Arambaré.csv;Despesas orçamentárias empenhadas - Correntes;Reais;796084361
 Arambaré.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398385879
@@ -593,7 +593,7 @@ Araricá.csv;Matrícula - Ensino médio - 2009;Matrículas;248
 Araricá.csv;Docentes - Ensino fundamental - 2009;Docentes;81
 Araricá.csv;Docentes - Ensino médio - 2009;Docentes;24
 Araricá.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Araricá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Araricá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Araricá.csv;Receitas orçamentárias realizadas - Correntes;Reais;976345506
 Araricá.csv;Despesas orçamentárias empenhadas - Correntes;Reais;814113237
 Araricá.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;397602964
@@ -683,7 +683,7 @@ Arroio do Padre.csv;Matrícula - Ensino médio - 2009;Matrículas;173
 Arroio do Padre.csv;Docentes - Ensino fundamental - 2009;Docentes;34
 Arroio do Padre.csv;Docentes - Ensino médio - 2009;Docentes;11
 Arroio do Padre.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Arroio do Padre.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Arroio do Padre.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Arroio do Padre.csv;Receitas orçamentárias realizadas - Correntes;Reais;754283825
 Arroio do Padre.csv;Despesas orçamentárias empenhadas - Correntes;Reais;586127237
 Arroio do Padre.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398922609
@@ -923,7 +923,7 @@ Balneário Pinhal.csv;Matrícula - Ensino médio - 2009;Matrículas;379
 Balneário Pinhal.csv;Docentes - Ensino fundamental - 2009;Docentes;94
 Balneário Pinhal.csv;Docentes - Ensino médio - 2009;Docentes;25
 Balneário Pinhal.csv;Estabelecimentos de Saúde SUS;estabelecimentos;5
-Balneário Pinhal.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Balneário Pinhal.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Balneário Pinhal.csv;Receitas orçamentárias realizadas - Correntes;Reais;2290413165
 Balneário Pinhal.csv;Despesas orçamentárias empenhadas - Correntes;Reais;1842079623
 Balneário Pinhal.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;531919079
@@ -1043,7 +1043,7 @@ Barra do Guarita.csv;Matrícula - Ensino médio - 2009;Matrículas;103
 Barra do Guarita.csv;Docentes - Ensino fundamental - 2009;Docentes;46
 Barra do Guarita.csv;Docentes - Ensino médio - 2009;Docentes;16
 Barra do Guarita.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Barra do Guarita.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Barra do Guarita.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Barra do Guarita.csv;Receitas orçamentárias realizadas - Correntes;Reais;692796329
 Barra do Guarita.csv;Despesas orçamentárias empenhadas - Correntes;Reais;489855609
 Barra do Guarita.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398157020
@@ -1064,7 +1064,7 @@ Barra do Quaraí.csv;População residente - cor ou raça - Branca;pessoas;2613
 Barra do Quaraí.csv;População residente - cor ou raça - Preta;pessoas;305
 Barra do Quaraí.csv;População residente - cor ou raça - Parda;pessoas;1079
 Barra do Quaraí.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;85
-Barra do Quaraí.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Barra do Quaraí.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Barra do Quaraí.csv;Área da unidade territorial;Km²;1056.149
 Barra do Quaraí.csv;Eleitorado;Eleitores;3134
 Barra do Quaraí.csv;PIB per capita a preços correntes;Reais;25523.14
@@ -1124,7 +1124,7 @@ Barra do Rio Azul.csv;População residente - cor ou raça - Branca;pessoas;1886
 Barra do Rio Azul.csv;População residente - cor ou raça - Preta;pessoas;39
 Barra do Rio Azul.csv;População residente - cor ou raça - Parda;pessoas;75
 Barra do Rio Azul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;56
-Barra do Rio Azul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Barra do Rio Azul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Barra do Rio Azul.csv;Área da unidade territorial;Km²;147.029
 Barra do Rio Azul.csv;Eleitorado;Eleitores;1765
 Barra do Rio Azul.csv;PIB per capita a preços correntes;Reais;16103.10
@@ -1133,7 +1133,7 @@ Barra do Rio Azul.csv;Matrícula - Ensino médio - 2009;Matrículas;70
 Barra do Rio Azul.csv;Docentes - Ensino fundamental - 2009;Docentes;26
 Barra do Rio Azul.csv;Docentes - Ensino médio - 2009;Docentes;16
 Barra do Rio Azul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Barra do Rio Azul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Barra do Rio Azul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Barra do Rio Azul.csv;Receitas orçamentárias realizadas - Correntes;Reais;736692027
 Barra do Rio Azul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;532360292
 Barra do Rio Azul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398968100
@@ -1154,7 +1154,7 @@ Barra Funda.csv;População residente - cor ou raça - Branca;pessoas;2050
 Barra Funda.csv;População residente - cor ou raça - Preta;pessoas;122
 Barra Funda.csv;População residente - cor ou raça - Parda;pessoas;187
 Barra Funda.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;36
-Barra Funda.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Barra Funda.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Barra Funda.csv;Área da unidade territorial;Km²;60.033
 Barra Funda.csv;Eleitorado;Eleitores;2055
 Barra Funda.csv;PIB per capita a preços correntes;Reais;24012.12
@@ -1163,7 +1163,7 @@ Barra Funda.csv;Matrícula - Ensino médio - 2009;Matrículas;153
 Barra Funda.csv;Docentes - Ensino fundamental - 2009;Docentes;27
 Barra Funda.csv;Docentes - Ensino médio - 2009;Docentes;13
 Barra Funda.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Barra Funda.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Barra Funda.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Barra Funda.csv;Receitas orçamentárias realizadas - Correntes;Reais;932910627
 Barra Funda.csv;Despesas orçamentárias empenhadas - Correntes;Reais;652627949
 Barra Funda.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;389996391
@@ -1244,7 +1244,7 @@ Benjamin Constant do Sul.csv;População residente - cor ou raça - Branca;pesso
 Benjamin Constant do Sul.csv;População residente - cor ou raça - Preta;pessoas;43
 Benjamin Constant do Sul.csv;População residente - cor ou raça - Parda;pessoas;47
 Benjamin Constant do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;142
-Benjamin Constant do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Benjamin Constant do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Benjamin Constant do Sul.csv;Área da unidade territorial;Km²;132.396
 Benjamin Constant do Sul.csv;Eleitorado;Eleitores;1865
 Benjamin Constant do Sul.csv;PIB per capita a preços correntes;Reais;8104.78
@@ -1253,7 +1253,7 @@ Benjamin Constant do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;103
 Benjamin Constant do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Benjamin Constant do Sul.csv;Docentes - Ensino médio - 2009;Docentes;10
 Benjamin Constant do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Benjamin Constant do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Benjamin Constant do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Benjamin Constant do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;658455861
 Benjamin Constant do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;495594533
 Benjamin Constant do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -1313,7 +1313,7 @@ Boa Vista das Missões.csv;Matrícula - Ensino médio - 2009;Matrículas;52
 Boa Vista das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Boa Vista das Missões.csv;Docentes - Ensino médio - 2009;Docentes;11
 Boa Vista das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Boa Vista das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Boa Vista das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;798704715
 Boa Vista das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;612022493
 Boa Vista das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;375190678
@@ -1373,7 +1373,7 @@ Boa Vista do Cadeado.csv;Matrícula - Ensino médio - 2009;Matrículas;70
 Boa Vista do Cadeado.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Boa Vista do Cadeado.csv;Docentes - Ensino médio - 2009;Docentes;6
 Boa Vista do Cadeado.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Boa Vista do Cadeado.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Boa Vista do Cadeado.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista do Cadeado.csv;Receitas orçamentárias realizadas - Correntes;Reais;913867569
 Boa Vista do Cadeado.csv;Despesas orçamentárias empenhadas - Correntes;Reais;647478046
 Boa Vista do Cadeado.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -1403,7 +1403,7 @@ Boa Vista do Incra.csv;Matrícula - Ensino médio - 2009;Matrículas;107
 Boa Vista do Incra.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Boa Vista do Incra.csv;Docentes - Ensino médio - 2009;Docentes;8
 Boa Vista do Incra.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Boa Vista do Incra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Boa Vista do Incra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista do Incra.csv;Receitas orçamentárias realizadas - Correntes;Reais;878813789
 Boa Vista do Incra.csv;Despesas orçamentárias empenhadas - Correntes;Reais;729284161
 Boa Vista do Incra.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917556
@@ -1433,7 +1433,7 @@ Boa Vista do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;116
 Boa Vista do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;30
 Boa Vista do Sul.csv;Docentes - Ensino médio - 2009;Docentes;11
 Boa Vista do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Boa Vista do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Boa Vista do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;1075787117
 Boa Vista do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;764728261
 Boa Vista do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -1523,7 +1523,7 @@ Bom Progresso.csv;Matrícula - Ensino médio - 2009;Matrículas;203
 Bom Progresso.csv;Docentes - Ensino fundamental - 2009;Docentes;46
 Bom Progresso.csv;Docentes - Ensino médio - 2009;Docentes;24
 Bom Progresso.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Bom Progresso.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Bom Progresso.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Bom Progresso.csv;Receitas orçamentárias realizadas - Correntes;Reais;676297038
 Bom Progresso.csv;Despesas orçamentárias empenhadas - Correntes;Reais;562804478
 Bom Progresso.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2084,7 +2084,7 @@ Campestre da Serra.csv;População residente - cor ou raça - Branca;pessoas;271
 Campestre da Serra.csv;População residente - cor ou raça - Preta;pessoas;54
 Campestre da Serra.csv;População residente - cor ou raça - Parda;pessoas;470
 Campestre da Serra.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;32
-Campestre da Serra.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Campestre da Serra.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Campestre da Serra.csv;Área da unidade territorial;Km²;538.002
 Campestre da Serra.csv;Eleitorado;Eleitores;2661
 Campestre da Serra.csv;PIB per capita a preços correntes;Reais;15804.30
@@ -2093,7 +2093,7 @@ Campestre da Serra.csv;Matrícula - Ensino médio - 2009;Matrículas;118
 Campestre da Serra.csv;Docentes - Ensino fundamental - 2009;Docentes;42
 Campestre da Serra.csv;Docentes - Ensino médio - 2009;Docentes;11
 Campestre da Serra.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Campestre da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Campestre da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Campestre da Serra.csv;Receitas orçamentárias realizadas - Correntes;Reais;919799453
 Campestre da Serra.csv;Despesas orçamentárias empenhadas - Correntes;Reais;706271064
 Campestre da Serra.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2423,7 +2423,7 @@ Canudos do Vale.csv;Matrícula - Ensino médio - 2009;Matrículas;84
 Canudos do Vale.csv;Docentes - Ensino fundamental - 2009;Docentes;25
 Canudos do Vale.csv;Docentes - Ensino médio - 2009;Docentes;9
 Canudos do Vale.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Canudos do Vale.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Canudos do Vale.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Canudos do Vale.csv;Receitas orçamentárias realizadas - Correntes;Reais;652547028
 Canudos do Vale.csv;Despesas orçamentárias empenhadas - Correntes;Reais;502746494
 Canudos do Vale.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803806
@@ -2453,7 +2453,7 @@ Capão Bonito do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;64
 Capão Bonito do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Capão Bonito do Sul.csv;Docentes - Ensino médio - 2009;Docentes;7
 Capão Bonito do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Capão Bonito do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Capão Bonito do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capão Bonito do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;789120476
 Capão Bonito do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;634008350
 Capão Bonito do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2513,7 +2513,7 @@ Capão do Cipó.csv;Matrícula - Ensino médio - 2009;Matrículas;115
 Capão do Cipó.csv;Docentes - Ensino fundamental - 2009;Docentes;46
 Capão do Cipó.csv;Docentes - Ensino médio - 2009;Docentes;11
 Capão do Cipó.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Capão do Cipó.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Capão do Cipó.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capão do Cipó.csv;Receitas orçamentárias realizadas - Correntes;Reais;994181642
 Capão do Cipó.csv;Despesas orçamentárias empenhadas - Correntes;Reais;746829558
 Capão do Cipó.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917485
@@ -2564,7 +2564,7 @@ Capela de Santana.csv;População residente - cor ou raça - Branca;pessoas;9964
 Capela de Santana.csv;População residente - cor ou raça - Preta;pessoas;315
 Capela de Santana.csv;População residente - cor ou raça - Parda;pessoas;1263
 Capela de Santana.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;213
-Capela de Santana.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Capela de Santana.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Capela de Santana.csv;Área da unidade territorial;Km²;183.757
 Capela de Santana.csv;Eleitorado;Eleitores;7252
 Capela de Santana.csv;PIB per capita a preços correntes;Reais;7482.06
@@ -2603,7 +2603,7 @@ Capitão.csv;Matrícula - Ensino médio - 2009;Matrículas;104
 Capitão.csv;Docentes - Ensino fundamental - 2009;Docentes;34
 Capitão.csv;Docentes - Ensino médio - 2009;Docentes;12
 Capitão.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Capitão.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Capitão.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capitão.csv;Receitas orçamentárias realizadas - Correntes;Reais;1022667086
 Capitão.csv;Despesas orçamentárias empenhadas - Correntes;Reais;804296758
 Capitão.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917645
@@ -2633,7 +2633,7 @@ Capivari do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;172
 Capivari do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;45
 Capivari do Sul.csv;Docentes - Ensino médio - 2009;Docentes;15
 Capivari do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Capivari do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Capivari do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capivari do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;987299126
 Capivari do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;682869982
 Capivari do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2753,7 +2753,7 @@ Carlos Gomes.csv;Matrícula - Ensino médio - 2009;Matrículas;79
 Carlos Gomes.csv;Docentes - Ensino fundamental - 2009;Docentes;20
 Carlos Gomes.csv;Docentes - Ensino médio - 2009;Docentes;11
 Carlos Gomes.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Carlos Gomes.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Carlos Gomes.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Carlos Gomes.csv;Receitas orçamentárias realizadas - Correntes;Reais;613987727
 Carlos Gomes.csv;Despesas orçamentárias empenhadas - Correntes;Reais;490187569
 Carlos Gomes.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2903,7 +2903,7 @@ Centenário.csv;Matrícula - Ensino médio - 2009;Matrículas;90
 Centenário.csv;Docentes - Ensino fundamental - 2009;Docentes;25
 Centenário.csv;Docentes - Ensino médio - 2009;Docentes;13
 Centenário.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Centenário.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Centenário.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Centenário.csv;Receitas orçamentárias realizadas - Correntes;Reais;713197640
 Centenário.csv;Despesas orçamentárias empenhadas - Correntes;Reais;560659273
 Centenário.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2924,7 +2924,7 @@ Cerrito.csv;População residente - cor ou raça - Branca;pessoas;5555
 Cerrito.csv;População residente - cor ou raça - Preta;pessoas;431
 Cerrito.csv;População residente - cor ou raça - Parda;pessoas;385
 Cerrito.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;365
-Cerrito.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Cerrito.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cerrito.csv;Área da unidade territorial;Km²;451.701
 Cerrito.csv;Eleitorado;Eleitores;5153
 Cerrito.csv;PIB per capita a preços correntes;Reais;6644.83
@@ -2933,7 +2933,7 @@ Cerrito.csv;Matrícula - Ensino médio - 2009;Matrículas;263
 Cerrito.csv;Docentes - Ensino fundamental - 2009;Docentes;80
 Cerrito.csv;Docentes - Ensino médio - 2009;Docentes;38
 Cerrito.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Cerrito.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Cerrito.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cerrito.csv;Receitas orçamentárias realizadas - Correntes;Reais;940375732
 Cerrito.csv;Despesas orçamentárias empenhadas - Correntes;Reais;743670514
 Cerrito.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398906341
@@ -2954,7 +2954,7 @@ Cerro Branco.csv;População residente - cor ou raça - Branca;pessoas;3787
 Cerro Branco.csv;População residente - cor ou raça - Preta;pessoas;179
 Cerro Branco.csv;População residente - cor ou raça - Parda;pessoas;461
 Cerro Branco.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;172
-Cerro Branco.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Cerro Branco.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cerro Branco.csv;Área da unidade territorial;Km²;158.766
 Cerro Branco.csv;Eleitorado;Eleitores;3646
 Cerro Branco.csv;PIB per capita a preços correntes;Reais;11436.28
@@ -3023,7 +3023,7 @@ Cerro Grande.csv;Matrícula - Ensino médio - 2009;Matrículas;112
 Cerro Grande.csv;Docentes - Ensino fundamental - 2009;Docentes;53
 Cerro Grande.csv;Docentes - Ensino médio - 2009;Docentes;15
 Cerro Grande.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Cerro Grande.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Cerro Grande.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cerro Grande.csv;Receitas orçamentárias realizadas - Correntes;Reais;743506500
 Cerro Grande.csv;Despesas orçamentárias empenhadas - Correntes;Reais;574942500
 Cerro Grande.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;413889400
@@ -3134,7 +3134,7 @@ Charrua.csv;População residente - cor ou raça - Branca;pessoas;1885
 Charrua.csv;População residente - cor ou raça - Preta;pessoas;11
 Charrua.csv;População residente - cor ou raça - Parda;pessoas;48
 Charrua.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;141
-Charrua.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Charrua.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Charrua.csv;Área da unidade territorial;Km²;198.125
 Charrua.csv;Eleitorado;Eleitores;2615
 Charrua.csv;PIB per capita a preços correntes;Reais;13327.50
@@ -3224,7 +3224,7 @@ Chuvisca.csv;População residente - cor ou raça - Branca;pessoas;4591
 Chuvisca.csv;População residente - cor ou raça - Preta;pessoas;219
 Chuvisca.csv;População residente - cor ou raça - Parda;pessoas;108
 Chuvisca.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;199
-Chuvisca.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Chuvisca.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Chuvisca.csv;Área da unidade territorial;Km²;220.472
 Chuvisca.csv;Eleitorado;Eleitores;3572
 Chuvisca.csv;PIB per capita a preços correntes;Reais;11467.17
@@ -3233,7 +3233,7 @@ Chuvisca.csv;Matrícula - Ensino médio - 2009;Matrículas;213
 Chuvisca.csv;Docentes - Ensino fundamental - 2009;Docentes;57
 Chuvisca.csv;Docentes - Ensino médio - 2009;Docentes;17
 Chuvisca.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Chuvisca.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Chuvisca.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Chuvisca.csv;Receitas orçamentárias realizadas - Correntes;Reais;890513412
 Chuvisca.csv;Despesas orçamentárias empenhadas - Correntes;Reais;742924368
 Chuvisca.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3434,7 +3434,7 @@ Coqueiro Baixo.csv;População residente - cor ou raça - Branca;pessoas;1406
 Coqueiro Baixo.csv;População residente - cor ou raça - Preta;pessoas;59
 Coqueiro Baixo.csv;População residente - cor ou raça - Parda;pessoas;63
 Coqueiro Baixo.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;32
-Coqueiro Baixo.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Coqueiro Baixo.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Coqueiro Baixo.csv;Área da unidade territorial;Km²;112.277
 Coqueiro Baixo.csv;Eleitorado;Eleitores;1332
 Coqueiro Baixo.csv;PIB per capita a preços correntes;Reais;10090.98
@@ -3443,7 +3443,7 @@ Coqueiro Baixo.csv;Matrícula - Ensino médio - 2009;Matrículas;0
 Coqueiro Baixo.csv;Docentes - Ensino fundamental - 2009;Docentes;19
 Coqueiro Baixo.csv;Docentes - Ensino médio - 2009;Docentes;0
 Coqueiro Baixo.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coqueiro Baixo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Coqueiro Baixo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coqueiro Baixo.csv;Receitas orçamentárias realizadas - Correntes;Reais;704053408
 Coqueiro Baixo.csv;Despesas orçamentárias empenhadas - Correntes;Reais;485292837
 Coqueiro Baixo.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;413893799
@@ -3473,7 +3473,7 @@ Coqueiros do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;91
 Coqueiros do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;34
 Coqueiros do Sul.csv;Docentes - Ensino médio - 2009;Docentes;10
 Coqueiros do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Coqueiros do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Coqueiros do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coqueiros do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;910634927
 Coqueiros do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;561997856
 Coqueiros do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398906339
@@ -3503,7 +3503,7 @@ Coronel Barros.csv;Matrícula - Ensino médio - 2009;Matrículas;88
 Coronel Barros.csv;Docentes - Ensino fundamental - 2009;Docentes;17
 Coronel Barros.csv;Docentes - Ensino médio - 2009;Docentes;13
 Coronel Barros.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coronel Barros.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Coronel Barros.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coronel Barros.csv;Receitas orçamentárias realizadas - Correntes;Reais;811995122
 Coronel Barros.csv;Despesas orçamentárias empenhadas - Correntes;Reais;577505609
 Coronel Barros.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398936033
@@ -3563,7 +3563,7 @@ Coronel Pilar.csv;Matrícula - Ensino médio - 2009;Matrículas;55
 Coronel Pilar.csv;Docentes - Ensino fundamental - 2009;Docentes;19
 Coronel Pilar.csv;Docentes - Ensino médio - 2009;Docentes;8
 Coronel Pilar.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coronel Pilar.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Coronel Pilar.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coronel Pilar.csv;Receitas orçamentárias realizadas - Correntes;Reais;788533139
 Coronel Pilar.csv;Despesas orçamentárias empenhadas - Correntes;Reais;487318249
 Coronel Pilar.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3623,7 +3623,7 @@ Coxilha.csv;Matrícula - Ensino médio - 2009;Matrículas;98
 Coxilha.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Coxilha.csv;Docentes - Ensino médio - 2009;Docentes;16
 Coxilha.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coxilha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Coxilha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coxilha.csv;Receitas orçamentárias realizadas - Correntes;Reais;906824924
 Coxilha.csv;Despesas orçamentárias empenhadas - Correntes;Reais;656136687
 Coxilha.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3674,7 +3674,7 @@ Cristal do Sul.csv;População residente - cor ou raça - Branca;pessoas;2118
 Cristal do Sul.csv;População residente - cor ou raça - Preta;pessoas;56
 Cristal do Sul.csv;População residente - cor ou raça - Parda;pessoas;651
 Cristal do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;284
-Cristal do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Cristal do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cristal do Sul.csv;Área da unidade territorial;Km²;97.715
 Cristal do Sul.csv;Eleitorado;Eleitores;2302
 Cristal do Sul.csv;PIB per capita a preços correntes;Reais;9930.16
@@ -3683,7 +3683,7 @@ Cristal do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;104
 Cristal do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;44
 Cristal do Sul.csv;Docentes - Ensino médio - 2009;Docentes;15
 Cristal do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Cristal do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Cristal do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cristal do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;684154221
 Cristal do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;508066096
 Cristal do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917554
@@ -3764,7 +3764,7 @@ Cruzaltense.csv;População residente - cor ou raça - Branca;pessoas;1942
 Cruzaltense.csv;População residente - cor ou raça - Preta;pessoas;93
 Cruzaltense.csv;População residente - cor ou raça - Parda;pessoas;97
 Cruzaltense.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;86
-Cruzaltense.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Cruzaltense.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cruzaltense.csv;Área da unidade territorial;Km²;166.883
 Cruzaltense.csv;Eleitorado;Eleitores;1918
 Cruzaltense.csv;PIB per capita a preços correntes;Reais;13580.99
@@ -3773,7 +3773,7 @@ Cruzaltense.csv;Matrícula - Ensino médio - 2009;Matrículas;91
 Cruzaltense.csv;Docentes - Ensino fundamental - 2009;Docentes;29
 Cruzaltense.csv;Docentes - Ensino médio - 2009;Docentes;9
 Cruzaltense.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Cruzaltense.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Cruzaltense.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cruzaltense.csv;Receitas orçamentárias realizadas - Correntes;Reais;728003604
 Cruzaltense.csv;Despesas orçamentárias empenhadas - Correntes;Reais;529822159
 Cruzaltense.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3863,7 +3863,7 @@ Derrubadas.csv;Matrícula - Ensino médio - 2009;Matrículas;120
 Derrubadas.csv;Docentes - Ensino fundamental - 2009;Docentes;64
 Derrubadas.csv;Docentes - Ensino médio - 2009;Docentes;12
 Derrubadas.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Derrubadas.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Derrubadas.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Derrubadas.csv;Receitas orçamentárias realizadas - Correntes;Reais;866102698
 Derrubadas.csv;Despesas orçamentárias empenhadas - Correntes;Reais;674344314
 Derrubadas.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3884,7 +3884,7 @@ Dezesseis de Novembro.csv;População residente - cor ou raça - Branca;pessoas;
 Dezesseis de Novembro.csv;População residente - cor ou raça - Preta;pessoas;35
 Dezesseis de Novembro.csv;População residente - cor ou raça - Parda;pessoas;467
 Dezesseis de Novembro.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;207
-Dezesseis de Novembro.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Dezesseis de Novembro.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Dezesseis de Novembro.csv;Área da unidade territorial;Km²;216.849
 Dezesseis de Novembro.csv;Eleitorado;Eleitores;2483
 Dezesseis de Novembro.csv;PIB per capita a preços correntes;Reais;9317.18
@@ -3953,7 +3953,7 @@ Dois Irmãos das Missões.csv;Matrícula - Ensino médio - 2009;Matrículas;132
 Dois Irmãos das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Dois Irmãos das Missões.csv;Docentes - Ensino médio - 2009;Docentes;16
 Dois Irmãos das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Dois Irmãos das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Dois Irmãos das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Dois Irmãos das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;820065142
 Dois Irmãos das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;570591625
 Dois Irmãos das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -4103,7 +4103,7 @@ Dom Pedro de Alcântara.csv;Matrícula - Ensino médio - 2009;Matrículas;86
 Dom Pedro de Alcântara.csv;Docentes - Ensino fundamental - 2009;Docentes;24
 Dom Pedro de Alcântara.csv;Docentes - Ensino médio - 2009;Docentes;13
 Dom Pedro de Alcântara.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Dom Pedro de Alcântara.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Dom Pedro de Alcântara.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Dom Pedro de Alcântara.csv;Receitas orçamentárias realizadas - Correntes;Reais;717410368
 Dom Pedro de Alcântara.csv;Despesas orçamentárias empenhadas - Correntes;Reais;493127658
 Dom Pedro de Alcântara.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -4124,7 +4124,7 @@ Dona Francisca.csv;População residente - cor ou raça - Branca;pessoas;2688
 Dona Francisca.csv;População residente - cor ou raça - Preta;pessoas;176
 Dona Francisca.csv;População residente - cor ou raça - Parda;pessoas;532
 Dona Francisca.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;146
-Dona Francisca.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Dona Francisca.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Dona Francisca.csv;Área da unidade territorial;Km²;114.346
 Dona Francisca.csv;Eleitorado;Eleitores;2908
 Dona Francisca.csv;PIB per capita a preços correntes;Reais;11078.36
@@ -4154,7 +4154,7 @@ Doutor Maurício Cardoso.csv;População residente - cor ou raça - Branca;pesso
 Doutor Maurício Cardoso.csv;População residente - cor ou raça - Preta;pessoas;43
 Doutor Maurício Cardoso.csv;População residente - cor ou raça - Parda;pessoas;802
 Doutor Maurício Cardoso.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;246
-Doutor Maurício Cardoso.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Doutor Maurício Cardoso.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Doutor Maurício Cardoso.csv;Área da unidade territorial;Km²;252.690
 Doutor Maurício Cardoso.csv;Eleitorado;Eleitores;4417
 Doutor Maurício Cardoso.csv;PIB per capita a preços correntes;Reais;15958.76
@@ -4193,7 +4193,7 @@ Doutor Ricardo.csv;Matrícula - Ensino médio - 2009;Matrículas;96
 Doutor Ricardo.csv;Docentes - Ensino fundamental - 2009;Docentes;24
 Doutor Ricardo.csv;Docentes - Ensino médio - 2009;Docentes;14
 Doutor Ricardo.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Doutor Ricardo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Doutor Ricardo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Doutor Ricardo.csv;Receitas orçamentárias realizadas - Correntes;Reais;715165440
 Doutor Ricardo.csv;Despesas orçamentárias empenhadas - Correntes;Reais;558354466
 Doutor Ricardo.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917539
@@ -4313,7 +4313,7 @@ Engenho Velho.csv;Matrícula - Ensino médio - 2009;Matrículas;78
 Engenho Velho.csv;Docentes - Ensino fundamental - 2009;Docentes;27
 Engenho Velho.csv;Docentes - Ensino médio - 2009;Docentes;12
 Engenho Velho.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Engenho Velho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Engenho Velho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Engenho Velho.csv;Receitas orçamentárias realizadas - Correntes;Reais;708525064
 Engenho Velho.csv;Despesas orçamentárias empenhadas - Correntes;Reais;603495773
 Engenho Velho.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -4343,7 +4343,7 @@ Entre Rios do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;117
 Entre Rios do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;44
 Entre Rios do Sul.csv;Docentes - Ensino médio - 2009;Docentes;14
 Entre Rios do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Entre Rios do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Entre Rios do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Entre Rios do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;1046999308
 Entre Rios do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;782775744
 Entre Rios do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;406445299
@@ -4454,7 +4454,7 @@ Ernestina.csv;População residente - cor ou raça - Branca;pessoas;2833
 Ernestina.csv;População residente - cor ou raça - Preta;pessoas;13
 Ernestina.csv;População residente - cor ou raça - Parda;pessoas;227
 Ernestina.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;26
-Ernestina.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Ernestina.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ernestina.csv;Área da unidade territorial;Km²;239.148
 Ernestina.csv;Eleitorado;Eleitores;2606
 Ernestina.csv;PIB per capita a preços correntes;Reais;19411.09
@@ -4574,7 +4574,7 @@ Esperança do Sul.csv;População residente - cor ou raça - Branca;pessoas;2844
 Esperança do Sul.csv;População residente - cor ou raça - Preta;pessoas;36
 Esperança do Sul.csv;População residente - cor ou raça - Parda;pessoas;379
 Esperança do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;301
-Esperança do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Esperança do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Esperança do Sul.csv;Área da unidade territorial;Km²;148.379
 Esperança do Sul.csv;Eleitorado;Eleitores;2832
 Esperança do Sul.csv;PIB per capita a preços correntes;Reais;9905.92
@@ -4724,7 +4724,7 @@ Estrela Velha.csv;População residente - cor ou raça - Branca;pessoas;3347
 Estrela Velha.csv;População residente - cor ou raça - Preta;pessoas;72
 Estrela Velha.csv;População residente - cor ou raça - Parda;pessoas;121
 Estrela Velha.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;131
-Estrela Velha.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Estrela Velha.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Estrela Velha.csv;Área da unidade territorial;Km²;281.668
 Estrela Velha.csv;Eleitorado;Eleitores;3047
 Estrela Velha.csv;PIB per capita a preços correntes;Reais;18031.93
@@ -4733,7 +4733,7 @@ Estrela Velha.csv;Matrícula - Ensino médio - 2009;Matrículas;112
 Estrela Velha.csv;Docentes - Ensino fundamental - 2009;Docentes;46
 Estrela Velha.csv;Docentes - Ensino médio - 2009;Docentes;9
 Estrela Velha.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Estrela Velha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Estrela Velha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Estrela Velha.csv;Receitas orçamentárias realizadas - Correntes;Reais;1090833512
 Estrela Velha.csv;Despesas orçamentárias empenhadas - Correntes;Reais;807196356
 Estrela Velha.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -4784,7 +4784,7 @@ Eugênio de Castro.csv;População residente - cor ou raça - Branca;pessoas;208
 Eugênio de Castro.csv;População residente - cor ou raça - Preta;pessoas;75
 Eugênio de Castro.csv;População residente - cor ou raça - Parda;pessoas;564
 Eugênio de Castro.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;79
-Eugênio de Castro.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Eugênio de Castro.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Eugênio de Castro.csv;Área da unidade territorial;Km²;419.321
 Eugênio de Castro.csv;Eleitorado;Eleitores;2440
 Eugênio de Castro.csv;PIB per capita a preços correntes;Reais;25889.39
@@ -4793,7 +4793,7 @@ Eugênio de Castro.csv;Matrícula - Ensino médio - 2009;Matrículas;87
 Eugênio de Castro.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Eugênio de Castro.csv;Docentes - Ensino médio - 2009;Docentes;12
 Eugênio de Castro.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Eugênio de Castro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Eugênio de Castro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Eugênio de Castro.csv;Receitas orçamentárias realizadas - Correntes;Reais;844327809
 Eugênio de Castro.csv;Despesas orçamentárias empenhadas - Correntes;Reais;641327372
 Eugênio de Castro.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917510
@@ -4814,7 +4814,7 @@ Fagundes Varela.csv;População residente - cor ou raça - Branca;pessoas;2458
 Fagundes Varela.csv;População residente - cor ou raça - Preta;pessoas;32
 Fagundes Varela.csv;População residente - cor ou raça - Parda;pessoas;78
 Fagundes Varela.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;29
-Fagundes Varela.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Fagundes Varela.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Fagundes Varela.csv;Área da unidade territorial;Km²;134.296
 Fagundes Varela.csv;Eleitorado;Eleitores;2059
 Fagundes Varela.csv;PIB per capita a preços correntes;Reais;14797.27
@@ -4904,7 +4904,7 @@ Faxinalzinho.csv;População residente - cor ou raça - Branca;pessoas;1962
 Faxinalzinho.csv;População residente - cor ou raça - Preta;pessoas;122
 Faxinalzinho.csv;População residente - cor ou raça - Parda;pessoas;287
 Faxinalzinho.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;95
-Faxinalzinho.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Faxinalzinho.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Faxinalzinho.csv;Área da unidade territorial;Km²;143.382
 Faxinalzinho.csv;Eleitorado;Eleitores;2257
 Faxinalzinho.csv;PIB per capita a preços correntes;Reais;13018.52
@@ -4913,7 +4913,7 @@ Faxinalzinho.csv;Matrícula - Ensino médio - 2009;Matrículas;123
 Faxinalzinho.csv;Docentes - Ensino fundamental - 2009;Docentes;38
 Faxinalzinho.csv;Docentes - Ensino médio - 2009;Docentes;14
 Faxinalzinho.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Faxinalzinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Faxinalzinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Faxinalzinho.csv;Receitas orçamentárias realizadas - Correntes;Reais;720260974
 Faxinalzinho.csv;Despesas orçamentárias empenhadas - Correntes;Reais;558331004
 Faxinalzinho.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -4943,7 +4943,7 @@ Fazenda Vilanova.csv;Matrícula - Ensino médio - 2009;Matrículas;125
 Fazenda Vilanova.csv;Docentes - Ensino fundamental - 2009;Docentes;32
 Fazenda Vilanova.csv;Docentes - Ensino médio - 2009;Docentes;11
 Fazenda Vilanova.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Fazenda Vilanova.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Fazenda Vilanova.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Fazenda Vilanova.csv;Receitas orçamentárias realizadas - Correntes;Reais;997937600
 Fazenda Vilanova.csv;Despesas orçamentárias empenhadas - Correntes;Reais;746870700
 Fazenda Vilanova.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398992000
@@ -5024,7 +5024,7 @@ Floriano Peixoto.csv;População residente - cor ou raça - Branca;pessoas;1969
 Floriano Peixoto.csv;População residente - cor ou raça - Preta;pessoas;9
 Floriano Peixoto.csv;População residente - cor ou raça - Parda;pessoas;38
 Floriano Peixoto.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;83
-Floriano Peixoto.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Floriano Peixoto.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Floriano Peixoto.csv;Área da unidade territorial;Km²;168.428
 Floriano Peixoto.csv;Eleitorado;Eleitores;2002
 Floriano Peixoto.csv;PIB per capita a preços correntes;Reais;14782.48
@@ -5033,7 +5033,7 @@ Floriano Peixoto.csv;Matrícula - Ensino médio - 2009;Matrículas;57
 Floriano Peixoto.csv;Docentes - Ensino fundamental - 2009;Docentes;25
 Floriano Peixoto.csv;Docentes - Ensino médio - 2009;Docentes;11
 Floriano Peixoto.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Floriano Peixoto.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Floriano Peixoto.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Floriano Peixoto.csv;Receitas orçamentárias realizadas - Correntes;Reais;689702721
 Floriano Peixoto.csv;Despesas orçamentárias empenhadas - Correntes;Reais;520113159
 Floriano Peixoto.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5123,7 +5123,7 @@ Forquetinha.csv;Matrícula - Ensino médio - 2009;Matrículas;75
 Forquetinha.csv;Docentes - Ensino fundamental - 2009;Docentes;23
 Forquetinha.csv;Docentes - Ensino médio - 2009;Docentes;7
 Forquetinha.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Forquetinha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Forquetinha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Forquetinha.csv;Receitas orçamentárias realizadas - Correntes;Reais;779256259
 Forquetinha.csv;Despesas orçamentárias empenhadas - Correntes;Reais;551323087
 Forquetinha.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399663656
@@ -5243,7 +5243,7 @@ Garruchos.csv;Matrícula - Ensino médio - 2009;Matrículas;146
 Garruchos.csv;Docentes - Ensino fundamental - 2009;Docentes;43
 Garruchos.csv;Docentes - Ensino médio - 2009;Docentes;10
 Garruchos.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Garruchos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Garruchos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Garruchos.csv;Receitas orçamentárias realizadas - Correntes;Reais;1087827376
 Garruchos.csv;Despesas orçamentárias empenhadas - Correntes;Reais;814577971
 Garruchos.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917663
@@ -5333,7 +5333,7 @@ Gentil.csv;Matrícula - Ensino médio - 2009;Matrículas;65
 Gentil.csv;Docentes - Ensino fundamental - 2009;Docentes;26
 Gentil.csv;Docentes - Ensino médio - 2009;Docentes;9
 Gentil.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Gentil.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Gentil.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Gentil.csv;Receitas orçamentárias realizadas - Correntes;Reais;735618662
 Gentil.csv;Despesas orçamentárias empenhadas - Correntes;Reais;519201777
 Gentil.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917617
@@ -5444,7 +5444,7 @@ Gramado dos Loureiros.csv;População residente - cor ou raça - Branca;pessoas;
 Gramado dos Loureiros.csv;População residente - cor ou raça - Preta;pessoas;162
 Gramado dos Loureiros.csv;População residente - cor ou raça - Parda;pessoas;272
 Gramado dos Loureiros.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;98
-Gramado dos Loureiros.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Gramado dos Loureiros.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Gramado dos Loureiros.csv;Área da unidade territorial;Km²;131.396
 Gramado dos Loureiros.csv;Eleitorado;Eleitores;1989
 Gramado dos Loureiros.csv;PIB per capita a preços correntes;Reais;9324.83
@@ -5453,7 +5453,7 @@ Gramado dos Loureiros.csv;Matrícula - Ensino médio - 2009;Matrículas;114
 Gramado dos Loureiros.csv;Docentes - Ensino fundamental - 2009;Docentes;36
 Gramado dos Loureiros.csv;Docentes - Ensino médio - 2009;Docentes;11
 Gramado dos Loureiros.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Gramado dos Loureiros.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Gramado dos Loureiros.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Gramado dos Loureiros.csv;Receitas orçamentárias realizadas - Correntes;Reais;727782265
 Gramado dos Loureiros.csv;Despesas orçamentárias empenhadas - Correntes;Reais;571242783
 Gramado dos Loureiros.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5483,7 +5483,7 @@ Gramado Xavier.csv;Matrícula - Ensino médio - 2009;Matrículas;140
 Gramado Xavier.csv;Docentes - Ensino fundamental - 2009;Docentes;54
 Gramado Xavier.csv;Docentes - Ensino médio - 2009;Docentes;13
 Gramado Xavier.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Gramado Xavier.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Gramado Xavier.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Gramado Xavier.csv;Receitas orçamentárias realizadas - Correntes;Reais;841440331
 Gramado Xavier.csv;Despesas orçamentárias empenhadas - Correntes;Reais;627287063
 Gramado Xavier.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398639900
@@ -5603,7 +5603,7 @@ Guabiju.csv;Matrícula - Ensino médio - 2009;Matrículas;61
 Guabiju.csv;Docentes - Ensino fundamental - 2009;Docentes;22
 Guabiju.csv;Docentes - Ensino médio - 2009;Docentes;10
 Guabiju.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Guabiju.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Guabiju.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Guabiju.csv;Receitas orçamentárias realizadas - Correntes;Reais;672721385
 Guabiju.csv;Despesas orçamentárias empenhadas - Correntes;Reais;487327697
 Guabiju.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5744,7 +5744,7 @@ Herveiras.csv;População residente - cor ou raça - Branca;pessoas;2380
 Herveiras.csv;População residente - cor ou raça - Preta;pessoas;49
 Herveiras.csv;População residente - cor ou raça - Parda;pessoas;524
 Herveiras.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;111
-Herveiras.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Herveiras.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Herveiras.csv;Área da unidade territorial;Km²;118.281
 Herveiras.csv;Eleitorado;Eleitores;2185
 Herveiras.csv;PIB per capita a preços correntes;Reais;9834.18
@@ -5753,7 +5753,7 @@ Herveiras.csv;Matrícula - Ensino médio - 2009;Matrículas;126
 Herveiras.csv;Docentes - Ensino fundamental - 2009;Docentes;46
 Herveiras.csv;Docentes - Ensino médio - 2009;Docentes;11
 Herveiras.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Herveiras.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Herveiras.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Herveiras.csv;Receitas orçamentárias realizadas - Correntes;Reais;720920075
 Herveiras.csv;Despesas orçamentárias empenhadas - Correntes;Reais;559615445
 Herveiras.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5864,7 +5864,7 @@ Ibarama.csv;População residente - cor ou raça - Branca;pessoas;4089
 Ibarama.csv;População residente - cor ou raça - Preta;pessoas;49
 Ibarama.csv;População residente - cor ou raça - Parda;pessoas;224
 Ibarama.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;244
-Ibarama.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Ibarama.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ibarama.csv;Área da unidade territorial;Km²;193.110
 Ibarama.csv;Eleitorado;Eleitores;3334
 Ibarama.csv;PIB per capita a preços correntes;Reais;12477.41
@@ -6194,7 +6194,7 @@ Inhacorá.csv;População residente - cor ou raça - Branca;pessoas;1561
 Inhacorá.csv;População residente - cor ou raça - Preta;pessoas;105
 Inhacorá.csv;População residente - cor ou raça - Parda;pessoas;577
 Inhacorá.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;134
-Inhacorá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Inhacorá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Inhacorá.csv;Área da unidade territorial;Km²;114.111
 Inhacorá.csv;Eleitorado;Eleitores;1851
 Inhacorá.csv;PIB per capita a preços correntes;Reais;13507.03
@@ -6383,7 +6383,7 @@ Itapuca.csv;Matrícula - Ensino médio - 2009;Matrículas;88
 Itapuca.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Itapuca.csv;Docentes - Ensino médio - 2009;Docentes;11
 Itapuca.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Itapuca.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Itapuca.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Itapuca.csv;Receitas orçamentárias realizadas - Correntes;Reais;703968053
 Itapuca.csv;Despesas orçamentárias empenhadas - Correntes;Reais;538862776
 Itapuca.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -6464,7 +6464,7 @@ Itatiba do Sul.csv;População residente - cor ou raça - Branca;pessoas;3505
 Itatiba do Sul.csv;População residente - cor ou raça - Preta;pessoas;188
 Itatiba do Sul.csv;População residente - cor ou raça - Parda;pessoas;441
 Itatiba do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;198
-Itatiba do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Itatiba do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Itatiba do Sul.csv;Área da unidade territorial;Km²;212.194
 Itatiba do Sul.csv;Eleitorado;Eleitores;3671
 Itatiba do Sul.csv;PIB per capita a preços correntes;Reais;10156.48
@@ -6653,7 +6653,7 @@ Jacuizinho.csv;Matrícula - Ensino médio - 2009;Matrículas;111
 Jacuizinho.csv;Docentes - Ensino fundamental - 2009;Docentes;45
 Jacuizinho.csv;Docentes - Ensino médio - 2009;Docentes;14
 Jacuizinho.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Jacuizinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Jacuizinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Jacuizinho.csv;Receitas orçamentárias realizadas - Correntes;Reais;700124505
 Jacuizinho.csv;Despesas orçamentárias empenhadas - Correntes;Reais;550766886
 Jacuizinho.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917511
@@ -6764,7 +6764,7 @@ Jaquirana.csv;População residente - cor ou raça - Branca;pessoas;3014
 Jaquirana.csv;População residente - cor ou raça - Preta;pessoas;196
 Jaquirana.csv;População residente - cor ou raça - Parda;pessoas;906
 Jaquirana.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;167
-Jaquirana.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Jaquirana.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Jaquirana.csv;Área da unidade territorial;Km²;907.939
 Jaquirana.csv;Eleitorado;Eleitores;3759
 Jaquirana.csv;PIB per capita a preços correntes;Reais;8386.99
@@ -6854,7 +6854,7 @@ Lagoa Bonita do Sul.csv;População residente - cor ou raça - Branca;pessoas;21
 Lagoa Bonita do Sul.csv;População residente - cor ou raça - Preta;pessoas;40
 Lagoa Bonita do Sul.csv;População residente - cor ou raça - Parda;pessoas;393
 Lagoa Bonita do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;138
-Lagoa Bonita do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Lagoa Bonita do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Lagoa Bonita do Sul.csv;Área da unidade territorial;Km²;108.499
 Lagoa Bonita do Sul.csv;Eleitorado;Eleitores;2209
 Lagoa Bonita do Sul.csv;PIB per capita a preços correntes;Reais;14337.11
@@ -6863,7 +6863,7 @@ Lagoa Bonita do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;105
 Lagoa Bonita do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Lagoa Bonita do Sul.csv;Docentes - Ensino médio - 2009;Docentes;13
 Lagoa Bonita do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Lagoa Bonita do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Lagoa Bonita do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lagoa Bonita do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;665234429
 Lagoa Bonita do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;560215912
 Lagoa Bonita do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398843654
@@ -6893,7 +6893,7 @@ Lagoa dos Três Cantos.csv;Matrícula - Ensino médio - 2009;Matrículas;54
 Lagoa dos Três Cantos.csv;Docentes - Ensino fundamental - 2009;Docentes;14
 Lagoa dos Três Cantos.csv;Docentes - Ensino médio - 2009;Docentes;9
 Lagoa dos Três Cantos.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Lagoa dos Três Cantos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Lagoa dos Três Cantos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lagoa dos Três Cantos.csv;Receitas orçamentárias realizadas - Correntes;Reais;743732915
 Lagoa dos Três Cantos.csv;Despesas orçamentárias empenhadas - Correntes;Reais;532301163
 Lagoa dos Três Cantos.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -6944,7 +6944,7 @@ Lajeado do Bugre.csv;População residente - cor ou raça - Branca;pessoas;1695
 Lajeado do Bugre.csv;População residente - cor ou raça - Preta;pessoas;29
 Lajeado do Bugre.csv;População residente - cor ou raça - Parda;pessoas;719
 Lajeado do Bugre.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;145
-Lajeado do Bugre.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Lajeado do Bugre.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Lajeado do Bugre.csv;Área da unidade territorial;Km²;67.934
 Lajeado do Bugre.csv;Eleitorado;Eleitores;1513
 Lajeado do Bugre.csv;PIB per capita a preços correntes;Reais;10628.75
@@ -6953,7 +6953,7 @@ Lajeado do Bugre.csv;Matrícula - Ensino médio - 2009;Matrículas;60
 Lajeado do Bugre.csv;Docentes - Ensino fundamental - 2009;Docentes;35
 Lajeado do Bugre.csv;Docentes - Ensino médio - 2009;Docentes;11
 Lajeado do Bugre.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Lajeado do Bugre.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Lajeado do Bugre.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lajeado do Bugre.csv;Receitas orçamentárias realizadas - Correntes;Reais;602466059
 Lajeado do Bugre.csv;Despesas orçamentárias empenhadas - Correntes;Reais;468758337
 Lajeado do Bugre.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399082694
@@ -7073,7 +7073,7 @@ Lindolfo Collor.csv;Matrícula - Ensino médio - 2009;Matrículas;221
 Lindolfo Collor.csv;Docentes - Ensino fundamental - 2009;Docentes;51
 Lindolfo Collor.csv;Docentes - Ensino médio - 2009;Docentes;15
 Lindolfo Collor.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Lindolfo Collor.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Lindolfo Collor.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lindolfo Collor.csv;Receitas orçamentárias realizadas - Correntes;Reais;1078954493
 Lindolfo Collor.csv;Despesas orçamentárias empenhadas - Correntes;Reais;814483683
 Lindolfo Collor.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7103,7 +7103,7 @@ Linha Nova.csv;Matrícula - Ensino médio - 2009;Matrículas;43
 Linha Nova.csv;Docentes - Ensino fundamental - 2009;Docentes;18
 Linha Nova.csv;Docentes - Ensino médio - 2009;Docentes;9
 Linha Nova.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Linha Nova.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Linha Nova.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Linha Nova.csv;Receitas orçamentárias realizadas - Correntes;Reais;614290157
 Linha Nova.csv;Despesas orçamentárias empenhadas - Correntes;Reais;395382313
 Linha Nova.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7133,7 +7133,7 @@ Maçambara.csv;Matrícula - Ensino médio - 2009;Matrículas;277
 Maçambara.csv;Docentes - Ensino fundamental - 2009;Docentes;86
 Maçambara.csv;Docentes - Ensino médio - 2009;Docentes;24
 Maçambara.csv;Estabelecimentos de Saúde SUS;estabelecimentos;7
-Maçambara.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Maçambara.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Maçambara.csv;Receitas orçamentárias realizadas - Correntes;Reais;1178855142
 Maçambara.csv;Despesas orçamentárias empenhadas - Correntes;Reais;961022893
 Maçambara.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803766
@@ -7193,7 +7193,7 @@ Mampituba.csv;Matrícula - Ensino médio - 2009;Matrículas;93
 Mampituba.csv;Docentes - Ensino fundamental - 2009;Docentes;35
 Mampituba.csv;Docentes - Ensino médio - 2009;Docentes;9
 Mampituba.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Mampituba.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Mampituba.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Mampituba.csv;Receitas orçamentárias realizadas - Correntes;Reais;751019670
 Mampituba.csv;Despesas orçamentárias empenhadas - Correntes;Reais;574903095
 Mampituba.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -7274,7 +7274,7 @@ Maratá.csv;População residente - cor ou raça - Branca;pessoas;2449
 Maratá.csv;População residente - cor ou raça - Preta;pessoas;16
 Maratá.csv;População residente - cor ou raça - Parda;pessoas;58
 Maratá.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;18
-Maratá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Maratá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Maratá.csv;Área da unidade territorial;Km²;81.179
 Maratá.csv;Eleitorado;Eleitores;2157
 Maratá.csv;PIB per capita a preços correntes;Reais;15618.97
@@ -7283,7 +7283,7 @@ Maratá.csv;Matrícula - Ensino médio - 2009;Matrículas;92
 Maratá.csv;Docentes - Ensino fundamental - 2009;Docentes;28
 Maratá.csv;Docentes - Ensino médio - 2009;Docentes;9
 Maratá.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Maratá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Maratá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Maratá.csv;Receitas orçamentárias realizadas - Correntes;Reais;897693330
 Maratá.csv;Despesas orçamentárias empenhadas - Correntes;Reais;708467679
 Maratá.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7493,7 +7493,7 @@ Mato Castelhano.csv;Matrícula - Ensino médio - 2009;Matrículas;101
 Mato Castelhano.csv;Docentes - Ensino fundamental - 2009;Docentes;30
 Mato Castelhano.csv;Docentes - Ensino médio - 2009;Docentes;11
 Mato Castelhano.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Mato Castelhano.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Mato Castelhano.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Mato Castelhano.csv;Receitas orçamentárias realizadas - Correntes;Reais;785501826
 Mato Castelhano.csv;Despesas orçamentárias empenhadas - Correntes;Reais;602722469
 Mato Castelhano.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398355186
@@ -7514,7 +7514,7 @@ Mato Leitão.csv;População residente - cor ou raça - Branca;pessoas;3667
 Mato Leitão.csv;População residente - cor ou raça - Preta;pessoas;57
 Mato Leitão.csv;População residente - cor ou raça - Parda;pessoas;140
 Mato Leitão.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;35
-Mato Leitão.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Mato Leitão.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Mato Leitão.csv;Área da unidade territorial;Km²;45.903
 Mato Leitão.csv;Eleitorado;Eleitores;2897
 Mato Leitão.csv;PIB per capita a preços correntes;Reais;24808.11
@@ -7544,7 +7544,7 @@ Mato Queimado.csv;População residente - cor ou raça - Branca;pessoas;1472
 Mato Queimado.csv;População residente - cor ou raça - Preta;pessoas;20
 Mato Queimado.csv;População residente - cor ou raça - Parda;pessoas;307
 Mato Queimado.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;43
-Mato Queimado.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Mato Queimado.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Mato Queimado.csv;Área da unidade territorial;Km²;114.641
 Mato Queimado.csv;Eleitorado;Eleitores;1608
 Mato Queimado.csv;PIB per capita a preços correntes;Reais;12959.74
@@ -7553,7 +7553,7 @@ Mato Queimado.csv;Matrícula - Ensino médio - 2009;Matrículas;66
 Mato Queimado.csv;Docentes - Ensino fundamental - 2009;Docentes;27
 Mato Queimado.csv;Docentes - Ensino médio - 2009;Docentes;8
 Mato Queimado.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Mato Queimado.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Mato Queimado.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Mato Queimado.csv;Receitas orçamentárias realizadas - Correntes;Reais;727210474
 Mato Queimado.csv;Despesas orçamentárias empenhadas - Correntes;Reais;470653660
 Mato Queimado.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7574,7 +7574,7 @@ Maximiliano de Almeida.csv;População residente - cor ou raça - Branca;pessoas
 Maximiliano de Almeida.csv;População residente - cor ou raça - Preta;pessoas;187
 Maximiliano de Almeida.csv;População residente - cor ou raça - Parda;pessoas;884
 Maximiliano de Almeida.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;243
-Maximiliano de Almeida.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Maximiliano de Almeida.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Maximiliano de Almeida.csv;Área da unidade territorial;Km²;208.526
 Maximiliano de Almeida.csv;Eleitorado;Eleitores;3880
 Maximiliano de Almeida.csv;PIB per capita a preços correntes;Reais;13058.28
@@ -7703,7 +7703,7 @@ Monte Alegre dos Campos.csv;Matrícula - Ensino médio - 2009;Matrículas;126
 Monte Alegre dos Campos.csv;Docentes - Ensino fundamental - 2009;Docentes;39
 Monte Alegre dos Campos.csv;Docentes - Ensino médio - 2009;Docentes;9
 Monte Alegre dos Campos.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Monte Alegre dos Campos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Monte Alegre dos Campos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Monte Alegre dos Campos.csv;Receitas orçamentárias realizadas - Correntes;Reais;807287556
 Monte Alegre dos Campos.csv;Despesas orçamentárias empenhadas - Correntes;Reais;628654219
 Monte Alegre dos Campos.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7724,7 +7724,7 @@ Monte Belo do Sul.csv;População residente - cor ou raça - Branca;pessoas;2615
 Monte Belo do Sul.csv;População residente - cor ou raça - Preta;pessoas;10
 Monte Belo do Sul.csv;População residente - cor ou raça - Parda;pessoas;42
 Monte Belo do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;10
-Monte Belo do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Monte Belo do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Monte Belo do Sul.csv;Área da unidade territorial;Km²;68.369
 Monte Belo do Sul.csv;Eleitorado;Eleitores;2601
 Monte Belo do Sul.csv;PIB per capita a preços correntes;Reais;20008.83
@@ -7883,7 +7883,7 @@ Morro Reuter.csv;Matrícula - Ensino médio - 2009;Matrículas;229
 Morro Reuter.csv;Docentes - Ensino fundamental - 2009;Docentes;63
 Morro Reuter.csv;Docentes - Ensino médio - 2009;Docentes;17
 Morro Reuter.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Morro Reuter.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Morro Reuter.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Morro Reuter.csv;Receitas orçamentárias realizadas - Correntes;Reais;1077577903
 Morro Reuter.csv;Despesas orçamentárias empenhadas - Correntes;Reais;927202203
 Morro Reuter.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7973,7 +7973,7 @@ Muitos Capões.csv;Matrícula - Ensino médio - 2009;Matrículas;105
 Muitos Capões.csv;Docentes - Ensino fundamental - 2009;Docentes;34
 Muitos Capões.csv;Docentes - Ensino médio - 2009;Docentes;12
 Muitos Capões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Muitos Capões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Muitos Capões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Muitos Capões.csv;Receitas orçamentárias realizadas - Correntes;Reais;1154021091
 Muitos Capões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;898876141
 Muitos Capões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8003,7 +8003,7 @@ Muliterno.csv;Matrícula - Ensino médio - 2009;Matrículas;74
 Muliterno.csv;Docentes - Ensino fundamental - 2009;Docentes;23
 Muliterno.csv;Docentes - Ensino médio - 2009;Docentes;9
 Muliterno.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Muliterno.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Muliterno.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Muliterno.csv;Receitas orçamentárias realizadas - Correntes;Reais;658647968
 Muliterno.csv;Despesas orçamentárias empenhadas - Correntes;Reais;462986848
 Muliterno.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917539
@@ -8063,7 +8063,7 @@ Nicolau Vergueiro.csv;Matrícula - Ensino médio - 2009;Matrículas;63
 Nicolau Vergueiro.csv;Docentes - Ensino fundamental - 2009;Docentes;16
 Nicolau Vergueiro.csv;Docentes - Ensino médio - 2009;Docentes;7
 Nicolau Vergueiro.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Nicolau Vergueiro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Nicolau Vergueiro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nicolau Vergueiro.csv;Receitas orçamentárias realizadas - Correntes;Reais;698156054
 Nicolau Vergueiro.csv;Despesas orçamentárias empenhadas - Correntes;Reais;517285655
 Nicolau Vergueiro.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;407331507
@@ -8213,7 +8213,7 @@ Nova Boa Vista.csv;Matrícula - Ensino médio - 2009;Matrículas;102
 Nova Boa Vista.csv;Docentes - Ensino fundamental - 2009;Docentes;28
 Nova Boa Vista.csv;Docentes - Ensino médio - 2009;Docentes;12
 Nova Boa Vista.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Nova Boa Vista.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Nova Boa Vista.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Boa Vista.csv;Receitas orçamentárias realizadas - Correntes;Reais;799275050
 Nova Boa Vista.csv;Despesas orçamentárias empenhadas - Correntes;Reais;546061165
 Nova Boa Vista.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398936033
@@ -8273,7 +8273,7 @@ Nova Candelária.csv;Matrícula - Ensino médio - 2009;Matrículas;103
 Nova Candelária.csv;Docentes - Ensino fundamental - 2009;Docentes;27
 Nova Candelária.csv;Docentes - Ensino médio - 2009;Docentes;11
 Nova Candelária.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Nova Candelária.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Nova Candelária.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Candelária.csv;Receitas orçamentárias realizadas - Correntes;Reais;891343452
 Nova Candelária.csv;Despesas orçamentárias empenhadas - Correntes;Reais;619626266
 Nova Candelária.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917638
@@ -8333,7 +8333,7 @@ Nova Hartz.csv;Matrícula - Ensino médio - 2009;Matrículas;926
 Nova Hartz.csv;Docentes - Ensino fundamental - 2009;Docentes;140
 Nova Hartz.csv;Docentes - Ensino médio - 2009;Docentes;34
 Nova Hartz.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Nova Hartz.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Nova Hartz.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Hartz.csv;Receitas orçamentárias realizadas - Correntes;Reais;2423683265
 Nova Hartz.csv;Despesas orçamentárias empenhadas - Correntes;Reais;1977037595
 Nova Hartz.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;797835124
@@ -8354,7 +8354,7 @@ Nova Pádua.csv;População residente - cor ou raça - Branca;pessoas;2363
 Nova Pádua.csv;População residente - cor ou raça - Preta;pessoas;9
 Nova Pádua.csv;População residente - cor ou raça - Parda;pessoas;76
 Nova Pádua.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;12
-Nova Pádua.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Nova Pádua.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Nova Pádua.csv;Área da unidade territorial;Km²;103.238
 Nova Pádua.csv;Eleitorado;Eleitores;2102
 Nova Pádua.csv;PIB per capita a preços correntes;Reais;17192.40
@@ -8483,7 +8483,7 @@ Nova Ramada.csv;Matrícula - Ensino médio - 2009;Matrículas;88
 Nova Ramada.csv;Docentes - Ensino fundamental - 2009;Docentes;30
 Nova Ramada.csv;Docentes - Ensino médio - 2009;Docentes;8
 Nova Ramada.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Nova Ramada.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Nova Ramada.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Ramada.csv;Receitas orçamentárias realizadas - Correntes;Reais;822750446
 Nova Ramada.csv;Despesas orçamentárias empenhadas - Correntes;Reais;655445263
 Nova Ramada.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8573,7 +8573,7 @@ Novo Barreiro.csv;Matrícula - Ensino médio - 2009;Matrículas;187
 Novo Barreiro.csv;Docentes - Ensino fundamental - 2009;Docentes;48
 Novo Barreiro.csv;Docentes - Ensino médio - 2009;Docentes;17
 Novo Barreiro.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Novo Barreiro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Novo Barreiro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Barreiro.csv;Receitas orçamentárias realizadas - Correntes;Reais;871613567
 Novo Barreiro.csv;Despesas orçamentárias empenhadas - Correntes;Reais;685001033
 Novo Barreiro.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8603,7 +8603,7 @@ Novo Cabrais.csv;Matrícula - Ensino médio - 2009;Matrículas;158
 Novo Cabrais.csv;Docentes - Ensino fundamental - 2009;Docentes;40
 Novo Cabrais.csv;Docentes - Ensino médio - 2009;Docentes;12
 Novo Cabrais.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Novo Cabrais.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Novo Cabrais.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Cabrais.csv;Receitas orçamentárias realizadas - Correntes;Reais;880687219
 Novo Cabrais.csv;Despesas orçamentárias empenhadas - Correntes;Reais;651074246
 Novo Cabrais.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -8654,7 +8654,7 @@ Novo Machado.csv;População residente - cor ou raça - Branca;pessoas;3554
 Novo Machado.csv;População residente - cor ou raça - Preta;pessoas;44
 Novo Machado.csv;População residente - cor ou raça - Parda;pessoas;321
 Novo Machado.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;201
-Novo Machado.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Novo Machado.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Novo Machado.csv;Área da unidade territorial;Km²;218.670
 Novo Machado.csv;Eleitorado;Eleitores;3357
 Novo Machado.csv;PIB per capita a preços correntes;Reais;12485.95
@@ -8663,7 +8663,7 @@ Novo Machado.csv;Matrícula - Ensino médio - 2009;Matrículas;125
 Novo Machado.csv;Docentes - Ensino fundamental - 2009;Docentes;44
 Novo Machado.csv;Docentes - Ensino médio - 2009;Docentes;11
 Novo Machado.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Novo Machado.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Novo Machado.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Machado.csv;Receitas orçamentárias realizadas - Correntes;Reais;848329289
 Novo Machado.csv;Despesas orçamentárias empenhadas - Correntes;Reais;623788354
 Novo Machado.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8684,7 +8684,7 @@ Novo Tiradentes.csv;População residente - cor ou raça - Branca;pessoas;1782
 Novo Tiradentes.csv;População residente - cor ou raça - Preta;pessoas;77
 Novo Tiradentes.csv;População residente - cor ou raça - Parda;pessoas;417
 Novo Tiradentes.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;142
-Novo Tiradentes.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Novo Tiradentes.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Novo Tiradentes.csv;Área da unidade territorial;Km²;75.396
 Novo Tiradentes.csv;Eleitorado;Eleitores;1965
 Novo Tiradentes.csv;PIB per capita a preços correntes;Reais;9559.63
@@ -8693,7 +8693,7 @@ Novo Tiradentes.csv;Matrícula - Ensino médio - 2009;Matrículas;102
 Novo Tiradentes.csv;Docentes - Ensino fundamental - 2009;Docentes;36
 Novo Tiradentes.csv;Docentes - Ensino médio - 2009;Docentes;14
 Novo Tiradentes.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Novo Tiradentes.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Novo Tiradentes.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Tiradentes.csv;Receitas orçamentárias realizadas - Correntes;Reais;745032126
 Novo Tiradentes.csv;Despesas orçamentárias empenhadas - Correntes;Reais;558776326
 Novo Tiradentes.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8723,7 +8723,7 @@ Novo Xingu.csv;Matrícula - Ensino médio - 2009;Matrículas;66
 Novo Xingu.csv;Docentes - Ensino fundamental - 2009;Docentes;22
 Novo Xingu.csv;Docentes - Ensino médio - 2009;Docentes;10
 Novo Xingu.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Novo Xingu.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Novo Xingu.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Xingu.csv;Receitas orçamentárias realizadas - Correntes;Reais;633879786
 Novo Xingu.csv;Despesas orçamentárias empenhadas - Correntes;Reais;467872964
 Novo Xingu.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;395821260
@@ -8984,7 +8984,7 @@ Paraíso do Sul.csv;População residente - cor ou raça - Branca;pessoas;6481
 Paraíso do Sul.csv;População residente - cor ou raça - Preta;pessoas;299
 Paraíso do Sul.csv;População residente - cor ou raça - Parda;pessoas;544
 Paraíso do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;247
-Paraíso do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Paraíso do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Paraíso do Sul.csv;Área da unidade territorial;Km²;337.843
 Paraíso do Sul.csv;Eleitorado;Eleitores;5810
 Paraíso do Sul.csv;PIB per capita a preços correntes;Reais;12410.16
@@ -9023,7 +9023,7 @@ Pareci Novo.csv;Matrícula - Ensino médio - 2009;Matrículas;112
 Pareci Novo.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Pareci Novo.csv;Docentes - Ensino médio - 2009;Docentes;11
 Pareci Novo.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Pareci Novo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Pareci Novo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pareci Novo.csv;Receitas orçamentárias realizadas - Correntes;Reais;1050554982
 Pareci Novo.csv;Despesas orçamentárias empenhadas - Correntes;Reais;790575836
 Pareci Novo.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9074,7 +9074,7 @@ Passa Sete.csv;População residente - cor ou raça - Branca;pessoas;4413
 Passa Sete.csv;População residente - cor ou raça - Preta;pessoas;123
 Passa Sete.csv;População residente - cor ou raça - Parda;pessoas;532
 Passa Sete.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;355
-Passa Sete.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Passa Sete.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Passa Sete.csv;Área da unidade territorial;Km²;304.540
 Passa Sete.csv;Eleitorado;Eleitores;3729
 Passa Sete.csv;PIB per capita a preços correntes;Reais;12231.87
@@ -9173,7 +9173,7 @@ Paulo Bento.csv;Matrícula - Ensino médio - 2009;Matrículas;54
 Paulo Bento.csv;Docentes - Ensino fundamental - 2009;Docentes;19
 Paulo Bento.csv;Docentes - Ensino médio - 2009;Docentes;9
 Paulo Bento.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Paulo Bento.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Paulo Bento.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Paulo Bento.csv;Receitas orçamentárias realizadas - Correntes;Reais;710208900
 Paulo Bento.csv;Despesas orçamentárias empenhadas - Correntes;Reais;518370237
 Paulo Bento.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9224,7 +9224,7 @@ Pedras Altas.csv;População residente - cor ou raça - Branca;pessoas;1438
 Pedras Altas.csv;População residente - cor ou raça - Preta;pessoas;259
 Pedras Altas.csv;População residente - cor ou raça - Parda;pessoas;500
 Pedras Altas.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;92
-Pedras Altas.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Pedras Altas.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Pedras Altas.csv;Área da unidade territorial;Km²;1377.378
 Pedras Altas.csv;Eleitorado;Eleitores;1994
 Pedras Altas.csv;PIB per capita a preços correntes;Reais;16812.49
@@ -9233,7 +9233,7 @@ Pedras Altas.csv;Matrícula - Ensino médio - 2009;Matrículas;69
 Pedras Altas.csv;Docentes - Ensino fundamental - 2009;Docentes;50
 Pedras Altas.csv;Docentes - Ensino médio - 2009;Docentes;7
 Pedras Altas.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Pedras Altas.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Pedras Altas.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pedras Altas.csv;Receitas orçamentárias realizadas - Correntes;Reais;895706490
 Pedras Altas.csv;Despesas orçamentárias empenhadas - Correntes;Reais;702766693
 Pedras Altas.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;376297339
@@ -9344,7 +9344,7 @@ Picada Café.csv;População residente - cor ou raça - Branca;pessoas;4787
 Picada Café.csv;População residente - cor ou raça - Preta;pessoas;44
 Picada Café.csv;População residente - cor ou raça - Parda;pessoas;334
 Picada Café.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;32
-Picada Café.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Picada Café.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Picada Café.csv;Área da unidade territorial;Km²;85.146
 Picada Café.csv;Eleitorado;Eleitores;3754
 Picada Café.csv;PIB per capita a preços correntes;Reais;25912.50
@@ -9374,7 +9374,7 @@ Pinhal da Serra.csv;População residente - cor ou raça - Branca;pessoas;1584
 Pinhal da Serra.csv;População residente - cor ou raça - Preta;pessoas;25
 Pinhal da Serra.csv;População residente - cor ou raça - Parda;pessoas;500
 Pinhal da Serra.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;128
-Pinhal da Serra.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Pinhal da Serra.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Pinhal da Serra.csv;Área da unidade territorial;Km²;437.352
 Pinhal da Serra.csv;Eleitorado;Eleitores;2004
 Pinhal da Serra.csv;PIB per capita a preços correntes;Reais;61753.05
@@ -9383,7 +9383,7 @@ Pinhal da Serra.csv;Matrícula - Ensino médio - 2009;Matrículas;83
 Pinhal da Serra.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Pinhal da Serra.csv;Docentes - Ensino médio - 2009;Docentes;11
 Pinhal da Serra.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Pinhal da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Pinhal da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pinhal da Serra.csv;Receitas orçamentárias realizadas - Correntes;Reais;1680544283
 Pinhal da Serra.csv;Despesas orçamentárias empenhadas - Correntes;Reais;892046937
 Pinhal da Serra.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917537
@@ -9443,7 +9443,7 @@ Pinhal.csv;Matrícula - Ensino médio - 2009;Matrículas;111
 Pinhal.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 Pinhal.csv;Docentes - Ensino médio - 2009;Docentes;17
 Pinhal.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Pinhal.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Pinhal.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pinhal.csv;Receitas orçamentárias realizadas - Correntes;Reais;793589193
 Pinhal.csv;Despesas orçamentárias empenhadas - Correntes;Reais;577607061
 Pinhal.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9473,7 +9473,7 @@ Pinheirinho do Vale.csv;Matrícula - Ensino médio - 2009;Matrículas;174
 Pinheirinho do Vale.csv;Docentes - Ensino fundamental - 2009;Docentes;44
 Pinheirinho do Vale.csv;Docentes - Ensino médio - 2009;Docentes;13
 Pinheirinho do Vale.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Pinheirinho do Vale.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Pinheirinho do Vale.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pinheirinho do Vale.csv;Receitas orçamentárias realizadas - Correntes;Reais;886747977
 Pinheirinho do Vale.csv;Despesas orçamentárias empenhadas - Correntes;Reais;692786900
 Pinheirinho do Vale.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9653,7 +9653,7 @@ Pontão.csv;Matrícula - Ensino médio - 2009;Matrículas;190
 Pontão.csv;Docentes - Ensino fundamental - 2009;Docentes;35
 Pontão.csv;Docentes - Ensino médio - 2009;Docentes;20
 Pontão.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Pontão.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Pontão.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pontão.csv;Receitas orçamentárias realizadas - Correntes;Reais;1163004900
 Pontão.csv;Despesas orçamentárias empenhadas - Correntes;Reais;865207000
 Pontão.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917500
@@ -9674,7 +9674,7 @@ Ponte Preta.csv;População residente - cor ou raça - Branca;pessoas;1653
 Ponte Preta.csv;População residente - cor ou raça - Preta;pessoas;16
 Ponte Preta.csv;População residente - cor ou raça - Parda;pessoas;79
 Ponte Preta.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;26
-Ponte Preta.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Ponte Preta.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ponte Preta.csv;Área da unidade territorial;Km²;99.873
 Ponte Preta.csv;Eleitorado;Eleitores;1550
 Ponte Preta.csv;PIB per capita a preços correntes;Reais;13974.92
@@ -9683,7 +9683,7 @@ Ponte Preta.csv;Matrícula - Ensino médio - 2009;Matrículas;52
 Ponte Preta.csv;Docentes - Ensino fundamental - 2009;Docentes;18
 Ponte Preta.csv;Docentes - Ensino médio - 2009;Docentes;9
 Ponte Preta.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Ponte Preta.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Ponte Preta.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Ponte Preta.csv;Receitas orçamentárias realizadas - Correntes;Reais;657947700
 Ponte Preta.csv;Despesas orçamentárias empenhadas - Correntes;Reais;458566700
 Ponte Preta.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917600
@@ -9764,7 +9764,7 @@ Porto Lucena.csv;População residente - cor ou raça - Branca;pessoas;4608
 Porto Lucena.csv;População residente - cor ou raça - Preta;pessoas;76
 Porto Lucena.csv;População residente - cor ou raça - Parda;pessoas;718
 Porto Lucena.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;252
-Porto Lucena.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Porto Lucena.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Porto Lucena.csv;Área da unidade territorial;Km²;250.079
 Porto Lucena.csv;Eleitorado;Eleitores;4770
 Porto Lucena.csv;PIB per capita a preços correntes;Reais;8977.18
@@ -9794,7 +9794,7 @@ Porto Mauá.csv;População residente - cor ou raça - Branca;pessoas;2196
 Porto Mauá.csv;População residente - cor ou raça - Preta;pessoas;15
 Porto Mauá.csv;População residente - cor ou raça - Parda;pessoas;278
 Porto Mauá.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;77
-Porto Mauá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Porto Mauá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Porto Mauá.csv;Área da unidade territorial;Km²;105.561
 Porto Mauá.csv;Eleitorado;Eleitores;2107
 Porto Mauá.csv;PIB per capita a preços correntes;Reais;10648.91
@@ -9803,7 +9803,7 @@ Porto Mauá.csv;Matrícula - Ensino médio - 2009;Matrículas;93
 Porto Mauá.csv;Docentes - Ensino fundamental - 2009;Docentes;19
 Porto Mauá.csv;Docentes - Ensino médio - 2009;Docentes;9
 Porto Mauá.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Porto Mauá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Porto Mauá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Porto Mauá.csv;Receitas orçamentárias realizadas - Correntes;Reais;749414440
 Porto Mauá.csv;Despesas orçamentárias empenhadas - Correntes;Reais;504972944
 Porto Mauá.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9824,7 +9824,7 @@ Porto Vera Cruz.csv;População residente - cor ou raça - Branca;pessoas;1609
 Porto Vera Cruz.csv;População residente - cor ou raça - Preta;pessoas;116
 Porto Vera Cruz.csv;População residente - cor ou raça - Parda;pessoas;112
 Porto Vera Cruz.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;117
-Porto Vera Cruz.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Porto Vera Cruz.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Porto Vera Cruz.csv;Área da unidade territorial;Km²;113.647
 Porto Vera Cruz.csv;Eleitorado;Eleitores;1756
 Porto Vera Cruz.csv;PIB per capita a preços correntes;Reais;10530.44
@@ -9833,7 +9833,7 @@ Porto Vera Cruz.csv;Matrícula - Ensino médio - 2009;Matrículas;87
 Porto Vera Cruz.csv;Docentes - Ensino fundamental - 2009;Docentes;28
 Porto Vera Cruz.csv;Docentes - Ensino médio - 2009;Docentes;5
 Porto Vera Cruz.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Porto Vera Cruz.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Porto Vera Cruz.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Porto Vera Cruz.csv;Receitas orçamentárias realizadas - Correntes;Reais;619671078
 Porto Vera Cruz.csv;Despesas orçamentárias empenhadas - Correntes;Reais;479602221
 Porto Vera Cruz.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9914,7 +9914,7 @@ Presidente Lucena.csv;População residente - cor ou raça - Branca;pessoas;2350
 Presidente Lucena.csv;População residente - cor ou raça - Preta;pessoas;21
 Presidente Lucena.csv;População residente - cor ou raça - Parda;pessoas;95
 Presidente Lucena.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;14
-Presidente Lucena.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Presidente Lucena.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Presidente Lucena.csv;Área da unidade territorial;Km²;49.426
 Presidente Lucena.csv;Eleitorado;Eleitores;1868
 Presidente Lucena.csv;PIB per capita a preços correntes;Reais;13911.11
@@ -9923,7 +9923,7 @@ Presidente Lucena.csv;Matrícula - Ensino médio - 2009;Matrículas;89
 Presidente Lucena.csv;Docentes - Ensino fundamental - 2009;Docentes;23
 Presidente Lucena.csv;Docentes - Ensino médio - 2009;Docentes;10
 Presidente Lucena.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Presidente Lucena.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Presidente Lucena.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Presidente Lucena.csv;Receitas orçamentárias realizadas - Correntes;Reais;697110594
 Presidente Lucena.csv;Despesas orçamentárias empenhadas - Correntes;Reais;526313877
 Presidente Lucena.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9983,7 +9983,7 @@ Protásio Alves.csv;Matrícula - Ensino médio - 2009;Matrículas;74
 Protásio Alves.csv;Docentes - Ensino fundamental - 2009;Docentes;19
 Protásio Alves.csv;Docentes - Ensino médio - 2009;Docentes;9
 Protásio Alves.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Protásio Alves.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Protásio Alves.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Protásio Alves.csv;Receitas orçamentárias realizadas - Correntes;Reais;738851057
 Protásio Alves.csv;Despesas orçamentárias empenhadas - Correntes;Reais;490087971
 Protásio Alves.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10073,7 +10073,7 @@ Quatro Irmãos.csv;Matrícula - Ensino médio - 2009;Matrículas;59
 Quatro Irmãos.csv;Docentes - Ensino fundamental - 2009;Docentes;24
 Quatro Irmãos.csv;Docentes - Ensino médio - 2009;Docentes;9
 Quatro Irmãos.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Quatro Irmãos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Quatro Irmãos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Quatro Irmãos.csv;Receitas orçamentárias realizadas - Correntes;Reais;730366196
 Quatro Irmãos.csv;Despesas orçamentárias empenhadas - Correntes;Reais;550803970
 Quatro Irmãos.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10103,7 +10103,7 @@ Quevedos.csv;Matrícula - Ensino médio - 2009;Matrículas;104
 Quevedos.csv;Docentes - Ensino fundamental - 2009;Docentes;46
 Quevedos.csv;Docentes - Ensino médio - 2009;Docentes;13
 Quevedos.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Quevedos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Quevedos.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Quevedos.csv;Receitas orçamentárias realizadas - Correntes;Reais;887839735
 Quevedos.csv;Despesas orçamentárias empenhadas - Correntes;Reais;678015987
 Quevedos.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398930805
@@ -10253,7 +10253,7 @@ Rio dos Índios.csv;Matrícula - Ensino médio - 2009;Matrículas;167
 Rio dos Índios.csv;Docentes - Ensino fundamental - 2009;Docentes;89
 Rio dos Índios.csv;Docentes - Ensino médio - 2009;Docentes;14
 Rio dos Índios.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Rio dos Índios.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Rio dos Índios.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Rio dos Índios.csv;Receitas orçamentárias realizadas - Correntes;Reais;846932553
 Rio dos Índios.csv;Despesas orçamentárias empenhadas - Correntes;Reais;664156449
 Rio dos Índios.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917547
@@ -10343,7 +10343,7 @@ Riozinho.csv;Matrícula - Ensino médio - 2009;Matrículas;172
 Riozinho.csv;Docentes - Ensino fundamental - 2009;Docentes;47
 Riozinho.csv;Docentes - Ensino médio - 2009;Docentes;14
 Riozinho.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Riozinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Riozinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Riozinho.csv;Receitas orçamentárias realizadas - Correntes;Reais;1027473530
 Riozinho.csv;Despesas orçamentárias empenhadas - Correntes;Reais;734380634
 Riozinho.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803762
@@ -10424,7 +10424,7 @@ Rolador.csv;População residente - cor ou raça - Branca;pessoas;2128
 Rolador.csv;População residente - cor ou raça - Preta;pessoas;37
 Rolador.csv;População residente - cor ou raça - Parda;pessoas;367
 Rolador.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;105
-Rolador.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Rolador.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Rolador.csv;Área da unidade territorial;Km²;295.006
 Rolador.csv;Eleitorado;Eleitores;2530
 Rolador.csv;PIB per capita a preços correntes;Reais;15243.48
@@ -10433,7 +10433,7 @@ Rolador.csv;Matrícula - Ensino médio - 2009;Matrículas;120
 Rolador.csv;Docentes - Ensino fundamental - 2009;Docentes;41
 Rolador.csv;Docentes - Ensino médio - 2009;Docentes;10
 Rolador.csv;Estabelecimentos de Saúde SUS;estabelecimentos;8
-Rolador.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Rolador.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Rolador.csv;Receitas orçamentárias realizadas - Correntes;Reais;853764784
 Rolador.csv;Despesas orçamentárias empenhadas - Correntes;Reais;552026222
 Rolador.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399162368
@@ -10823,7 +10823,7 @@ São João do Polêsine.csv;Matrícula - Ensino médio - 2009;Matrículas;111
 São João do Polêsine.csv;Docentes - Ensino fundamental - 2009;Docentes;41
 São João do Polêsine.csv;Docentes - Ensino médio - 2009;Docentes;14
 São João do Polêsine.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-São João do Polêsine.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São João do Polêsine.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São João do Polêsine.csv;Receitas orçamentárias realizadas - Correntes;Reais;714653390
 São João do Polêsine.csv;Despesas orçamentárias empenhadas - Correntes;Reais;549746918
 São João do Polêsine.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10883,7 +10883,7 @@ São José das Missões.csv;Matrícula - Ensino médio - 2009;Matrículas;139
 São José das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;36
 São José das Missões.csv;Docentes - Ensino médio - 2009;Docentes;12
 São José das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São José das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São José das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;670972590
 São José das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;549357240
 São José das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10934,7 +10934,7 @@ São José do Hortêncio.csv;População residente - cor ou raça - Branca;pesso
 São José do Hortêncio.csv;População residente - cor ou raça - Preta;pessoas;15
 São José do Hortêncio.csv;População residente - cor ou raça - Parda;pessoas;76
 São José do Hortêncio.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;14
-São José do Hortêncio.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+São José do Hortêncio.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São José do Hortêncio.csv;Área da unidade territorial;Km²;64.113
 São José do Hortêncio.csv;Eleitorado;Eleitores;3020
 São José do Hortêncio.csv;PIB per capita a preços correntes;Reais;13945.44
@@ -10943,7 +10943,7 @@ São José do Hortêncio.csv;Matrícula - Ensino médio - 2009;Matrículas;139
 São José do Hortêncio.csv;Docentes - Ensino fundamental - 2009;Docentes;39
 São José do Hortêncio.csv;Docentes - Ensino médio - 2009;Docentes;14
 São José do Hortêncio.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São José do Hortêncio.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São José do Hortêncio.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José do Hortêncio.csv;Receitas orçamentárias realizadas - Correntes;Reais;985414887
 São José do Hortêncio.csv;Despesas orçamentárias empenhadas - Correntes;Reais;612188084
 São José do Hortêncio.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;396797313
@@ -10964,7 +10964,7 @@ São José do Inhacorá.csv;População residente - cor ou raça - Branca;pessoa
 São José do Inhacorá.csv;População residente - cor ou raça - Preta;pessoas;13
 São José do Inhacorá.csv;População residente - cor ou raça - Parda;pessoas;102
 São José do Inhacorá.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;55
-São José do Inhacorá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+São José do Inhacorá.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São José do Inhacorá.csv;Área da unidade territorial;Km²;77.806
 São José do Inhacorá.csv;Eleitorado;Eleitores;1963
 São José do Inhacorá.csv;PIB per capita a preços correntes;Reais;13161.40
@@ -11063,7 +11063,7 @@ São José do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;44
 São José do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;22
 São José do Sul.csv;Docentes - Ensino médio - 2009;Docentes;6
 São José do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-São José do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São José do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;768303444
 São José do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;504752686
 São José do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11093,7 +11093,7 @@ São José dos Ausentes.csv;Matrícula - Ensino médio - 2009;Matrículas;102
 São José dos Ausentes.csv;Docentes - Ensino fundamental - 2009;Docentes;40
 São José dos Ausentes.csv;Docentes - Ensino médio - 2009;Docentes;10
 São José dos Ausentes.csv;Estabelecimentos de Saúde SUS;estabelecimentos;7
-São José dos Ausentes.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São José dos Ausentes.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José dos Ausentes.csv;Receitas orçamentárias realizadas - Correntes;Reais;992714783
 São José dos Ausentes.csv;Despesas orçamentárias empenhadas - Correntes;Reais;782913482
 São José dos Ausentes.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11324,7 +11324,7 @@ São Nicolau.csv;População residente - cor ou raça - Branca;pessoas;4180
 São Nicolau.csv;População residente - cor ou raça - Preta;pessoas;78
 São Nicolau.csv;População residente - cor ou raça - Parda;pessoas;1430
 São Nicolau.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;421
-São Nicolau.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+São Nicolau.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São Nicolau.csv;Área da unidade territorial;Km²;485.326
 São Nicolau.csv;Eleitorado;Eleitores;4506
 São Nicolau.csv;PIB per capita a preços correntes;Reais;9414.29
@@ -11393,7 +11393,7 @@ São Pedro da Serra.csv;Matrícula - Ensino médio - 2009;Matrículas;0
 São Pedro da Serra.csv;Docentes - Ensino fundamental - 2009;Docentes;30
 São Pedro da Serra.csv;Docentes - Ensino médio - 2009;Docentes;0
 São Pedro da Serra.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São Pedro da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São Pedro da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Pedro da Serra.csv;Receitas orçamentárias realizadas - Correntes;Reais;963015418
 São Pedro da Serra.csv;Despesas orçamentárias empenhadas - Correntes;Reais;696869365
 São Pedro da Serra.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11414,7 +11414,7 @@ São Pedro das Missões.csv;População residente - cor ou raça - Branca;pessoa
 São Pedro das Missões.csv;População residente - cor ou raça - Preta;pessoas;60
 São Pedro das Missões.csv;População residente - cor ou raça - Parda;pessoas;469
 São Pedro das Missões.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;117
-São Pedro das Missões.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+São Pedro das Missões.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São Pedro das Missões.csv;Área da unidade territorial;Km²;79.965
 São Pedro das Missões.csv;Eleitorado;Eleitores;1424
 São Pedro das Missões.csv;PIB per capita a preços correntes;Reais;11956.47
@@ -11423,7 +11423,7 @@ São Pedro das Missões.csv;Matrícula - Ensino médio - 2009;Matrículas;95
 São Pedro das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;41
 São Pedro das Missões.csv;Docentes - Ensino médio - 2009;Docentes;14
 São Pedro das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-São Pedro das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São Pedro das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Pedro das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;626026954
 São Pedro das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;523009786
 São Pedro das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11573,7 +11573,7 @@ São Valério do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;63
 São Valério do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;37
 São Valério do Sul.csv;Docentes - Ensino médio - 2009;Docentes;11
 São Valério do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-São Valério do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São Valério do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Valério do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;689953288
 São Valério do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;517781995
 São Valério do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11603,7 +11603,7 @@ São Valentim do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;94
 São Valentim do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;21
 São Valentim do Sul.csv;Docentes - Ensino médio - 2009;Docentes;9
 São Valentim do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-São Valentim do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São Valentim do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Valentim do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;796648600
 São Valentim do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;555827100
 São Valentim do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398866700
@@ -11663,7 +11663,7 @@ São Vendelino.csv;Matrícula - Ensino médio - 2009;Matrículas;111
 São Vendelino.csv;Docentes - Ensino fundamental - 2009;Docentes;25
 São Vendelino.csv;Docentes - Ensino médio - 2009;Docentes;11
 São Vendelino.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São Vendelino.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+São Vendelino.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Vendelino.csv;Receitas orçamentárias realizadas - Correntes;Reais;857237800
 São Vendelino.csv;Despesas orçamentárias empenhadas - Correntes;Reais;588376600
 São Vendelino.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803800
@@ -11714,7 +11714,7 @@ Sério.csv;População residente - cor ou raça - Branca;pessoas;2181
 Sério.csv;População residente - cor ou raça - Preta;pessoas;19
 Sério.csv;População residente - cor ou raça - Parda;pessoas;77
 Sério.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;116
-Sério.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Sério.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Sério.csv;Área da unidade territorial;Km²;99.627
 Sério.csv;Eleitorado;Eleitores;2194
 Sério.csv;PIB per capita a preços correntes;Reais;10169.30
@@ -11753,7 +11753,7 @@ Sagrada Família.csv;Matrícula - Ensino médio - 2009;Matrículas;108
 Sagrada Família.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Sagrada Família.csv;Docentes - Ensino médio - 2009;Docentes;16
 Sagrada Família.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Sagrada Família.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Sagrada Família.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Sagrada Família.csv;Receitas orçamentárias realizadas - Correntes;Reais;679763261
 Sagrada Família.csv;Despesas orçamentárias empenhadas - Correntes;Reais;494332980
 Sagrada Família.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917559
@@ -11783,7 +11783,7 @@ Saldanha Marinho.csv;Matrícula - Ensino médio - 2009;Matrículas;125
 Saldanha Marinho.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Saldanha Marinho.csv;Docentes - Ensino médio - 2009;Docentes;12
 Saldanha Marinho.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Saldanha Marinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Saldanha Marinho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Saldanha Marinho.csv;Receitas orçamentárias realizadas - Correntes;Reais;978848627
 Saldanha Marinho.csv;Despesas orçamentárias empenhadas - Correntes;Reais;728403320
 Saldanha Marinho.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917559
@@ -11843,7 +11843,7 @@ Salvador das Missões.csv;Matrícula - Ensino médio - 2009;Matrículas;87
 Salvador das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;31
 Salvador das Missões.csv;Docentes - Ensino médio - 2009;Docentes;11
 Salvador das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Salvador das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Salvador das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Salvador das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;968530425
 Salvador das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;677626564
 Salvador das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11963,7 +11963,7 @@ Santa Cecília do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;74
 Santa Cecília do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;24
 Santa Cecília do Sul.csv;Docentes - Ensino médio - 2009;Docentes;8
 Santa Cecília do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santa Cecília do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Santa Cecília do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santa Cecília do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;700476369
 Santa Cecília do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;445578091
 Santa Cecília do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;389416765
@@ -12053,7 +12053,7 @@ Santa Margarida do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;27
 Santa Margarida do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;36
 Santa Margarida do Sul.csv;Docentes - Ensino médio - 2009;Docentes;5
 Santa Margarida do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santa Margarida do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Santa Margarida do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santa Margarida do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;812419219
 Santa Margarida do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;742967641
 Santa Margarida do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -12384,9 +12384,9 @@ Santo Antônio das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;14
 Santo Antônio das Missões.csv;Docentes - Ensino médio - 2009;Docentes;38
 Santo Antônio das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;11
 Santo Antônio das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;128
-Santo Antônio das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;Não informado
-Santo Antônio das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;Não informado
-Santo Antônio das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;Não informado
+Santo Antônio das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;
+Santo Antônio das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;
+Santo Antônio das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;
 Santo Antônio das Missões.csv;Número de unidades locais;Unidades;447
 Santo Antônio das Missões.csv;Pessoal ocupado total;Pessoas;1129
 Santo Antônio do Palma.csv;Total de endereços urbanos;endereços;363
@@ -12413,7 +12413,7 @@ Santo Antônio do Palma.csv;Matrícula - Ensino médio - 2009;Matrículas;76
 Santo Antônio do Palma.csv;Docentes - Ensino fundamental - 2009;Docentes;20
 Santo Antônio do Palma.csv;Docentes - Ensino médio - 2009;Docentes;8
 Santo Antônio do Palma.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santo Antônio do Palma.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Santo Antônio do Palma.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santo Antônio do Palma.csv;Receitas orçamentárias realizadas - Correntes;Reais;776430037
 Santo Antônio do Palma.csv;Despesas orçamentárias empenhadas - Correntes;Reais;561406300
 Santo Antônio do Palma.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;406445299
@@ -12443,7 +12443,7 @@ Santo Antônio do Planalto.csv;Matrícula - Ensino médio - 2009;Matrículas;71
 Santo Antônio do Planalto.csv;Docentes - Ensino fundamental - 2009;Docentes;24
 Santo Antônio do Planalto.csv;Docentes - Ensino médio - 2009;Docentes;10
 Santo Antônio do Planalto.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santo Antônio do Planalto.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Santo Antônio do Planalto.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santo Antônio do Planalto.csv;Receitas orçamentárias realizadas - Correntes;Reais;839931673
 Santo Antônio do Planalto.csv;Despesas orçamentárias empenhadas - Correntes;Reais;589827696
 Santo Antônio do Planalto.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398919151
@@ -12524,7 +12524,7 @@ Santo Expedito do Sul.csv;População residente - cor ou raça - Branca;pessoas;
 Santo Expedito do Sul.csv;População residente - cor ou raça - Preta;pessoas;38
 Santo Expedito do Sul.csv;População residente - cor ou raça - Parda;pessoas;101
 Santo Expedito do Sul.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;128
-Santo Expedito do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Santo Expedito do Sul.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Santo Expedito do Sul.csv;Área da unidade territorial;Km²;125.736
 Santo Expedito do Sul.csv;Eleitorado;Eleitores;2029
 Santo Expedito do Sul.csv;PIB per capita a preços correntes;Reais;16052.42
@@ -12533,7 +12533,7 @@ Santo Expedito do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;135
 Santo Expedito do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;45
 Santo Expedito do Sul.csv;Docentes - Ensino médio - 2009;Docentes;15
 Santo Expedito do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Santo Expedito do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Santo Expedito do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santo Expedito do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;698454348
 Santo Expedito do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;571908529
 Santo Expedito do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803765
@@ -12773,7 +12773,7 @@ Senador Salgado Filho.csv;Matrícula - Ensino médio - 2009;Matrículas;117
 Senador Salgado Filho.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Senador Salgado Filho.csv;Docentes - Ensino médio - 2009;Docentes;9
 Senador Salgado Filho.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Senador Salgado Filho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Senador Salgado Filho.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Senador Salgado Filho.csv;Receitas orçamentárias realizadas - Correntes;Reais;730771083
 Senador Salgado Filho.csv;Despesas orçamentárias empenhadas - Correntes;Reais;587702451
 Senador Salgado Filho.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -12923,7 +12923,7 @@ Sete de Setembro.csv;Matrícula - Ensino médio - 2009;Matrículas;70
 Sete de Setembro.csv;Docentes - Ensino fundamental - 2009;Docentes;26
 Sete de Setembro.csv;Docentes - Ensino médio - 2009;Docentes;10
 Sete de Setembro.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Sete de Setembro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Sete de Setembro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Sete de Setembro.csv;Receitas orçamentárias realizadas - Correntes;Reais;662955426
 Sete de Setembro.csv;Despesas orçamentárias empenhadas - Correntes;Reais;486925091
 Sete de Setembro.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;397132743
@@ -13283,7 +13283,7 @@ Taquaruçu do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;97
 Taquaruçu do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;35
 Taquaruçu do Sul.csv;Docentes - Ensino médio - 2009;Docentes;14
 Taquaruçu do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Taquaruçu do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Taquaruçu do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Taquaruçu do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;747757386
 Taquaruçu do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;574711934
 Taquaruçu do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398936034
@@ -13433,7 +13433,7 @@ Tio Hugo.csv;Matrícula - Ensino médio - 2009;Matrículas;111
 Tio Hugo.csv;Docentes - Ensino fundamental - 2009;Docentes;26
 Tio Hugo.csv;Docentes - Ensino médio - 2009;Docentes;9
 Tio Hugo.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Tio Hugo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Tio Hugo.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Tio Hugo.csv;Receitas orçamentárias realizadas - Correntes;Reais;840031103
 Tio Hugo.csv;Despesas orçamentárias empenhadas - Correntes;Reais;667775027
 Tio Hugo.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -13493,7 +13493,7 @@ Toropi.csv;Matrícula - Ensino médio - 2009;Matrículas;109
 Toropi.csv;Docentes - Ensino fundamental - 2009;Docentes;35
 Toropi.csv;Docentes - Ensino médio - 2009;Docentes;15
 Toropi.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Toropi.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Toropi.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Toropi.csv;Receitas orçamentárias realizadas - Correntes;Reais;747831709
 Toropi.csv;Despesas orçamentárias empenhadas - Correntes;Reais;522969521
 Toropi.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -13664,7 +13664,7 @@ Três Forquilhas.csv;População residente - cor ou raça - Branca;pessoas;2566
 Três Forquilhas.csv;População residente - cor ou raça - Preta;pessoas;228
 Três Forquilhas.csv;População residente - cor ou raça - Parda;pessoas;106
 Três Forquilhas.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;95
-Três Forquilhas.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Três Forquilhas.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Três Forquilhas.csv;Área da unidade territorial;Km²;217.390
 Três Forquilhas.csv;Eleitorado;Eleitores;2736
 Três Forquilhas.csv;PIB per capita a preços correntes;Reais;6952.06
@@ -13703,7 +13703,7 @@ Três Palmeiras.csv;Matrícula - Ensino médio - 2009;Matrículas;207
 Três Palmeiras.csv;Docentes - Ensino fundamental - 2009;Docentes;51
 Três Palmeiras.csv;Docentes - Ensino médio - 2009;Docentes;21
 Três Palmeiras.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Três Palmeiras.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Três Palmeiras.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Três Palmeiras.csv;Receitas orçamentárias realizadas - Correntes;Reais;1028823807
 Três Palmeiras.csv;Despesas orçamentárias empenhadas - Correntes;Reais;743563684
 Três Palmeiras.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917561
@@ -13793,7 +13793,7 @@ Travesseiro.csv;Matrícula - Ensino médio - 2009;Matrículas;79
 Travesseiro.csv;Docentes - Ensino fundamental - 2009;Docentes;26
 Travesseiro.csv;Docentes - Ensino médio - 2009;Docentes;8
 Travesseiro.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Travesseiro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Travesseiro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Travesseiro.csv;Receitas orçamentárias realizadas - Correntes;Reais;803894119
 Travesseiro.csv;Despesas orçamentárias empenhadas - Correntes;Reais;580452245
 Travesseiro.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -13904,7 +13904,7 @@ Tunas.csv;População residente - cor ou raça - Branca;pessoas;3524
 Tunas.csv;População residente - cor ou raça - Preta;pessoas;65
 Tunas.csv;População residente - cor ou raça - Parda;pessoas;761
 Tunas.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;370
-Tunas.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Tunas.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Tunas.csv;Área da unidade territorial;Km²;218.073
 Tunas.csv;Eleitorado;Eleitores;3189
 Tunas.csv;PIB per capita a preços correntes;Reais;10141.83
@@ -13943,7 +13943,7 @@ Tupanci do Sul.csv;Matrícula - Ensino médio - 2009;Matrículas;44
 Tupanci do Sul.csv;Docentes - Ensino fundamental - 2009;Docentes;28
 Tupanci do Sul.csv;Docentes - Ensino médio - 2009;Docentes;9
 Tupanci do Sul.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Tupanci do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Tupanci do Sul.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Tupanci do Sul.csv;Receitas orçamentárias realizadas - Correntes;Reais;641434857
 Tupanci do Sul.csv;Despesas orçamentárias empenhadas - Correntes;Reais;489268985
 Tupanci do Sul.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399829632
@@ -14054,7 +14054,7 @@ Turuçu.csv;População residente - cor ou raça - Branca;pessoas;3149
 Turuçu.csv;População residente - cor ou raça - Preta;pessoas;133
 Turuçu.csv;População residente - cor ou raça - Parda;pessoas;227
 Turuçu.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;143
-Turuçu.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Turuçu.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Turuçu.csv;Área da unidade territorial;Km²;253.636
 Turuçu.csv;Eleitorado;Eleitores;2903
 Turuçu.csv;PIB per capita a preços correntes;Reais;10680.89
@@ -14063,7 +14063,7 @@ Turuçu.csv;Matrícula - Ensino médio - 2009;Matrículas;207
 Turuçu.csv;Docentes - Ensino fundamental - 2009;Docentes;34
 Turuçu.csv;Docentes - Ensino médio - 2009;Docentes;12
 Turuçu.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Turuçu.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Turuçu.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Turuçu.csv;Receitas orçamentárias realizadas - Correntes;Reais;1033175630
 Turuçu.csv;Despesas orçamentárias empenhadas - Correntes;Reais;893457629
 Turuçu.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14084,7 +14084,7 @@ Ubiretama.csv;População residente - cor ou raça - Branca;pessoas;2175
 Ubiretama.csv;População residente - cor ou raça - Preta;pessoas;15
 Ubiretama.csv;População residente - cor ou raça - Parda;pessoas;105
 Ubiretama.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;82
-Ubiretama.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Ubiretama.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ubiretama.csv;Área da unidade territorial;Km²;126.693
 Ubiretama.csv;Eleitorado;Eleitores;1968
 Ubiretama.csv;PIB per capita a preços correntes;Reais;13092.29
@@ -14093,7 +14093,7 @@ Ubiretama.csv;Matrícula - Ensino médio - 2009;Matrículas;104
 Ubiretama.csv;Docentes - Ensino fundamental - 2009;Docentes;29
 Ubiretama.csv;Docentes - Ensino médio - 2009;Docentes;15
 Ubiretama.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Ubiretama.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Ubiretama.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Ubiretama.csv;Receitas orçamentárias realizadas - Correntes;Reais;697434365
 Ubiretama.csv;Despesas orçamentárias empenhadas - Correntes;Reais;514032828
 Ubiretama.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917553
@@ -14123,7 +14123,7 @@ União da Serra.csv;Matrícula - Ensino médio - 2009;Matrículas;58
 União da Serra.csv;Docentes - Ensino fundamental - 2009;Docentes;17
 União da Serra.csv;Docentes - Ensino médio - 2009;Docentes;10
 União da Serra.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-União da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+União da Serra.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 União da Serra.csv;Receitas orçamentárias realizadas - Correntes;Reais;697419844
 União da Serra.csv;Despesas orçamentárias empenhadas - Correntes;Reais;522860716
 União da Serra.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14153,7 +14153,7 @@ Unistalda.csv;Matrícula - Ensino médio - 2009;Matrículas;135
 Unistalda.csv;Docentes - Ensino fundamental - 2009;Docentes;35
 Unistalda.csv;Docentes - Ensino médio - 2009;Docentes;17
 Unistalda.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Unistalda.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Unistalda.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Unistalda.csv;Receitas orçamentárias realizadas - Correntes;Reais;691188089
 Unistalda.csv;Despesas orçamentárias empenhadas - Correntes;Reais;616034151
 Unistalda.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399623443
@@ -14273,7 +14273,7 @@ Vale Real.csv;Matrícula - Ensino médio - 2009;Matrículas;162
 Vale Real.csv;Docentes - Ensino fundamental - 2009;Docentes;48
 Vale Real.csv;Docentes - Ensino médio - 2009;Docentes;18
 Vale Real.csv;Estabelecimentos de Saúde SUS;estabelecimentos;5
-Vale Real.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vale Real.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vale Real.csv;Receitas orçamentárias realizadas - Correntes;Reais;955359772
 Vale Real.csv;Despesas orçamentárias empenhadas - Correntes;Reais;733272706
 Vale Real.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917566
@@ -14303,7 +14303,7 @@ Vale Verde.csv;Matrícula - Ensino médio - 2009;Matrículas;136
 Vale Verde.csv;Docentes - Ensino fundamental - 2009;Docentes;40
 Vale Verde.csv;Docentes - Ensino médio - 2009;Docentes;14
 Vale Verde.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Vale Verde.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vale Verde.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vale Verde.csv;Receitas orçamentárias realizadas - Correntes;Reais;830944275
 Vale Verde.csv;Despesas orçamentárias empenhadas - Correntes;Reais;624593617
 Vale Verde.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917554
@@ -14333,7 +14333,7 @@ Vanini.csv;Matrícula - Ensino médio - 2009;Matrículas;70
 Vanini.csv;Docentes - Ensino fundamental - 2009;Docentes;22
 Vanini.csv;Docentes - Ensino médio - 2009;Docentes;11
 Vanini.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vanini.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vanini.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vanini.csv;Receitas orçamentárias realizadas - Correntes;Reais;755774955
 Vanini.csv;Despesas orçamentárias empenhadas - Correntes;Reais;564200753
 Vanini.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;400145293
@@ -14453,7 +14453,7 @@ Vespasiano Correa.csv;Matrícula - Ensino médio - 2009;Matrículas;57
 Vespasiano Correa.csv;Docentes - Ensino fundamental - 2009;Docentes;17
 Vespasiano Correa.csv;Docentes - Ensino médio - 2009;Docentes;7
 Vespasiano Correa.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vespasiano Correa.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vespasiano Correa.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vespasiano Correa.csv;Receitas orçamentárias realizadas - Correntes;Reais;768827927
 Vespasiano Correa.csv;Despesas orçamentárias empenhadas - Correntes;Reais;490523352
 Vespasiano Correa.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14474,7 +14474,7 @@ Viadutos.csv;População residente - cor ou raça - Branca;pessoas;4783
 Viadutos.csv;População residente - cor ou raça - Preta;pessoas;21
 Viadutos.csv;População residente - cor ou raça - Parda;pessoas;501
 Viadutos.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;177
-Viadutos.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Viadutos.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Viadutos.csv;Área da unidade territorial;Km²;268.360
 Viadutos.csv;Eleitorado;Eleitores;4768
 Viadutos.csv;PIB per capita a preços correntes;Reais;10539.67
@@ -14534,7 +14534,7 @@ Vicente Dutra.csv;População residente - cor ou raça - Branca;pessoas;4271
 Vicente Dutra.csv;População residente - cor ou raça - Preta;pessoas;36
 Vicente Dutra.csv;População residente - cor ou raça - Parda;pessoas;866
 Vicente Dutra.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;240
-Vicente Dutra.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Vicente Dutra.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Vicente Dutra.csv;Área da unidade territorial;Km²;195.045
 Vicente Dutra.csv;Eleitorado;Eleitores;4347
 Vicente Dutra.csv;PIB per capita a preços correntes;Reais;9985.38
@@ -14594,7 +14594,7 @@ Vila Flores.csv;População residente - cor ou raça - Branca;pessoas;2850
 Vila Flores.csv;População residente - cor ou raça - Preta;pessoas;42
 Vila Flores.csv;População residente - cor ou raça - Parda;pessoas;309
 Vila Flores.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;25
-Vila Flores.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Vila Flores.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Vila Flores.csv;Área da unidade territorial;Km²;107.910
 Vila Flores.csv;Eleitorado;Eleitores;2770
 Vila Flores.csv;PIB per capita a preços correntes;Reais;22214.76
@@ -14633,7 +14633,7 @@ Vila Lângaro.csv;Matrícula - Ensino médio - 2009;Matrículas;84
 Vila Lângaro.csv;Docentes - Ensino fundamental - 2009;Docentes;28
 Vila Lângaro.csv;Docentes - Ensino médio - 2009;Docentes;9
 Vila Lângaro.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vila Lângaro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vila Lângaro.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vila Lângaro.csv;Receitas orçamentárias realizadas - Correntes;Reais;809659614
 Vila Lângaro.csv;Despesas orçamentárias empenhadas - Correntes;Reais;583861759
 Vila Lângaro.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14723,7 +14723,7 @@ Vista Alegre do Prata.csv;Matrícula - Ensino médio - 2009;Matrículas;53
 Vista Alegre do Prata.csv;Docentes - Ensino fundamental - 2009;Docentes;15
 Vista Alegre do Prata.csv;Docentes - Ensino médio - 2009;Docentes;7
 Vista Alegre do Prata.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vista Alegre do Prata.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vista Alegre do Prata.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vista Alegre do Prata.csv;Receitas orçamentárias realizadas - Correntes;Reais;750373753
 Vista Alegre do Prata.csv;Despesas orçamentárias empenhadas - Correntes;Reais;545202955
 Vista Alegre do Prata.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398843654
@@ -14753,7 +14753,7 @@ Vista Alegre.csv;Matrícula - Ensino médio - 2009;Matrículas;118
 Vista Alegre.csv;Docentes - Ensino fundamental - 2009;Docentes;33
 Vista Alegre.csv;Docentes - Ensino médio - 2009;Docentes;16
 Vista Alegre.csv;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vista Alegre.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vista Alegre.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vista Alegre.csv;Receitas orçamentárias realizadas - Correntes;Reais;730087378
 Vista Alegre.csv;Despesas orçamentárias empenhadas - Correntes;Reais;583063809
 Vista Alegre.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917644
@@ -14783,7 +14783,7 @@ Vista Gaúcha.csv;Matrícula - Ensino médio - 2009;Matrículas;134
 Vista Gaúcha.csv;Docentes - Ensino fundamental - 2009;Docentes;30
 Vista Gaúcha.csv;Docentes - Ensino médio - 2009;Docentes;16
 Vista Gaúcha.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Vista Gaúcha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vista Gaúcha.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vista Gaúcha.csv;Receitas orçamentárias realizadas - Correntes;Reais;828419354
 Vista Gaúcha.csv;Despesas orçamentárias empenhadas - Correntes;Reais;575279120
 Vista Gaúcha.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14804,7 +14804,7 @@ Vitória das Missões.csv;População residente - cor ou raça - Branca;pessoas;
 Vitória das Missões.csv;População residente - cor ou raça - Preta;pessoas;162
 Vitória das Missões.csv;População residente - cor ou raça - Parda;pessoas;517
 Vitória das Missões.csv;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;242
-Vitória das Missões.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;-
+Vitória das Missões.csv;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Vitória das Missões.csv;Área da unidade territorial;Km²;259.610
 Vitória das Missões.csv;Eleitorado;Eleitores;2962
 Vitória das Missões.csv;PIB per capita a preços correntes;Reais;11691.07
@@ -14813,7 +14813,7 @@ Vitória das Missões.csv;Matrícula - Ensino médio - 2009;Matrículas;166
 Vitória das Missões.csv;Docentes - Ensino fundamental - 2009;Docentes;41
 Vitória das Missões.csv;Docentes - Ensino médio - 2009;Docentes;13
 Vitória das Missões.csv;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Vitória das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Vitória das Missões.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vitória das Missões.csv;Receitas orçamentárias realizadas - Correntes;Reais;792556105
 Vitória das Missões.csv;Despesas orçamentárias empenhadas - Correntes;Reais;613088400
 Vitória das Missões.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398924357
@@ -14843,7 +14843,7 @@ Westfália.csv;Matrícula - Ensino médio - 2009;Matrículas;103
 Westfália.csv;Docentes - Ensino fundamental - 2009;Docentes;34
 Westfália.csv;Docentes - Ensino médio - 2009;Docentes;7
 Westfália.csv;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Westfália.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Westfália.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Westfália.csv;Receitas orçamentárias realizadas - Correntes;Reais;1082183329
 Westfália.csv;Despesas orçamentárias empenhadas - Correntes;Reais;748642744
 Westfália.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398978858
@@ -14873,7 +14873,7 @@ Xangri-lá.csv;Matrícula - Ensino médio - 2009;Matrículas;409
 Xangri-lá.csv;Docentes - Ensino fundamental - 2009;Docentes;113
 Xangri-lá.csv;Docentes - Ensino médio - 2009;Docentes;20
 Xangri-lá.csv;Estabelecimentos de Saúde SUS;estabelecimentos;6
-Xangri-lá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;-
+Xangri-lá.csv;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Xangri-lá.csv;Receitas orçamentárias realizadas - Correntes;Reais;3719045474
 Xangri-lá.csv;Despesas orçamentárias empenhadas - Correntes;Reais;3365004744
 Xangri-lá.csv;Valor do Fundo de Participação dos Municípios  - FPM;Reais;531890081
