@@ -27,7 +27,7 @@
 		
       <div class="content">
 		 <div class="page-header">
-				<img src="/static/images/logo_onde_acontece.short.jpg" />
+			<a href="/"><img src="/static/images/logo_onde_acontece.short.jpg" /></a>
 		</div>
 
 		[%content|none%]
