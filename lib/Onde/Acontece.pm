@@ -45,6 +45,10 @@ __PACKAGE__->config(
         INCLUDE_PATH =>
           [ map { __PACKAGE__->path_to(@$_) }[qw(root src)], [qw(root lib)] ]
     },
+	'View::Topico'                              => {
+        INCLUDE_PATH =>
+          [ map { __PACKAGE__->path_to(@$_) }[qw(root src)], [qw(root lib)] ]
+    },
 );
 
 # Start the application

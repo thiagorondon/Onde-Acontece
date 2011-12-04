@@ -27,9 +27,16 @@ The root page (/)
 =cut
 
 sub base : Chained('/') PathPart('') : CaptureArgs(0) {
+    my ( $self, $c) = @_;
+
+	#$c->res->redirect( $c->uri_for( $c->controller('Topico')->action_for('base') ) );
+
 }
 
 sub root : Chained('base') PathPart('') Args(0) {
+	my ( $self, $c) = @_;
+
+	$c->forward('View::Topico');
 }
 
 sub contato : Chained('base') Args(0) {
