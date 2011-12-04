@@ -30,11 +30,10 @@
         $(this).tipsy({
           gravity: $.fn.tipsy.autoNS
         });
+        
         return d.properties.name + ': ' + d.properties.quant;
       });
-
     });
-
   }
    var year    = $('select[name=ano] option:selected').val();
    var type_id = $('select[name=ocorrencia] option:selected').val();
