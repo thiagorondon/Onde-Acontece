@@ -1,36 +1,24 @@
 <div class="row">
 	<div class="span5">
-		<h2>Heading</h2>
-		<p>foo.</p>
+		<h2>Jornalismo de dados</h2>
+		<p>
+  Um dos objetivos é promover o jornalismo de dados dentro de uma plataforma onde podemos criar visualizações de dados como ferramenta de investigação, participe da lista de discussão da <a target="_blank" href="http://groups.google.com/group/opendata-br">OpenData-BR</a>.
+    </p>
 
 	</div>
 
 	<div class="span6">
-		<h2>Heading</h2>
-		<p>foo foo</p>
+		<h2>Dados abertos</h2>
+		<p>
+As informações deste aplicativo são baseados em opendata disponibilizados pelo governo e institutos nacionais, e assim promover e provocar que diversos governos possam disponibilizar seus dados em uma plataforma que pode ser utilizada pela sociedade.
+</p>
 	</div>
 
 	<div class="span5">
-		<h2>Heading</h2>
-		<p>foo.</p>
-	</div>
-
-</div>
-<div class="row">
-	<div class="span5">
-		<h2>Heading</h2>
-		<p>foo.</p>
-
-	</div>
-
-	<div class="span6">
-		<h2>Heading</h2>
-		<p>foo foo</p>
-	</div>
-
-	<div class="span5">
-		<h2>Heading</h2>
-		<p>foo.</p>
+		<h2>Conteúdo livre</h2>
+		<p>
+    Todo conteúdo é disponibilizado para compartilhar, distribuir e reutilizar, veja mais sobre como utilizar e abusar do conteúdo pela licença do <a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank">Creative Commons CC BY 3.0</a>
+  </p>
 	</div>
 
 </div>
