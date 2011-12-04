@@ -1,10 +1,10 @@
 
-		<div id="graficos">
-			<h3>Acompanhamento Anual de criminalidade</h3>
-				<div id="lines" style="width:600px;height:300px;"></div>
-			<h3>Tipo de criminalidade</h3>
-				<div id="pie" class="graph" style="width:600px;height:300px;"></div>
-		</div>
+<div id="graficos">
+	<h3>Acompanhamento Anual de criminalidade</h3>
+		<div id="lines" style="width:600px;height:300px;"></div>
+	<h3>Tipo de criminalidade</h3>
+		<div id="pie" class="graph" style="width:600px;height:300px;"></div>
+</div>
 <script type="text/javascript">
 $(function () {
 

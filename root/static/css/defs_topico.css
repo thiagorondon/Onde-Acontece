@@ -63,3 +63,8 @@ div.graph
 	padding:2px 2px 1px;
 	line-height: auto;
 }
+.indicadores p {
+	font-size: 17px;
+	line-height: 17px;
+	
+}

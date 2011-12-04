@@ -1,7 +1,7 @@
   
 <div class="sidebar">
-
-	<form method="get" class="form-stacked">
+	<div class="well">
+		<form method="get" class="form-stacked">
 		<div class="clearfix row">
 			<label>Ano</label>
 
@@ -47,26 +47,52 @@
 			<button class="btn primary">Visualizar</button>
 		</div>
 	</form>
-
+</div>
 </div>
 
 <div class="content">
 
 	<div class="row">
-		<div class="span10">
-			<h2>Mapa do estado</h2>
-		<div id="mapwrapper">
-  <div id="chart"></div>
-  <script src='/static/script/maps.js' type='text/javascript'> </script>
-  </div>
-	
-    </div>
+		<div class="span8">
+			<div id="mapwrapper">
+				<div id="chart"></div>
+					<script src='/static/script/maps.js' type='text/javascript'> </script>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="well">
+					<ul>
+						<li><a href="#index">Indíces</a></li>
+						<li><a href="#">Ranking</a></li>
+						<li><a href="#">Números do Município</a></li>
+						<li><a href="#">Números do Estado</a></li>
+					</ul>
+				</div>
+			</div>
 		</div>
 	</div>
+	<h2 id="index">Indíces</h2>
+	<div class="indicadores well">
+		<p><img src="/static/images/pib.png">PIB $$</p>
+		<p><img src="/static/images/grupo.png"/>3 homicídios por 1000 habitantes (total: 10000 habitantes)</p>
+		<p><img src="/static/images/grupo-0.png"/>nenhum homicídio registrado (total: 10000 habitantes)</p>
+		<p><img src="/static/images/territorio.png"/>3 homicídios por 1000 km² (total: 10000 km²)</p>
+		<p><img src="/static/images/territorio-0.png"/>nenhum homicídio km² (total: 10000 km²)</p>
+
+	</div>
+
+	<div id="graficos">
+		<h3>Acompanhamento Anual de criminalidade</h3>
+			<div id="lines" style="width:600px;height:300px;"></div>
+		<h3>Tipo de criminalidade</h3>
+			<div id="pie" class="graph" style="width:600px;height:300px;"></div>
+	</div>
+
+
     <table>
         <tr><td></td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>
       [% FOREACH t IN estado.keys %]
-        <tr><td>[% t %]</td>
+        <tr><td>[% t %]</td>8
         [% FOREACH y IN estado.$t %]
           <td>[% y.1 %]</td>
         [% END %]
