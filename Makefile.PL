@@ -23,6 +23,9 @@ requires 'Config::General'; # This should reflect the config file format you've 
 test_requires 'Test::More' => '0.88';
 
 requires 'Template::AutoFilter';
+requires 'Sys::Hostname';
+requires 'Catalyst::Controller::REST';
+requires 'DBIx::Class::ResultClass::HashRefInflator';
 
 catalyst;
 
