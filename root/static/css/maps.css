@@ -12,7 +12,9 @@ svg {
   stroke: #fff;
   stroke-width: 1.5px;
 }
-
+#chart path.current {
+    fill:rgb(66,146,198);
+}
 .tipsy {
     z-index: 10000;
 }

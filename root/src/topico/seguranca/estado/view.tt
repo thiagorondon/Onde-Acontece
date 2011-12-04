@@ -22,7 +22,7 @@
       <label>Município</label>
 		<select name="municipio" class="span3">
 			<option value="">Todos</option>
-			[% FOR m IN object.related_resultset('municipios').all %]
+			[% FOR m IN municipios_lista %]
 			<option value="[% m.nome %]" [% IF c.req.params.municipio == m.nome %]selected=selected[% END %]>[% m.nome %]</option>
 			[% END %]
 		</select>

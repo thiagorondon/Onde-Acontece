@@ -13,7 +13,8 @@ sub object : Chained('base') : PathPart('') : CaptureArgs(1) {
   my ( $self, $c, $nome ) = @_;
   $c->stash->{municipio} = $c->stash->{estado};
   $c->stash->{object} =
-    $c->stash->{estado}->related_resultset('municipios')->search( { nome => $nome } )->single;
+    $c->stash->{estado}->related_resultset('municipios')
+    ->search( { nome => $nome } )->single;
 }
 
 sub view : Chained('object') : PathPart('') : Args(0) {
