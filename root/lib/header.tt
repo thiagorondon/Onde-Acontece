@@ -3,9 +3,9 @@
 		<div class="container-fluid">
 			<a class="brand" href="http://opendatabr.org/" target="_blank">opendata-br</a>
 			<ul class="nav">
-				<li class="active"><a href="/">Home</a></li>
+				<li><a href="/">Home</a></li>
 				<li><a href="/sobre">Sobre</a></li>
-				<li style="margin-left:100px"><a href="/">Segurança Pública</a></li>
+				<li style="margin-left:100px"><a href="/seguranca">Segurança Pública</a></li>
 			</ul>
 		</div>
 	</div>

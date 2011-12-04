@@ -10,6 +10,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
 [%IF desenv%]
 <link rel="stylesheet/less" href="/static/css/bootstrap.less">
 <script src="/static/script/less-1.1.5.min.js"></script>
@@ -17,8 +18,14 @@
 <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css" />
 [%END%]
 
+<!--[if lte IE 8]><script language="javascript" type="text/javascript" src="/static/script/excanvas.min.js"></script><![endif]-->
+<script language="javascript" type="text/javascript" src="/static/script/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/static/script/jquery.flot.js"></script>
+<script language="javascript" type="text/javascript" src="/static/script/jquery.flot.pie.js"></script>
+
 <link rel="stylesheet" type="text/css" href="/static/css/defs.css" />
 <link rel="stylesheet" type="text/css" href="/static/css/defs_topico.css" />
+
 </head>
 <body>
 
@@ -27,7 +34,7 @@
 	<div class="banners ">
 		<div class="row">
 			<div class="span4">
-				<a href="/"><img   src="/static/images/logo_onde_acontece.short.jpg" /></a>
+				<a href="/"><img  height="53" src="/static/images/logo_onde_acontece.short.jpg" /></a>
 			</div>
 			<div class="span12 sub_menu">
 				[% SET view_name = c.action _ ".menu.tt"%]
