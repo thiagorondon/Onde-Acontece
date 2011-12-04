@@ -63,8 +63,8 @@ __PACKAGE__->add_columns(
   },
   "name",
   { data_type => "text", is_nullable => 1 },
-  "the_geom",
-  { data_type => "geometry", is_nullable => 1 },
+#  "the_geom",
+#  { data_type => "geometry", is_nullable => 1 },
   "uf",
   { data_type => "text", is_nullable => 1 },
   "country_id",
@@ -126,4 +126,9 @@ __PACKAGE__->has_many(
 
 
 # You can replace this text with custom code or comments, and it will be preserved on regeneration
+
+__PACKAGE__->has_many(
+  municipios => 'Onde::Acontece::Schema::Result::Municipio'
+     => { 'foreign.estado_id' => 'self.gid' });
+
 1;
