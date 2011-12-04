@@ -1,0 +1,57 @@
+{
+   "abstract" : "Catalyst based application",
+   "author" : [
+      "Thiago Rondon"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Onde-Acontece",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36",
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Action::RenderView" : 0,
+            "Catalyst::Controller::REST" : 0,
+            "Catalyst::Model::DBIC::Schema" : 0,
+            "Catalyst::Plugin::ConfigLoader" : 0,
+            "Catalyst::Plugin::Static::Simple" : 0,
+            "Catalyst::Runtime" : "5.90002",
+            "Catalyst::View::TT" : 0,
+            "Config::General" : 0,
+            "DBD::Pg" : 0,
+            "DBIx::Class::Candy" : 0,
+            "DBIx::Class::ResultClass::HashRefInflator" : 0,
+            "Moose" : 0,
+            "Sys::Hostname" : 0,
+            "Template::AutoFilter" : 0,
+            "Test::More" : "0.88",
+            "namespace::autoclean" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.01"
+}
