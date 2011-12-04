@@ -38,12 +38,13 @@
     </div>
     <div class="clearfix row">
       <label>Município</label>
-      <select name="municipio" class="span3">
-        <option value="">Todos</option>
-       [% FOR m IN object.related_resultset('municipios').all %]
-        <option value="[% m.nome %]">[% m.nome %]</option>
-       [% END %]
-      </select>
+		<select name="municipio" class="span3">
+			<option value="">Todos</option>
+			[% FOR m IN object.related_resultset('municipios').all %]
+			<option value="[% m.nome %]">[% m.nome %]</option>
+			[% END %]
+		</select>
+
 		</div>
 		<div class="clearfix row">
 			<button class="btn primary">Visualizar</button>
@@ -65,9 +66,9 @@
 				<div class="well">
 					<ul>
 						<li><a href="#index">Indíces</a></li>
-						<li><a href="#">Ranking</a></li>
-						<li><a href="#">Números do Município</a></li>
-						<li><a href="#">Números do Estado</a></li>
+						<li><a href="#ranking">Ranking</a></li>
+						<li><a href="#municipio">Números do Município</a></li>
+						<li><a href="#estado">Números do Estado</a></li>
 					</ul>
 				</div>
 			</div>
@@ -84,18 +85,23 @@
 	</div>
 
 	<div id="graficos">
-		<h3>Acompanhamento Anual de criminalidade</h3>
-
-		<div id="lines" style="width:600px;height:300px;"></div>
-		<h3>Tipo de criminalidade</h3>
-		<div id="pie" class="graph" style="width:600px;height:300px;"></div>
-
+		<div class="row">
+			<div class="span16">
+				<h3>Acompanhamento Anual de ocorrências</h3>
+				<div id="lines" style="width:100%;height:500px;"></div>
+			</div>
+			<div class="span10">
+				<h3>Tipo de criminalidade</h3>
+				<div id="pie" class="graph" style="width:100%;height:500px;"></div>
+			</div>
+		</div>
 	</div>
+	</br>
 
-    <table id="ocorrencias" data-json="[% estado_json %]">
-        <tr><td></td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>
+    <table id="ocorrencias" class="zebra-striped bordered-table">
+        <tr><th></th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
       [% FOREACH t IN estado.keys %]
-        <tr><td>[% t %]</td>8
+        <tr><td>[% t %]</td>
         [% FOREACH y IN estado.$t %]
           <td>[% y.1 %]</td>
         [% END %]
@@ -103,8 +109,8 @@
       [% END %]
     </table>
       [% FOREACH m IN mun.keys.sort %]
-        <table>
-          <tr><td>[% m %]</td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>
+        <table class="zebra-striped bordered-table" >
+          <tr><th>[% m %]</th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
           [% FOREACH t IN mun.$m.keys.sort %]
             <tr>
               <td>[% t %]</td>[% FOREACH y IN mun.$m.$t %]<td>[% y.1 %]</td>[% END %]

@@ -64,8 +64,7 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
   my $m = $c->stash->{object}->related_resultset('municipios')->search(
     {
       tipo                        => { -not => undef },
-      'municipios.nome'           => $nome,
-      'ocorrencias_municipio.ano' => $c->req->params->{ano}
+      'municipios.nome'           => $nome
     },
     {
       select => [
@@ -78,9 +77,12 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
       result_class => 'DBIx::Class::ResultClass::HashRefInflator'
     }
   );
+
   my %mun;
    for my $r ( $m->all ) {
-     push @{ $mun{ $r->{tipo} }}, { label  => $r->{ocorrencia}{tipo}, data =>  [ $r->{ano}, $r->{ocorrencia}{quant} ]};
+	 $mun{ $r->{ocorrencia}{tipo} }{label} ||= $r->{ocorrencia}{tipo};
+		
+     push @{ $mun{ $r->{ocorrencia}{tipo} }{data} },  [ $r->{ano}, $r->{ocorrencia}{quant} ];
    }
 
   $self->status_ok( $c, entity => { ocorrencias => \%mun } );
