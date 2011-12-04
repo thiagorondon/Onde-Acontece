@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-[%IF !desenv%]
+[%IF desenv%]
 <link rel="stylesheet/less" href="/static/css/bootstrap.less">
 <script src="/static/script/less-1.1.5.min.js"></script>
 [%ELSE%]
@@ -27,7 +27,7 @@
 		
       <div class="content">
 		 <div class="page-header">
-			<a href="/"><img src="/static/images/logo_onde_acontece.short.jpg" /></a>
+			<a href="/"><img src="/static/images/logo_onde_acontece.jpg" /></a>
 		</div>
 
 		[%content|none%]
