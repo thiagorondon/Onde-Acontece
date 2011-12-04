@@ -86,13 +86,9 @@
 
 	<div id="graficos">
 		<div class="row">
-			<div class="span16">
+			<div class="span14">
 				<h3>Acompanhamento Anual de ocorrências</h3>
-				<div id="lines" style="width:100%;height:500px;"></div>
-			</div>
-			<div class="span10">
-				<h3>Tipo de criminalidade</h3>
-				<div id="pie" class="graph" style="width:100%;height:500px;"></div>
+				<div id="lines" style="width:670px;height:350px;"></div>
 			</div>
 		</div>
 	</div>

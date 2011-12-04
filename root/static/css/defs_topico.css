@@ -68,3 +68,11 @@ div.graph
 	line-height: 17px;
 	
 }
+
+
+#lines div.legend div,
+#lines div.legend table
+{
+	right: -130px!important;
+	
+}

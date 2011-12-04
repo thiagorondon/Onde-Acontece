@@ -1,9 +1,8 @@
 $(function () {
 
-	$.getJSON('/api/seguranca/RS/Porto Alegre', { ano: 2002}, function(d){
+	$.getJSON('/api/seguranca/RS/'+$('input[name=municipio]').val(), { ano: $('input[name=ano]').val() }, function(d){
 		
 		var datasets = d.ocorrencias;
-console.log(datasets);
 		var i = 0;
 		$.each(datasets, function(key, val) {
 			val.color = i;
@@ -22,23 +21,5 @@ console.log(datasets);
 		});
 			
 	});
-
-	var data = [
-		{ label: "Series1",  data: [[1,10]]},
-		{ label: "Series2",  data: [[1,60]]},
-		{ label: "Series3",  data: [[1,90]]},
-		{ label: "Series4",  data: [[1,70]]}
-	];
-
-	$.plot($("#pie"), data,
-		{
-		series: {
-			pie: {
-				show: true
-			}
-		}
-	});
-
-
 
 });
