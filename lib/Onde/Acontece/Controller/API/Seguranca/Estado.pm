@@ -19,8 +19,6 @@ sub view : Chained('object') : PathPart('') : Args(0) ActionClass('REST') {
   my ( $self, $c ) = @_;
 }
 
-use Data::Dump;
-
 sub view_GET {
   my ( $self, $c ) = @_;
   my $o_id  = $c->req->query_parameters->{o_id};
