@@ -26,9 +26,15 @@
 
 
 <div class="banners">
-
 	<div>
 		<a href="/"><img src="/static/images/logo_onde_acontece.jpg" /></a>
+	</div>
+	<div>
+		<ul>
+			<li>País</li>
+			<li>Estado</li>
+			<li>Município</li>
+		</ul>
 	</div>
 </div>
 
