@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-[%IF !desenv%]
+[%IF desenv%]
 <link rel="stylesheet/less" href="/static/css/bootstrap.less">
 <script src="/static/script/less-1.1.5.min.js"></script>
 [%ELSE%]
@@ -23,21 +23,20 @@
 <body>
 
 [% PROCESS header.tt %]
+<div class="container-fluid">
+	<div class="banners ">
+		<div class="row">
+			<div class="span4">
+				<a href="/"><img   src="/static/images/logo_onde_acontece.short.jpg" /></a>
+			</div>
+			<div class="span12 sub_menu">
+				[% SET view_name = c.action _ ".menu.tt"%]
+				[% PROCESS $view_name %]
+			</div>
+		</div>
 
-
-<div class="banners">
-	<div>
-		<a href="/"><img src="/static/images/logo_onde_acontece.jpg" /></a>
-	</div>
-	<div>
-		<ul>
-			<li>País</li>
-			<li>Estado</li>
-			<li>Município</li>
-		</ul>
 	</div>
 </div>
-
 
 <div class="container-fluid">
 	[%content|none%]
