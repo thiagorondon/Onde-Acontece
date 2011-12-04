@@ -1,7 +1,5 @@
 svg {
   background: #eee;
-  width: 300px;
-  height: 200px;
 }
 
 #region path {
@@ -15,12 +13,49 @@ svg {
   stroke-width: 1.5px;
 }
 
-#chart {
-    float: left;
-    display: block;
-    width: 300px;
-    height: 300px;
-}
 .tipsy {
     z-index: 10000;
 }
+
+.Reds .q1{fill:rgb(254,224,210)}
+.Reds .q2{fill:rgb(252,146,114)}
+.Reds .q3{fill:rgb(222,45,38)}
+.Reds .q4{fill:rgb(254,229,217)}
+.Reds .q5{fill:rgb(252,174,145)}
+.Reds .q6{fill:rgb(251,106,74)}
+.Reds .q7{fill:rgb(203,24,29)}
+.Reds .q8{fill:rgb(254,229,217)}
+.Reds .q9{fill:rgb(252,174,145)}
+.Reds .q10{fill:rgb(251,106,74)}
+.Reds .q11{fill:rgb(222,45,38)}
+.Reds .q12{fill:rgb(165,15,21)}
+.Reds .q13{fill:rgb(254,229,217)}
+.Reds .q14{fill:rgb(252,187,161)}
+.Reds .q15{fill:rgb(252,146,114)}
+.Reds .q16{fill:rgb(251,106,74)}
+.Reds .q17{fill:rgb(222,45,38)}
+.Reds .q18{fill:rgb(165,15,21)}
+.Reds .q19{fill:rgb(254,229,217)}
+.Reds .q20{fill:rgb(252,187,161)}
+.Reds .q21{fill:rgb(252,146,114)}
+.Reds .q22{fill:rgb(251,106,74)}
+.Reds .q23{fill:rgb(239,59,44)}
+.Reds .q24{fill:rgb(203,24,29)}
+.Reds .q25{fill:rgb(153,0,13)}
+.Reds .q26{fill:rgb(255,245,240)}
+.Reds .q27{fill:rgb(254,224,210)}
+.Reds .q28{fill:rgb(252,187,161)}
+.Reds .q29{fill:rgb(252,146,114)}
+.Reds .q30{fill:rgb(251,106,74)}
+.Reds .q31{fill:rgb(239,59,44)}
+.Reds .q32{fill:rgb(203,24,29)}
+.Reds .q33{fill:rgb(153,0,13)}
+.Reds .q34{fill:rgb(255,245,240)}
+.Reds .q35{fill:rgb(254,224,210)}
+.Reds .q36{fill:rgb(252,187,161)}
+.Reds .q37{fill:rgb(252,146,114)}
+.Reds .q38{fill:rgb(251,106,74)}
+.Reds .q39{fill:rgb(239,59,44)}
+.Reds .q40{fill:rgb(203,24,29)}
+.Reds .q41{fill:rgb(165,15,21)}
+.Reds .q42{fill:rgb(103,0,13)}
