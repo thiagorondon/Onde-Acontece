@@ -40,7 +40,7 @@ sub view : Chained('object') : PathPart('') : Args(0) {
 
   my $m = $rs->related_resultset('municipios')->search(
     {
-      'municipios.nome' => 'Porto Alegre',
+      'municipios.nome' => {-like => ($c->req->params->{municipio} || 'Porto Alegre')},
       tipo              => { -not => undef }
     },
     {
