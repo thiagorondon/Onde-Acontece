@@ -23,6 +23,7 @@ use Catalyst qw/
   /;
 
 extends 'Catalyst';
+use Sys::Hostname;
 
 our $VERSION = '0.01';
 
@@ -35,20 +36,27 @@ our $VERSION = '0.01';
 # with an external configuration file acting as an override for
 # local deployment.
 
-__PACKAGE__->config(
-    name => 'Onde::Acontece',
+my $user = $ENV{USER};
+my $host = Sys::Hostname::hostname();
 
-    # Disable deprecated behavior needed by old applications
-    disable_component_resolution_regex_fallback => 1,
-    default_view                                => 'TT',
-    'View::TT'                                  => {
-        INCLUDE_PATH =>
-          [ map { __PACKAGE__->path_to(@$_) }[qw(root src)], [qw(root lib)] ]
-    },
-	'View::Topico'                              => {
-        INCLUDE_PATH =>
-          [ map { __PACKAGE__->path_to(@$_) }[qw(root src)], [qw(root lib)] ]
-    },
+__PACKAGE__->config(
+  name                   => 'Onde::Acontece',
+  'Plugin::ConfigLoader' => {
+    config_local_suffix => "${user}_${host}",
+    file                => __PACKAGE__->path_to('conf')
+  },
+
+  # Disable deprecated behavior needed by old applications
+  disable_component_resolution_regex_fallback => 1,
+  default_view                                => 'TT',
+  'View::TT'                                  => {
+    INCLUDE_PATH =>
+      [ map { __PACKAGE__->path_to(@$_) }[qw(root src)], [qw(root lib)] ]
+  },
+  'View::Topico' => {
+    INCLUDE_PATH =>
+      [ map { __PACKAGE__->path_to(@$_) }[qw(root src)], [qw(root lib)] ]
+  },
 );
 
 # Start the application

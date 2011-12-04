@@ -444,7 +444,7 @@ ALTER TABLE ONLY municipio_maps
 --
 
 ALTER TABLE ONLY municipios
-    ADD CONSTRAINT municipios_estado_id_fkey FOREIGN KEY (estado_id) REFERENCES estadoes(id) DEFERRABLE;
+    ADD CONSTRAINT municipios_estado_id_fkey FOREIGN KEY (estado_id) REFERENCES states(gid) DEFERRABLE;
 
 
 --
