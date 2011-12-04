@@ -58,3 +58,8 @@ div.graph
 {
 	color: #999;
 }
+
+#graficos table th, table td  {
+	padding:2px 2px 1px;
+	line-height: auto;
+}

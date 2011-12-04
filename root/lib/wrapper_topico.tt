@@ -36,7 +36,7 @@
 			<div class="span4">
 				<a href="/"><img  height="53" src="/static/images/logo_onde_acontece.short.jpg" /></a>
 			</div>
-			<div class="span8 sub_menu">
+			<div class="sub_menu">
 				[% SET view_name = c.action _ ".menu.tt"%]
 				[% PROCESS $view_name %]
 			</div>
