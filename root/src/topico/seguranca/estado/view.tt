@@ -1,4 +1,3 @@
-  
 <div class="sidebar">
 	<div class="well">
 		<form method="get" class="form-stacked">
@@ -83,13 +82,14 @@
 
 	<div id="graficos">
 		<h3>Acompanhamento Anual de criminalidade</h3>
-			<div id="lines" style="width:600px;height:300px;"></div>
+
+		<div id="lines" style="width:600px;height:300px;"></div>
 		<h3>Tipo de criminalidade</h3>
-			<div id="pie" class="graph" style="width:600px;height:300px;"></div>
+		<div id="pie" class="graph" style="width:600px;height:300px;"></div>
+
 	</div>
 
-
-    <table>
+    <table id="ocorrencias" data-json="[% estado_json %]">
         <tr><td></td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>
       [% FOREACH t IN estado.keys %]
         <tr><td>[% t %]</td>8
