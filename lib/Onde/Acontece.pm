@@ -42,7 +42,7 @@ my $host = Sys::Hostname::hostname();
 __PACKAGE__->config(
   name                   => 'Onde::Acontece',
   'Plugin::ConfigLoader' => {
-    config_local_suffix => "${user}_${host}",
+    config_local_suffix => "${user}",
     file                => __PACKAGE__->path_to('conf')
   },
 
