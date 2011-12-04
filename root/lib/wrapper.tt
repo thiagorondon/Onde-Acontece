@@ -27,7 +27,15 @@
 		
       <div class="content">
 		 <div class="page-header">
-			<a href="/"><img src="/static/images/logo_onde_acontece.jpg" /></a>
+			<div class="row">
+				<div class="span9">
+					<a href="/"><img src="/static/images/logo_onde_acontece.jpg" /></a>
+				</div>
+				<div class="span6">
+					<h3>Novidades</h3>
+					<a href="/seguranca/RS">Dados de segurança pública do Rio Grande do Sul</a>
+				</div>
+			</div>
 		</div>
 
 		[%content|none%]
