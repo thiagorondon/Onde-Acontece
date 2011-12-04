@@ -1,0 +1,5 @@
+<div id="mapwrapper">  
+  <div id="chart"></div>
+  <script src='/static/script/maps.js' type='text/javascript'> </script>
+</div>
+  

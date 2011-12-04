@@ -1,0 +1,26 @@
+svg {
+  background: #eee;
+  width: 300px;
+  height: 200px;
+}
+
+#region path {
+  stroke: #000;
+  stroke-width: .25px;
+}
+
+#states path {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+#chart {
+    float: left;
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+.tipsy {
+    z-index: 10000;
+}

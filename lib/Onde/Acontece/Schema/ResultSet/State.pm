@@ -11,6 +11,7 @@ sub with_geojson {
   );
 }
 
+
 sub as_hashref {
   my $self = shift;
   $self->result_class('DBIx::Class::ResultClass::HashRefInflator');
