@@ -9,15 +9,14 @@
   //   $(e.target).tipsy('show');
   // });
   //  d3.json("/poligono" + window.location.pathname.replace(/\/.*?\//, '/'), function(json) {
-  d3.json("/api/seguranca/RS?o_id=1&ano=2011&content-type=application/json", function(json) {
-    region.selectAll("path").data(json.features).enter().append("svg:path").attr("d", path).attr('class', quantize).attr('original-title', function(d) {
-      $(this).tipsy({
-        gravity: $.fn.tipsy.autoNS
-      });
-      return d.properties.name + ': ' + d.properties.quant;
-    });
-
-  });
+  // d3.json("/api/seguranca/RS?o_id=1&ano=2011&content-type=application/json", function(json) {
+  //   region.selectAll("path").data(json.features).enter().append("svg:path").attr("d", path).attr('class', quantize).attr('original-title', function(d) {
+  //     $(this).tipsy({
+  //       gravity: $.fn.tipsy.autoNS
+  //     });
+  //     return d.properties.name + ': ' + d.properties.quant;
+  //   });
+  // });
   $('path').live('click', function(e) {
     console.log($(e.target));
   });
@@ -30,15 +29,18 @@
         $(this).tipsy({
           gravity: $.fn.tipsy.autoNS
         });
-        
+
         return d.properties.name + ': ' + d.properties.quant;
+      }).classed('current', function(d) {
+        return d.properties.name == $('select[name=municipio] option:selected').val();
       });
     });
   }
-   var year    = $('select[name=ano] option:selected').val();
-   var type_id = $('select[name=ocorrencia] option:selected').val();
 
-   fetch(type_id, year);
+  var year = $('select[name=ano] option:selected').val();
+  var type_id = $('select[name=ocorrencia] option:selected').val();
+
+  fetch(type_id, year);
 
   function quantize(d) {
     return "q" + Math.max(1, ((d.properties.quant % 42)));

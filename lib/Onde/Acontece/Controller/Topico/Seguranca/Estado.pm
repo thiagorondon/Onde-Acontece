@@ -18,6 +18,10 @@ sub view : Chained('object') : PathPart('') : Args(0) {
   my ( $self, $c ) = @_;
   my $rs = $c->stash->{estado};
   $c->stash->{ocorrencias} = [$c->model('DB::Ocorrencia')->all];
+  $c->stash->{municipios_lista} =
+    [ $c->model('DB::Municipio')
+      ->search( {}, { order_by => { -asc => 'nome' } } )->all ];
+
   my $s  =  $rs->related_resultset('municipios')->search(
     { tipo => { -not => undef } },
     { select => [
