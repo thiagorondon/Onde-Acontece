@@ -27,34 +27,34 @@ div.graph
 	border: 1px dashed gainsboro;
 }
 
-label
+#graficos label
 {
 	display: block;
 	margin-left: 400px;
 	padding-left: 1em;
 }
 
-ul
+#graficos ul
 {
 	font-size: 10pt;
 }
 
-ul li
+#graficos ul li
 {
 	margin-bottom: 0.5em;
 }
 
-ul.options li
+#graficos ul.options li
 {
 	list-style: none;
 	margin-bottom: 1em;
 }
 
-table {
+#graficos table {
 	width: auto!important;
 }
 
-ul li i
+#graficos ul li i
 {
 	color: #999;
 }
