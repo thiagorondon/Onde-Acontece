@@ -29,7 +29,7 @@
 		 <div class="page-header">
 			<div class="row">
 				<div class="span9">
-					<a href="/"><img src="/static/images/logo_onde_acontece.jpg" /></a>
+          <a href="/"><a href="/seguranca/RS/"><img src="/static/images/logo_onde_acontece.jpg" border="0"/></a></a>
 				</div>
 				<div class="span6">
 					<h3>Novidades</h3>
