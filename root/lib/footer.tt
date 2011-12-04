@@ -27,6 +27,17 @@
 				</ul>
 			</div>
 
+			<div class="span4">
+			<p>
+				<a href="http://www.opendefinition.org/okd/">
+					<img src="http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data">
+				</a>
+</p><p>
+					<a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/"><img alt="Licença Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/br/80x15.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" rel="dct:type">work</span> este trabalho está sobre a licença <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons Atribuição 3.0</a>
+</p>
+			</div>
+
+
 		</div>
 	</div>
 </div>

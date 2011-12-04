@@ -9,3 +9,52 @@ div.sub_menu {
 	color: #F68121;
 
 }
+
+div.graph
+{
+	width: 400px;
+	height: 300px;
+	float: left;
+	border: 1px dashed gainsboro;
+}
+
+
+div.graph
+{
+	width: 400px;
+	height: 300px;
+	float: left;
+	border: 1px dashed gainsboro;
+}
+
+label
+{
+	display: block;
+	margin-left: 400px;
+	padding-left: 1em;
+}
+
+ul
+{
+	font-size: 10pt;
+}
+
+ul li
+{
+	margin-bottom: 0.5em;
+}
+
+ul.options li
+{
+	list-style: none;
+	margin-bottom: 1em;
+}
+
+table {
+	width: auto!important;
+}
+
+ul li i
+{
+	color: #999;
+}
