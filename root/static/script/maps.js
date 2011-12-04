@@ -18,33 +18,27 @@
     });
 
   });
-   $('path').live('click', function(e){
-                    console.log($(e.target));
-                  });
+  $('path').live('click', function(e) {
+    console.log($(e.target));
+  });
   function fetch(type_id, year) {
     d3.json("/api/seguranca/RS?o_id=$$type&ano=$$year&content-type=application/json".replace('$$year', year).replace('$$type', type_id), function(json) {
       $('#chart svg').remove();
       var region = d3.select("#chart").append("svg:svg").attr("id", "region").attr("class", "Reds").attr('width', '450px').attr('height', '400px');
 
       region.selectAll("path").data(json.features).enter().append("svg:path").attr("d", path).attr('class', quantize).attr('original-title', function(d) {
-      $(this).tipsy({
-        gravity: $.fn.tipsy.autoNS
-      });
-
-
+        $(this).tipsy({
+          gravity: $.fn.tipsy.autoNS
+        });
+        
         return d.properties.name + ': ' + d.properties.quant;
       });
-
     });
-
   }
+   var year    = $('select[name=ano] option:selected').val();
+   var type_id = $('select[name=ocorrencia] option:selected').val();
 
-  $("select[name='ocorrencia']").change(function(e) {
-    fetch($("select[name='ocorrencia'] option:selected").val(), $("select[name='ano'] option:selected").val());
-  });
-  $("select[name='ano']").change(function(e) {
-    fetch($("select[name='ocorrencia'] option:selected").val(), $("select[name='ano'] option:selected").val());
-  });
+   fetch(type_id, year);
 
   function quantize(d) {
     return "q" + Math.max(1, ((d.properties.quant % 42)));

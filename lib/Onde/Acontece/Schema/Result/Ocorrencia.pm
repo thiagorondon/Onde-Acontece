@@ -15,4 +15,10 @@ column tipo => {
   size        => 255
 };
 
+column nome => {
+  data_type   => 'text',
+  is_nullable => 1,
+};
+
+
 1;

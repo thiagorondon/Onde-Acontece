@@ -5,35 +5,17 @@
 			<label>Ano</label>
 
 			<select name="ano" class="span3">
-				<option value="2011">2011</option>
-				<option value="2010">2010</option>
-				<option value="2009">2009</option>
-				<option value="2008">2008</option>
-				<option value="2007">2007</option>
-				<option value="2006">2006</option>
-				<option value="2005">2005</option>
-				<option value="2004">2004</option>
-				<option value="2003">2003</option>
-				<option value="2002">2002</option>
+        [% FOR i IN [2..10] %]
+  				<option value="[% 2000 + i %]" [% IF c.req.params.ano == (2000+i) %]selected=selected[% END %]>[% 2000 + i %]</option>
+        [% END %]
 			</select>
 		</div>
 		<div class="clearfix row">
 			<label>Ocorrência</label>
-
 			<select name="ocorrencia" class="span3">
-				<option value="1">Homicídio</option>
-				<option value="2">Furto de veículo</option>
-				<option value="3">Furtos</option>
-				<option value="4">Roubos</option>
-				<option value="5">Latrocínio</option>
-				<option value="6">Roubo de veículo</option>
-				<option value="7">Extorsão</option>
-				<option value="8">Extorsão mediante sequestro</option>
-				<option value="9">Estelionato</option>
-				<option value="10">Delitos relac. à corrupção</option>
-				<option value="11">Entorp. Posse</option>
-				<option value="12">Delitos relac. a armas e munições</option>
-				<option value="13">Entorp. Tráfico</option>
+        [% FOR o IN ocorrencias %]
+				  <option value="[% o.id %]" [% IF c.req.params.ocorrencia == o.id %]selected=selected[% END %]>[% o.nome %]</option>
+        [% END %] 
 			</select>
     </div>
     <div class="clearfix row">
@@ -41,7 +23,7 @@
 		<select name="municipio" class="span3">
 			<option value="">Todos</option>
 			[% FOR m IN object.related_resultset('municipios').all %]
-			<option value="[% m.nome %]">[% m.nome %]</option>
+			<option value="[% m.nome %]" [% IF c.req.params.municipio == m.nome %]selected=selected[% END %]>[% m.nome %]</option>
 			[% END %]
 		</select>
 
@@ -86,13 +68,9 @@
 
 	<div id="graficos">
 		<div class="row">
-			<div class="span16">
+			<div class="span14">
 				<h3>Acompanhamento Anual de ocorrências</h3>
-				<div id="lines" style="width:100%;height:500px;"></div>
-			</div>
-			<div class="span10">
-				<h3>Tipo de criminalidade</h3>
-				<div id="pie" class="graph" style="width:100%;height:500px;"></div>
+				<div id="lines" style="width:570px;height:350px;"></div>
 			</div>
 		</div>
 	</div>
