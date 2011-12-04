@@ -55,3 +55,24 @@ body {
 
 	
 }
+
+#ribbon {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	display:block;
+	width: 138px;
+	height: 138px;
+}
+
+#ribbon a {
+	display:block;
+	height: 138px;
+	background: transparent url('/static/images/fork_me.png') no-repeat left bottom;
+}
+
+
+#ribbon a {
+
+	
+}
