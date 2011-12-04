@@ -17,7 +17,7 @@ while( my $line_city = <$fh_city> ) {
     my $url =
         "http://www.ibge.gov.br/cidadesat/xtras/csv.php?tabela=sintese&codmun=${id_city}&nomemun=${nm_city}";
 
-    getstore( $url, "data/$nm_city.csv" );
+    getstore( $url, "data/$nm_city" );
     
     $i++; print STDOUT $i, " - $id_city\n";
 }

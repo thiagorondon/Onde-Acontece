@@ -19,14 +19,15 @@ for my $csv_city (@csv) {
 
     my $header = 0;
 
-    $csv_city =~ s/\.\/data\///g;
+    $csv_city =~ s/\.\/data\/|\.csv//g;
     $csv_city = decode_utf8( $csv_city );
 
     while(my $row = $_csv->getline($FH)) {
 
-        my $desc = $row->[0];
-        my $val  = $row->[1];
-        my $unid = $row->[2];
+        my $desc     =  $row->[0];
+           $row->[1] =~ s/^\s+|\s+$|N.o informado|^-$/NULL/gi;
+        my $val      =  $row->[1];
+        my $unid     =  $row->[2];
 
 	if ($header == 0 && $desc =~ /^Descri..o$/ ) { $header = 1; next }
 	next if $header == 0 || $desc =~ /Fonte:IBGE/ || $desc !~ /[a-z]{3}/i;
