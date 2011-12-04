@@ -7,9 +7,13 @@ BEGIN { extends 'Catalyst::Controller'; }
 sub base : Chained('/base') PathPart('') CaptureArgs(1) {
     my ( $self, $c, $topico ) = @_;
     $c->stash->{topico} = $topico;
+
+	$c->forward('View::Topico');
+ 
 }
 
 sub visao_geral : Chained('base') PathPart('') Args(0) {
+
 }
 
 sub estado_objeto : Chained('base') PathPart('') CaptureArgs(1) {
