@@ -1,5 +1,4 @@
-
-	<div class="sidebar">
+<div class="sidebar">
 	<div class="well">
 		<h5>Sidebar</h5>
 		<ul>
@@ -10,8 +9,8 @@
 		<li><a href="#">Link</a></li>
 		</ul>
 
-		</ul>
-	</div>
+
+		</div>
 	</div>
 	<div class="content">
 	<!-- Example row of columns -->
