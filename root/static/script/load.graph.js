@@ -1,6 +1,8 @@
 $(function () {
 
-	$.getJSON('/api/seguranca/RS/'+$('input[name=municipio]').val(), { ano: $('input[name=ano]').val() }, function(d){
+	var mun_ativo = $('select[name=municipio]').val();
+	if (mun_ativo == '') mun_ativo = 'Porto Alegre';
+	$.getJSON('/api/seguranca/RS/' + mun_ativo, { ano: $('select[name=ano]').val() }, function(d){
 		
 		var datasets = d.ocorrencias;
 		var i = 0;
