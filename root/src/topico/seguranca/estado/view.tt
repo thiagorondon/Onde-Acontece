@@ -73,7 +73,7 @@
 	<div class="row">
 		<div class="span10">
 			<h2>Mapa do estado</h2>
-		<div id="mapwrapper">··                                                                                                                  
+		<div id="mapwrapper">
   <div id="chart"></div>
   <script src='/static/script/maps.js' type='text/javascript'> </script>
   </div>
@@ -81,6 +81,25 @@
     </div>
 		</div>
 	</div>
+    <table>
+        <tr><td></td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>
+      [% FOREACH t IN estado.keys %]
+        <tr><td>[% t %]</td>
+        [% FOREACH y IN estado.$t %]
+          <td>[% y.1 %]</td>
+        [% END %]
+        </tr>
+      [% END %]
+    </table>
 
-
+      [% FOREACH m IN mun.keys.sort %]
+        <table>
+          <tr><td>[% m %]</td>[% FOREACH y IN estado.${estado.keys.0} %]<td>[% y.0 %]</td>[% END %]</tr>
+          [% FOREACH t IN mun.$m.keys.sort %]
+            <tr>
+              <td>[% t %]</td>[% FOREACH y IN mun.$m.$t %]<td>[% y.1 %]</td>[% END %]
+            </tr>
+          [% END %]
+        </table>
+      [% END %]
 </div>
