@@ -1,0 +1,75 @@
+<div class="sidebar">
+
+	<form method="get" class="form-stacked">
+		<div class="clearfix row">
+			<label>Ano</label>
+
+			<select name="ano" class="span3">
+				<option value="...">20...</option>
+				<option value="2010">2010</option>
+				<option value="2011S">2011</option>
+			</select>
+		</div>
+		<div class="clearfix row">
+			<label>Ocorrência</label>
+
+			<select name="ocorrecia" class="span3">
+				<option value="homicidio">Homicídio</option>
+				<option value="furtos">Furtos</option>
+				<option value="furtos_veiculo">Furto de veículo</option>
+				<option value="roubos">Roubos</option>
+				<option value="latrocionio">Latrocínio</option>
+				<option value="roubo_veiculo">Roubo de veículo</option>
+				<option value="extorsao">Extorsão</option>
+				<option value="extorsao_sequesto">Extorsão mediante sequestro</option>
+				<option value="estelionato">Estelionato</option>
+				<option value="delitos_corrupcao">Delitos relac. à corrupção</option>
+				<option value="delitos_municoes">Delitos relac. a armas e munições</option>
+				<option value="posse_entorpecente">Entorp. Posse</option>
+				<option value="trafico_entorpecente">Entorp. Tráfico</option>
+			</select>
+
+		</div>
+		<div class="clearfix row">
+			<button class="btn primary">Visualizar</button>
+		</div>
+	</form>
+
+<table class="condensed-table">
+		<thead>
+			<tr>
+				<th>XPTO</th>
+				<th>OIES</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>OIES</td>
+				<td>OIES</td>
+			</tr>
+			<tr>
+				<td>OIES</td>
+				<td>OIES</td>
+			</tr>
+			<tr>
+				<td>OIES</td>
+				<td>OIES</td>
+			</tr>
+		</tbody>
+		</table>
+
+</div>
+
+<div class="content">
+
+	<div class="row">
+		<div class="span10">
+			<h2>Mapa do estado</h2>
+			<div style="width:450px; height: 400px; background-color:red">
+				xpto
+			</div>
+		</div>
+	</div>
+
+
+</div>
