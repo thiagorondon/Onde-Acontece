@@ -4,7 +4,7 @@
       "Thiago Rondon"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112150",
+   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112621",
    "license" : [
       "perl_5"
    ],
@@ -47,7 +47,6 @@
             "Moose" : 0,
             "Sys::Hostname" : 0,
             "Template::AutoFilter" : 0,
-            "Test::More" : "0.88",
             "namespace::autoclean" : 0
          }
       }

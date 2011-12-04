@@ -35,9 +35,16 @@
 					<h3>Novidades</h3>
 					<a href="/seguranca/RS"><span class="label important">novo</span> Dados de segurança pública do Rio Grande do Sul</a>
 				</div>
+		                <div id="social">
+					<iframe
+						src="http://www.facebook.com/plugins/like.php?href=[%c.req.uri%]&;layout=standard&colorscheme=light&action=likelocale=pt_BR;"
+					       	scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:70px;" allowTransparency="true"></iframe>
+                                        <div id="fb-root" style="text-align: center">
+		                                <fb:comments href="[%c.req.uri%]" num_posts="10"></fb:comments>
+																						                        </div>
+
 			</div>
 		</div>
-
 		[%content|none%]
 
 	</div>
