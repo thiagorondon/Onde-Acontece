@@ -20,8 +20,8 @@ column estado_id => {
 
 unique_constraint [qw(nome estado_id)];
 
-belongs_to estado => 'Onde::Acontece::Schema::Result::Estado' =>
-  { 'foreign.id' => 'self.estado_id' };
+belongs_to estado => 'Onde::Acontece::Schema::Result::State' =>
+  { 'foreign.gid' => 'self.estado_id' };
 
 1;
 
