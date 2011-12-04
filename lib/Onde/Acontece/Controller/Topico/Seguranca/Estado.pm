@@ -15,8 +15,8 @@ sub object : Chained('base') : PathPart('') : CaptureArgs(1) {
 
 sub view : Chained('object') : PathPart('') : Args(0) {
   my ( $self, $c ) = @_;
-  my $s = $c->stash->{estado} =
-    $c->stash->{estado}->related_resultset('municipios')->search(
+  my $rs = $c->stash->{estado};
+  my $s  = $rs->related_resultset('municipios')->search(
     { tipo => { -not => undef } },
     { select => [
         'ocorrencias_municipio.ano',
@@ -28,13 +28,32 @@ sub view : Chained('object') : PathPart('') : Args(0) {
       order_by => [qw(ocorrencias_municipio.ano ocorrencia.tipo)],
       group_by => [qw(ocorrencias_municipio.ano ocorrencia.tipo)]
     }
-    );
+  );
   my %data;
   for my $r ( $s->all ) {
     push @{ $data{ $r->get_column('tipo') } },
       [ $r->get_column('ano'), $r->get_column('quant') ];
   }
   $c->stash->{estado} = \%data;
+
+  my $m = $rs->related_resultset('municipios')->search(
+    { tipo => { -not => undef } },
+    { select => [
+        qw(municipios.nome ocorrencia.tipo ocorrencias_municipio.ano ocorrencias_municipio.quant)
+      ],
+      as   => [qw(nome tipo ano quant)],
+      join => { ocorrencias_municipio => 'ocorrencia' },
+      order_by =>
+        [qw(ocorrencias_municipio.ano ocorrencia.tipo municipios.nome )],
+    }
+  );
+  my %mun;
+  for my $r ( $m->all ) {
+    push @{ $mun{ $r->get_column('nome') }{ $r->get_column('tipo') } },
+      [ $r->get_column('ano'), $r->get_column('quant') ];
+  }
+
+  $c->stash->{mun} = \%mun;
 }
 
 __PACKAGE__->meta->make_immutable;
