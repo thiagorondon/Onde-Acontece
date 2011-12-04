@@ -19,6 +19,8 @@ column quant => {
   is_nullable => 0
 };
 
+primary_key qw(ocorrencia_id municipio_id);
+
 belongs_to municipio => 'Onde::Acontece::Schema::Result::Municipio' =>
   { 'foreign.id' => 'self.municipio_id' };
 

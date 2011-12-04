@@ -23,5 +23,11 @@ unique_constraint [qw(nome estado_id)];
 belongs_to estado => 'Onde::Acontece::Schema::Result::State' =>
   { 'foreign.gid' => 'self.estado_id' };
 
+has_many ocorrencias_municipio =>
+  'Onde::Acontece::Schema::Result::OcorrenciaMunicipio' =>
+  { 'foreign.municipio_id' => 'self.id' };
+
+many_to_many ocorrencias => ocorrencias_municipio => 'ocorrencia';
+
 1;
 
