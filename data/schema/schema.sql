@@ -225,7 +225,8 @@ CREATE TABLE ocorrencia_municipios (
 
 CREATE TABLE ocorrencias (
     id integer NOT NULL,
-    tipo character varying(255) NOT NULL
+    tipo character varying(255) NOT NULL,
+    nome character varying(255)
 );
 
 
