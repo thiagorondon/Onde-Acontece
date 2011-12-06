@@ -44,7 +44,7 @@ Cidade;Descricao;Unidade;Valor
 Áurea;População residente - cor ou raça - Preta;pessoas;47
 Áurea;População residente - cor ou raça - Parda;pessoas;206
 Áurea;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;71
-Áurea;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Áurea;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Áurea;Área da unidade territorial;Km²;158.291
 Áurea;Eleitorado;Eleitores;2902
 Áurea;PIB per capita a preços correntes;Reais;12200.41
@@ -263,7 +263,7 @@ Almirante Tamandaré do Sul;Matrícula - Ensino médio - 2009;Matrículas;67
 Almirante Tamandaré do Sul;Docentes - Ensino fundamental - 2009;Docentes;26
 Almirante Tamandaré do Sul;Docentes - Ensino médio - 2009;Docentes;9
 Almirante Tamandaré do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Almirante Tamandaré do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Almirante Tamandaré do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Almirante Tamandaré do Sul;Receitas orçamentárias realizadas - Correntes;Reais;787217506
 Almirante Tamandaré do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;597804500
 Almirante Tamandaré do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -344,7 +344,7 @@ Alto Feliz;População residente - cor ou raça - Branca;pessoas;2802
 Alto Feliz;População residente - cor ou raça - Preta;pessoas;34
 Alto Feliz;População residente - cor ou raça - Parda;pessoas;69
 Alto Feliz;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;26
-Alto Feliz;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Alto Feliz;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Alto Feliz;Área da unidade territorial;Km²;79.173
 Alto Feliz;Eleitorado;Eleitores;2100
 Alto Feliz;PIB per capita a preços correntes;Reais;8079.79
@@ -353,7 +353,7 @@ Alto Feliz;Matrícula - Ensino médio - 2009;Matrículas;81
 Alto Feliz;Docentes - Ensino fundamental - 2009;Docentes;19
 Alto Feliz;Docentes - Ensino médio - 2009;Docentes;11
 Alto Feliz;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Alto Feliz;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Alto Feliz;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Alto Feliz;Receitas orçamentárias realizadas - Correntes;Reais;827590366
 Alto Feliz;Despesas orçamentárias empenhadas - Correntes;Reais;594929987
 Alto Feliz;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -563,7 +563,7 @@ Arambaré;Matrícula - Ensino médio - 2009;Matrículas;195
 Arambaré;Docentes - Ensino fundamental - 2009;Docentes;41
 Arambaré;Docentes - Ensino médio - 2009;Docentes;16
 Arambaré;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Arambaré;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Arambaré;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Arambaré;Receitas orçamentárias realizadas - Correntes;Reais;938752338
 Arambaré;Despesas orçamentárias empenhadas - Correntes;Reais;796084361
 Arambaré;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398385879
@@ -593,7 +593,7 @@ Araricá;Matrícula - Ensino médio - 2009;Matrículas;248
 Araricá;Docentes - Ensino fundamental - 2009;Docentes;81
 Araricá;Docentes - Ensino médio - 2009;Docentes;24
 Araricá;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Araricá;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Araricá;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Araricá;Receitas orçamentárias realizadas - Correntes;Reais;976345506
 Araricá;Despesas orçamentárias empenhadas - Correntes;Reais;814113237
 Araricá;Valor do Fundo de Participação dos Municípios  - FPM;Reais;397602964
@@ -683,7 +683,7 @@ Arroio do Padre;Matrícula - Ensino médio - 2009;Matrículas;173
 Arroio do Padre;Docentes - Ensino fundamental - 2009;Docentes;34
 Arroio do Padre;Docentes - Ensino médio - 2009;Docentes;11
 Arroio do Padre;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Arroio do Padre;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Arroio do Padre;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Arroio do Padre;Receitas orçamentárias realizadas - Correntes;Reais;754283825
 Arroio do Padre;Despesas orçamentárias empenhadas - Correntes;Reais;586127237
 Arroio do Padre;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398922609
@@ -923,7 +923,7 @@ Balneário Pinhal;Matrícula - Ensino médio - 2009;Matrículas;379
 Balneário Pinhal;Docentes - Ensino fundamental - 2009;Docentes;94
 Balneário Pinhal;Docentes - Ensino médio - 2009;Docentes;25
 Balneário Pinhal;Estabelecimentos de Saúde SUS;estabelecimentos;5
-Balneário Pinhal;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Balneário Pinhal;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Balneário Pinhal;Receitas orçamentárias realizadas - Correntes;Reais;2290413165
 Balneário Pinhal;Despesas orçamentárias empenhadas - Correntes;Reais;1842079623
 Balneário Pinhal;Valor do Fundo de Participação dos Municípios  - FPM;Reais;531919079
@@ -1043,7 +1043,7 @@ Barra do Guarita;Matrícula - Ensino médio - 2009;Matrículas;103
 Barra do Guarita;Docentes - Ensino fundamental - 2009;Docentes;46
 Barra do Guarita;Docentes - Ensino médio - 2009;Docentes;16
 Barra do Guarita;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Barra do Guarita;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Barra do Guarita;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Barra do Guarita;Receitas orçamentárias realizadas - Correntes;Reais;692796329
 Barra do Guarita;Despesas orçamentárias empenhadas - Correntes;Reais;489855609
 Barra do Guarita;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398157020
@@ -1064,7 +1064,7 @@ Barra do Quaraí;População residente - cor ou raça - Branca;pessoas;2613
 Barra do Quaraí;População residente - cor ou raça - Preta;pessoas;305
 Barra do Quaraí;População residente - cor ou raça - Parda;pessoas;1079
 Barra do Quaraí;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;85
-Barra do Quaraí;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Barra do Quaraí;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Barra do Quaraí;Área da unidade territorial;Km²;1056.149
 Barra do Quaraí;Eleitorado;Eleitores;3134
 Barra do Quaraí;PIB per capita a preços correntes;Reais;25523.14
@@ -1124,7 +1124,7 @@ Barra do Rio Azul;População residente - cor ou raça - Branca;pessoas;1886
 Barra do Rio Azul;População residente - cor ou raça - Preta;pessoas;39
 Barra do Rio Azul;População residente - cor ou raça - Parda;pessoas;75
 Barra do Rio Azul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;56
-Barra do Rio Azul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Barra do Rio Azul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Barra do Rio Azul;Área da unidade territorial;Km²;147.029
 Barra do Rio Azul;Eleitorado;Eleitores;1765
 Barra do Rio Azul;PIB per capita a preços correntes;Reais;16103.10
@@ -1133,7 +1133,7 @@ Barra do Rio Azul;Matrícula - Ensino médio - 2009;Matrículas;70
 Barra do Rio Azul;Docentes - Ensino fundamental - 2009;Docentes;26
 Barra do Rio Azul;Docentes - Ensino médio - 2009;Docentes;16
 Barra do Rio Azul;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Barra do Rio Azul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Barra do Rio Azul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Barra do Rio Azul;Receitas orçamentárias realizadas - Correntes;Reais;736692027
 Barra do Rio Azul;Despesas orçamentárias empenhadas - Correntes;Reais;532360292
 Barra do Rio Azul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398968100
@@ -1154,7 +1154,7 @@ Barra Funda;População residente - cor ou raça - Branca;pessoas;2050
 Barra Funda;População residente - cor ou raça - Preta;pessoas;122
 Barra Funda;População residente - cor ou raça - Parda;pessoas;187
 Barra Funda;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;36
-Barra Funda;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Barra Funda;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Barra Funda;Área da unidade territorial;Km²;60.033
 Barra Funda;Eleitorado;Eleitores;2055
 Barra Funda;PIB per capita a preços correntes;Reais;24012.12
@@ -1163,7 +1163,7 @@ Barra Funda;Matrícula - Ensino médio - 2009;Matrículas;153
 Barra Funda;Docentes - Ensino fundamental - 2009;Docentes;27
 Barra Funda;Docentes - Ensino médio - 2009;Docentes;13
 Barra Funda;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Barra Funda;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Barra Funda;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Barra Funda;Receitas orçamentárias realizadas - Correntes;Reais;932910627
 Barra Funda;Despesas orçamentárias empenhadas - Correntes;Reais;652627949
 Barra Funda;Valor do Fundo de Participação dos Municípios  - FPM;Reais;389996391
@@ -1244,7 +1244,7 @@ Benjamin Constant do Sul;População residente - cor ou raça - Branca;pessoas;1
 Benjamin Constant do Sul;População residente - cor ou raça - Preta;pessoas;43
 Benjamin Constant do Sul;População residente - cor ou raça - Parda;pessoas;47
 Benjamin Constant do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;142
-Benjamin Constant do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Benjamin Constant do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Benjamin Constant do Sul;Área da unidade territorial;Km²;132.396
 Benjamin Constant do Sul;Eleitorado;Eleitores;1865
 Benjamin Constant do Sul;PIB per capita a preços correntes;Reais;8104.78
@@ -1253,7 +1253,7 @@ Benjamin Constant do Sul;Matrícula - Ensino médio - 2009;Matrículas;103
 Benjamin Constant do Sul;Docentes - Ensino fundamental - 2009;Docentes;33
 Benjamin Constant do Sul;Docentes - Ensino médio - 2009;Docentes;10
 Benjamin Constant do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Benjamin Constant do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Benjamin Constant do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Benjamin Constant do Sul;Receitas orçamentárias realizadas - Correntes;Reais;658455861
 Benjamin Constant do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;495594533
 Benjamin Constant do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -1313,7 +1313,7 @@ Boa Vista das Missões;Matrícula - Ensino médio - 2009;Matrículas;52
 Boa Vista das Missões;Docentes - Ensino fundamental - 2009;Docentes;33
 Boa Vista das Missões;Docentes - Ensino médio - 2009;Docentes;11
 Boa Vista das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Boa Vista das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Boa Vista das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista das Missões;Receitas orçamentárias realizadas - Correntes;Reais;798704715
 Boa Vista das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;612022493
 Boa Vista das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;375190678
@@ -1373,7 +1373,7 @@ Boa Vista do Cadeado;Matrícula - Ensino médio - 2009;Matrículas;70
 Boa Vista do Cadeado;Docentes - Ensino fundamental - 2009;Docentes;33
 Boa Vista do Cadeado;Docentes - Ensino médio - 2009;Docentes;6
 Boa Vista do Cadeado;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Boa Vista do Cadeado;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Boa Vista do Cadeado;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista do Cadeado;Receitas orçamentárias realizadas - Correntes;Reais;913867569
 Boa Vista do Cadeado;Despesas orçamentárias empenhadas - Correntes;Reais;647478046
 Boa Vista do Cadeado;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -1403,7 +1403,7 @@ Boa Vista do Incra;Matrícula - Ensino médio - 2009;Matrículas;107
 Boa Vista do Incra;Docentes - Ensino fundamental - 2009;Docentes;33
 Boa Vista do Incra;Docentes - Ensino médio - 2009;Docentes;8
 Boa Vista do Incra;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Boa Vista do Incra;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Boa Vista do Incra;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista do Incra;Receitas orçamentárias realizadas - Correntes;Reais;878813789
 Boa Vista do Incra;Despesas orçamentárias empenhadas - Correntes;Reais;729284161
 Boa Vista do Incra;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917556
@@ -1433,7 +1433,7 @@ Boa Vista do Sul;Matrícula - Ensino médio - 2009;Matrículas;116
 Boa Vista do Sul;Docentes - Ensino fundamental - 2009;Docentes;30
 Boa Vista do Sul;Docentes - Ensino médio - 2009;Docentes;11
 Boa Vista do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Boa Vista do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Boa Vista do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Boa Vista do Sul;Receitas orçamentárias realizadas - Correntes;Reais;1075787117
 Boa Vista do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;764728261
 Boa Vista do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -1523,7 +1523,7 @@ Bom Progresso;Matrícula - Ensino médio - 2009;Matrículas;203
 Bom Progresso;Docentes - Ensino fundamental - 2009;Docentes;46
 Bom Progresso;Docentes - Ensino médio - 2009;Docentes;24
 Bom Progresso;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Bom Progresso;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Bom Progresso;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Bom Progresso;Receitas orçamentárias realizadas - Correntes;Reais;676297038
 Bom Progresso;Despesas orçamentárias empenhadas - Correntes;Reais;562804478
 Bom Progresso;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2084,7 +2084,7 @@ Campestre da Serra;População residente - cor ou raça - Branca;pessoas;2710
 Campestre da Serra;População residente - cor ou raça - Preta;pessoas;54
 Campestre da Serra;População residente - cor ou raça - Parda;pessoas;470
 Campestre da Serra;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;32
-Campestre da Serra;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Campestre da Serra;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Campestre da Serra;Área da unidade territorial;Km²;538.002
 Campestre da Serra;Eleitorado;Eleitores;2661
 Campestre da Serra;PIB per capita a preços correntes;Reais;15804.30
@@ -2093,7 +2093,7 @@ Campestre da Serra;Matrícula - Ensino médio - 2009;Matrículas;118
 Campestre da Serra;Docentes - Ensino fundamental - 2009;Docentes;42
 Campestre da Serra;Docentes - Ensino médio - 2009;Docentes;11
 Campestre da Serra;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Campestre da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Campestre da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Campestre da Serra;Receitas orçamentárias realizadas - Correntes;Reais;919799453
 Campestre da Serra;Despesas orçamentárias empenhadas - Correntes;Reais;706271064
 Campestre da Serra;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2423,7 +2423,7 @@ Canudos do Vale;Matrícula - Ensino médio - 2009;Matrículas;84
 Canudos do Vale;Docentes - Ensino fundamental - 2009;Docentes;25
 Canudos do Vale;Docentes - Ensino médio - 2009;Docentes;9
 Canudos do Vale;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Canudos do Vale;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Canudos do Vale;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Canudos do Vale;Receitas orçamentárias realizadas - Correntes;Reais;652547028
 Canudos do Vale;Despesas orçamentárias empenhadas - Correntes;Reais;502746494
 Canudos do Vale;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803806
@@ -2453,7 +2453,7 @@ Capão Bonito do Sul;Matrícula - Ensino médio - 2009;Matrículas;64
 Capão Bonito do Sul;Docentes - Ensino fundamental - 2009;Docentes;33
 Capão Bonito do Sul;Docentes - Ensino médio - 2009;Docentes;7
 Capão Bonito do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Capão Bonito do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Capão Bonito do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capão Bonito do Sul;Receitas orçamentárias realizadas - Correntes;Reais;789120476
 Capão Bonito do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;634008350
 Capão Bonito do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2513,7 +2513,7 @@ Capão do Cipó;Matrícula - Ensino médio - 2009;Matrículas;115
 Capão do Cipó;Docentes - Ensino fundamental - 2009;Docentes;46
 Capão do Cipó;Docentes - Ensino médio - 2009;Docentes;11
 Capão do Cipó;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Capão do Cipó;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Capão do Cipó;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capão do Cipó;Receitas orçamentárias realizadas - Correntes;Reais;994181642
 Capão do Cipó;Despesas orçamentárias empenhadas - Correntes;Reais;746829558
 Capão do Cipó;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917485
@@ -2564,7 +2564,7 @@ Capela de Santana;População residente - cor ou raça - Branca;pessoas;9964
 Capela de Santana;População residente - cor ou raça - Preta;pessoas;315
 Capela de Santana;População residente - cor ou raça - Parda;pessoas;1263
 Capela de Santana;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;213
-Capela de Santana;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Capela de Santana;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Capela de Santana;Área da unidade territorial;Km²;183.757
 Capela de Santana;Eleitorado;Eleitores;7252
 Capela de Santana;PIB per capita a preços correntes;Reais;7482.06
@@ -2603,7 +2603,7 @@ Capitão;Matrícula - Ensino médio - 2009;Matrículas;104
 Capitão;Docentes - Ensino fundamental - 2009;Docentes;34
 Capitão;Docentes - Ensino médio - 2009;Docentes;12
 Capitão;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Capitão;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Capitão;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capitão;Receitas orçamentárias realizadas - Correntes;Reais;1022667086
 Capitão;Despesas orçamentárias empenhadas - Correntes;Reais;804296758
 Capitão;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917645
@@ -2633,7 +2633,7 @@ Capivari do Sul;Matrícula - Ensino médio - 2009;Matrículas;172
 Capivari do Sul;Docentes - Ensino fundamental - 2009;Docentes;45
 Capivari do Sul;Docentes - Ensino médio - 2009;Docentes;15
 Capivari do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Capivari do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Capivari do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Capivari do Sul;Receitas orçamentárias realizadas - Correntes;Reais;987299126
 Capivari do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;682869982
 Capivari do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2753,7 +2753,7 @@ Carlos Gomes;Matrícula - Ensino médio - 2009;Matrículas;79
 Carlos Gomes;Docentes - Ensino fundamental - 2009;Docentes;20
 Carlos Gomes;Docentes - Ensino médio - 2009;Docentes;11
 Carlos Gomes;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Carlos Gomes;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Carlos Gomes;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Carlos Gomes;Receitas orçamentárias realizadas - Correntes;Reais;613987727
 Carlos Gomes;Despesas orçamentárias empenhadas - Correntes;Reais;490187569
 Carlos Gomes;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2903,7 +2903,7 @@ Centenário;Matrícula - Ensino médio - 2009;Matrículas;90
 Centenário;Docentes - Ensino fundamental - 2009;Docentes;25
 Centenário;Docentes - Ensino médio - 2009;Docentes;13
 Centenário;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Centenário;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Centenário;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Centenário;Receitas orçamentárias realizadas - Correntes;Reais;713197640
 Centenário;Despesas orçamentárias empenhadas - Correntes;Reais;560659273
 Centenário;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -2924,7 +2924,7 @@ Cerrito;População residente - cor ou raça - Branca;pessoas;5555
 Cerrito;População residente - cor ou raça - Preta;pessoas;431
 Cerrito;População residente - cor ou raça - Parda;pessoas;385
 Cerrito;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;365
-Cerrito;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Cerrito;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cerrito;Área da unidade territorial;Km²;451.701
 Cerrito;Eleitorado;Eleitores;5153
 Cerrito;PIB per capita a preços correntes;Reais;6644.83
@@ -2933,7 +2933,7 @@ Cerrito;Matrícula - Ensino médio - 2009;Matrículas;263
 Cerrito;Docentes - Ensino fundamental - 2009;Docentes;80
 Cerrito;Docentes - Ensino médio - 2009;Docentes;38
 Cerrito;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Cerrito;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Cerrito;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cerrito;Receitas orçamentárias realizadas - Correntes;Reais;940375732
 Cerrito;Despesas orçamentárias empenhadas - Correntes;Reais;743670514
 Cerrito;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398906341
@@ -2954,7 +2954,7 @@ Cerro Branco;População residente - cor ou raça - Branca;pessoas;3787
 Cerro Branco;População residente - cor ou raça - Preta;pessoas;179
 Cerro Branco;População residente - cor ou raça - Parda;pessoas;461
 Cerro Branco;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;172
-Cerro Branco;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Cerro Branco;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cerro Branco;Área da unidade territorial;Km²;158.766
 Cerro Branco;Eleitorado;Eleitores;3646
 Cerro Branco;PIB per capita a preços correntes;Reais;11436.28
@@ -2993,7 +2993,7 @@ Cerro Grande;Matrícula - Ensino médio - 2009;Matrículas;112
 Cerro Grande;Docentes - Ensino fundamental - 2009;Docentes;53
 Cerro Grande;Docentes - Ensino médio - 2009;Docentes;15
 Cerro Grande;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Cerro Grande;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Cerro Grande;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cerro Grande;Receitas orçamentárias realizadas - Correntes;Reais;743506500
 Cerro Grande;Despesas orçamentárias empenhadas - Correntes;Reais;574942500
 Cerro Grande;Valor do Fundo de Participação dos Municípios  - FPM;Reais;413889400
@@ -3134,7 +3134,7 @@ Charrua;População residente - cor ou raça - Branca;pessoas;1885
 Charrua;População residente - cor ou raça - Preta;pessoas;11
 Charrua;População residente - cor ou raça - Parda;pessoas;48
 Charrua;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;141
-Charrua;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Charrua;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Charrua;Área da unidade territorial;Km²;198.125
 Charrua;Eleitorado;Eleitores;2615
 Charrua;PIB per capita a preços correntes;Reais;13327.50
@@ -3224,7 +3224,7 @@ Chuvisca;População residente - cor ou raça - Branca;pessoas;4591
 Chuvisca;População residente - cor ou raça - Preta;pessoas;219
 Chuvisca;População residente - cor ou raça - Parda;pessoas;108
 Chuvisca;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;199
-Chuvisca;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Chuvisca;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Chuvisca;Área da unidade territorial;Km²;220.472
 Chuvisca;Eleitorado;Eleitores;3572
 Chuvisca;PIB per capita a preços correntes;Reais;11467.17
@@ -3233,7 +3233,7 @@ Chuvisca;Matrícula - Ensino médio - 2009;Matrículas;213
 Chuvisca;Docentes - Ensino fundamental - 2009;Docentes;57
 Chuvisca;Docentes - Ensino médio - 2009;Docentes;17
 Chuvisca;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Chuvisca;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Chuvisca;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Chuvisca;Receitas orçamentárias realizadas - Correntes;Reais;890513412
 Chuvisca;Despesas orçamentárias empenhadas - Correntes;Reais;742924368
 Chuvisca;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3434,7 +3434,7 @@ Coqueiro Baixo;População residente - cor ou raça - Branca;pessoas;1406
 Coqueiro Baixo;População residente - cor ou raça - Preta;pessoas;59
 Coqueiro Baixo;População residente - cor ou raça - Parda;pessoas;63
 Coqueiro Baixo;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;32
-Coqueiro Baixo;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Coqueiro Baixo;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Coqueiro Baixo;Área da unidade territorial;Km²;112.277
 Coqueiro Baixo;Eleitorado;Eleitores;1332
 Coqueiro Baixo;PIB per capita a preços correntes;Reais;10090.98
@@ -3443,7 +3443,7 @@ Coqueiro Baixo;Matrícula - Ensino médio - 2009;Matrículas;0
 Coqueiro Baixo;Docentes - Ensino fundamental - 2009;Docentes;19
 Coqueiro Baixo;Docentes - Ensino médio - 2009;Docentes;0
 Coqueiro Baixo;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coqueiro Baixo;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Coqueiro Baixo;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coqueiro Baixo;Receitas orçamentárias realizadas - Correntes;Reais;704053408
 Coqueiro Baixo;Despesas orçamentárias empenhadas - Correntes;Reais;485292837
 Coqueiro Baixo;Valor do Fundo de Participação dos Municípios  - FPM;Reais;413893799
@@ -3473,7 +3473,7 @@ Coqueiros do Sul;Matrícula - Ensino médio - 2009;Matrículas;91
 Coqueiros do Sul;Docentes - Ensino fundamental - 2009;Docentes;34
 Coqueiros do Sul;Docentes - Ensino médio - 2009;Docentes;10
 Coqueiros do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Coqueiros do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Coqueiros do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coqueiros do Sul;Receitas orçamentárias realizadas - Correntes;Reais;910634927
 Coqueiros do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;561997856
 Coqueiros do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398906339
@@ -3503,7 +3503,7 @@ Coronel Barros;Matrícula - Ensino médio - 2009;Matrículas;88
 Coronel Barros;Docentes - Ensino fundamental - 2009;Docentes;17
 Coronel Barros;Docentes - Ensino médio - 2009;Docentes;13
 Coronel Barros;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coronel Barros;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Coronel Barros;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coronel Barros;Receitas orçamentárias realizadas - Correntes;Reais;811995122
 Coronel Barros;Despesas orçamentárias empenhadas - Correntes;Reais;577505609
 Coronel Barros;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398936033
@@ -3563,7 +3563,7 @@ Coronel Pilar;Matrícula - Ensino médio - 2009;Matrículas;55
 Coronel Pilar;Docentes - Ensino fundamental - 2009;Docentes;19
 Coronel Pilar;Docentes - Ensino médio - 2009;Docentes;8
 Coronel Pilar;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coronel Pilar;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Coronel Pilar;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coronel Pilar;Receitas orçamentárias realizadas - Correntes;Reais;788533139
 Coronel Pilar;Despesas orçamentárias empenhadas - Correntes;Reais;487318249
 Coronel Pilar;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3623,7 +3623,7 @@ Coxilha;Matrícula - Ensino médio - 2009;Matrículas;98
 Coxilha;Docentes - Ensino fundamental - 2009;Docentes;37
 Coxilha;Docentes - Ensino médio - 2009;Docentes;16
 Coxilha;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Coxilha;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Coxilha;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Coxilha;Receitas orçamentárias realizadas - Correntes;Reais;906824924
 Coxilha;Despesas orçamentárias empenhadas - Correntes;Reais;656136687
 Coxilha;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3704,7 +3704,7 @@ Cristal do Sul;População residente - cor ou raça - Branca;pessoas;2118
 Cristal do Sul;População residente - cor ou raça - Preta;pessoas;56
 Cristal do Sul;População residente - cor ou raça - Parda;pessoas;651
 Cristal do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;284
-Cristal do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Cristal do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cristal do Sul;Área da unidade territorial;Km²;97.715
 Cristal do Sul;Eleitorado;Eleitores;2302
 Cristal do Sul;PIB per capita a preços correntes;Reais;9930.16
@@ -3713,7 +3713,7 @@ Cristal do Sul;Matrícula - Ensino médio - 2009;Matrículas;104
 Cristal do Sul;Docentes - Ensino fundamental - 2009;Docentes;44
 Cristal do Sul;Docentes - Ensino médio - 2009;Docentes;15
 Cristal do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Cristal do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Cristal do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cristal do Sul;Receitas orçamentárias realizadas - Correntes;Reais;684154221
 Cristal do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;508066096
 Cristal do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917554
@@ -3764,7 +3764,7 @@ Cruzaltense;População residente - cor ou raça - Branca;pessoas;1942
 Cruzaltense;População residente - cor ou raça - Preta;pessoas;93
 Cruzaltense;População residente - cor ou raça - Parda;pessoas;97
 Cruzaltense;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;86
-Cruzaltense;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Cruzaltense;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Cruzaltense;Área da unidade territorial;Km²;166.883
 Cruzaltense;Eleitorado;Eleitores;1918
 Cruzaltense;PIB per capita a preços correntes;Reais;13580.99
@@ -3773,7 +3773,7 @@ Cruzaltense;Matrícula - Ensino médio - 2009;Matrículas;91
 Cruzaltense;Docentes - Ensino fundamental - 2009;Docentes;29
 Cruzaltense;Docentes - Ensino médio - 2009;Docentes;9
 Cruzaltense;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Cruzaltense;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Cruzaltense;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Cruzaltense;Receitas orçamentárias realizadas - Correntes;Reais;728003604
 Cruzaltense;Despesas orçamentárias empenhadas - Correntes;Reais;529822159
 Cruzaltense;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3863,7 +3863,7 @@ Derrubadas;Matrícula - Ensino médio - 2009;Matrículas;120
 Derrubadas;Docentes - Ensino fundamental - 2009;Docentes;64
 Derrubadas;Docentes - Ensino médio - 2009;Docentes;12
 Derrubadas;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Derrubadas;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Derrubadas;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Derrubadas;Receitas orçamentárias realizadas - Correntes;Reais;866102698
 Derrubadas;Despesas orçamentárias empenhadas - Correntes;Reais;674344314
 Derrubadas;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -3884,7 +3884,7 @@ Dezesseis de Novembro;População residente - cor ou raça - Branca;pessoas;2347
 Dezesseis de Novembro;População residente - cor ou raça - Preta;pessoas;35
 Dezesseis de Novembro;População residente - cor ou raça - Parda;pessoas;467
 Dezesseis de Novembro;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;207
-Dezesseis de Novembro;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Dezesseis de Novembro;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Dezesseis de Novembro;Área da unidade territorial;Km²;216.849
 Dezesseis de Novembro;Eleitorado;Eleitores;2483
 Dezesseis de Novembro;PIB per capita a preços correntes;Reais;9317.18
@@ -3983,7 +3983,7 @@ Dois Irmãos das Missões;Matrícula - Ensino médio - 2009;Matrículas;132
 Dois Irmãos das Missões;Docentes - Ensino fundamental - 2009;Docentes;37
 Dois Irmãos das Missões;Docentes - Ensino médio - 2009;Docentes;16
 Dois Irmãos das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Dois Irmãos das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Dois Irmãos das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Dois Irmãos das Missões;Receitas orçamentárias realizadas - Correntes;Reais;820065142
 Dois Irmãos das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;570591625
 Dois Irmãos das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -4103,7 +4103,7 @@ Dom Pedro de Alcântara;Matrícula - Ensino médio - 2009;Matrículas;86
 Dom Pedro de Alcântara;Docentes - Ensino fundamental - 2009;Docentes;24
 Dom Pedro de Alcântara;Docentes - Ensino médio - 2009;Docentes;13
 Dom Pedro de Alcântara;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Dom Pedro de Alcântara;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Dom Pedro de Alcântara;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Dom Pedro de Alcântara;Receitas orçamentárias realizadas - Correntes;Reais;717410368
 Dom Pedro de Alcântara;Despesas orçamentárias empenhadas - Correntes;Reais;493127658
 Dom Pedro de Alcântara;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -4124,7 +4124,7 @@ Dona Francisca;População residente - cor ou raça - Branca;pessoas;2688
 Dona Francisca;População residente - cor ou raça - Preta;pessoas;176
 Dona Francisca;População residente - cor ou raça - Parda;pessoas;532
 Dona Francisca;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;146
-Dona Francisca;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Dona Francisca;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Dona Francisca;Área da unidade territorial;Km²;114.346
 Dona Francisca;Eleitorado;Eleitores;2908
 Dona Francisca;PIB per capita a preços correntes;Reais;11078.36
@@ -4154,7 +4154,7 @@ Doutor Maurício Cardoso;População residente - cor ou raça - Branca;pessoas;4
 Doutor Maurício Cardoso;População residente - cor ou raça - Preta;pessoas;43
 Doutor Maurício Cardoso;População residente - cor ou raça - Parda;pessoas;802
 Doutor Maurício Cardoso;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;246
-Doutor Maurício Cardoso;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Doutor Maurício Cardoso;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Doutor Maurício Cardoso;Área da unidade territorial;Km²;252.690
 Doutor Maurício Cardoso;Eleitorado;Eleitores;4417
 Doutor Maurício Cardoso;PIB per capita a preços correntes;Reais;15958.76
@@ -4193,7 +4193,7 @@ Doutor Ricardo;Matrícula - Ensino médio - 2009;Matrículas;96
 Doutor Ricardo;Docentes - Ensino fundamental - 2009;Docentes;24
 Doutor Ricardo;Docentes - Ensino médio - 2009;Docentes;14
 Doutor Ricardo;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Doutor Ricardo;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Doutor Ricardo;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Doutor Ricardo;Receitas orçamentárias realizadas - Correntes;Reais;715165440
 Doutor Ricardo;Despesas orçamentárias empenhadas - Correntes;Reais;558354466
 Doutor Ricardo;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917539
@@ -4313,7 +4313,7 @@ Engenho Velho;Matrícula - Ensino médio - 2009;Matrículas;78
 Engenho Velho;Docentes - Ensino fundamental - 2009;Docentes;27
 Engenho Velho;Docentes - Ensino médio - 2009;Docentes;12
 Engenho Velho;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Engenho Velho;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Engenho Velho;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Engenho Velho;Receitas orçamentárias realizadas - Correntes;Reais;708525064
 Engenho Velho;Despesas orçamentárias empenhadas - Correntes;Reais;603495773
 Engenho Velho;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -4343,7 +4343,7 @@ Entre Rios do Sul;Matrícula - Ensino médio - 2009;Matrículas;117
 Entre Rios do Sul;Docentes - Ensino fundamental - 2009;Docentes;44
 Entre Rios do Sul;Docentes - Ensino médio - 2009;Docentes;14
 Entre Rios do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Entre Rios do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Entre Rios do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Entre Rios do Sul;Receitas orçamentárias realizadas - Correntes;Reais;1046999308
 Entre Rios do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;782775744
 Entre Rios do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;406445299
@@ -4454,7 +4454,7 @@ Ernestina;População residente - cor ou raça - Branca;pessoas;2833
 Ernestina;População residente - cor ou raça - Preta;pessoas;13
 Ernestina;População residente - cor ou raça - Parda;pessoas;227
 Ernestina;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;26
-Ernestina;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Ernestina;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ernestina;Área da unidade territorial;Km²;239.148
 Ernestina;Eleitorado;Eleitores;2606
 Ernestina;PIB per capita a preços correntes;Reais;19411.09
@@ -4574,7 +4574,7 @@ Esperança do Sul;População residente - cor ou raça - Branca;pessoas;2844
 Esperança do Sul;População residente - cor ou raça - Preta;pessoas;36
 Esperança do Sul;População residente - cor ou raça - Parda;pessoas;379
 Esperança do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;301
-Esperança do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Esperança do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Esperança do Sul;Área da unidade territorial;Km²;148.379
 Esperança do Sul;Eleitorado;Eleitores;2832
 Esperança do Sul;PIB per capita a preços correntes;Reais;9905.92
@@ -4754,7 +4754,7 @@ Estrela Velha;População residente - cor ou raça - Branca;pessoas;3347
 Estrela Velha;População residente - cor ou raça - Preta;pessoas;72
 Estrela Velha;População residente - cor ou raça - Parda;pessoas;121
 Estrela Velha;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;131
-Estrela Velha;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Estrela Velha;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Estrela Velha;Área da unidade territorial;Km²;281.668
 Estrela Velha;Eleitorado;Eleitores;3047
 Estrela Velha;PIB per capita a preços correntes;Reais;18031.93
@@ -4763,7 +4763,7 @@ Estrela Velha;Matrícula - Ensino médio - 2009;Matrículas;112
 Estrela Velha;Docentes - Ensino fundamental - 2009;Docentes;46
 Estrela Velha;Docentes - Ensino médio - 2009;Docentes;9
 Estrela Velha;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Estrela Velha;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Estrela Velha;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Estrela Velha;Receitas orçamentárias realizadas - Correntes;Reais;1090833512
 Estrela Velha;Despesas orçamentárias empenhadas - Correntes;Reais;807196356
 Estrela Velha;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -4784,7 +4784,7 @@ Eugênio de Castro;População residente - cor ou raça - Branca;pessoas;2085
 Eugênio de Castro;População residente - cor ou raça - Preta;pessoas;75
 Eugênio de Castro;População residente - cor ou raça - Parda;pessoas;564
 Eugênio de Castro;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;79
-Eugênio de Castro;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Eugênio de Castro;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Eugênio de Castro;Área da unidade territorial;Km²;419.321
 Eugênio de Castro;Eleitorado;Eleitores;2440
 Eugênio de Castro;PIB per capita a preços correntes;Reais;25889.39
@@ -4793,7 +4793,7 @@ Eugênio de Castro;Matrícula - Ensino médio - 2009;Matrículas;87
 Eugênio de Castro;Docentes - Ensino fundamental - 2009;Docentes;37
 Eugênio de Castro;Docentes - Ensino médio - 2009;Docentes;12
 Eugênio de Castro;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Eugênio de Castro;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Eugênio de Castro;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Eugênio de Castro;Receitas orçamentárias realizadas - Correntes;Reais;844327809
 Eugênio de Castro;Despesas orçamentárias empenhadas - Correntes;Reais;641327372
 Eugênio de Castro;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917510
@@ -4814,7 +4814,7 @@ Fagundes Varela;População residente - cor ou raça - Branca;pessoas;2458
 Fagundes Varela;População residente - cor ou raça - Preta;pessoas;32
 Fagundes Varela;População residente - cor ou raça - Parda;pessoas;78
 Fagundes Varela;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;29
-Fagundes Varela;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Fagundes Varela;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Fagundes Varela;Área da unidade territorial;Km²;134.296
 Fagundes Varela;Eleitorado;Eleitores;2059
 Fagundes Varela;PIB per capita a preços correntes;Reais;14797.27
@@ -4904,7 +4904,7 @@ Faxinalzinho;População residente - cor ou raça - Branca;pessoas;1962
 Faxinalzinho;População residente - cor ou raça - Preta;pessoas;122
 Faxinalzinho;População residente - cor ou raça - Parda;pessoas;287
 Faxinalzinho;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;95
-Faxinalzinho;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Faxinalzinho;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Faxinalzinho;Área da unidade territorial;Km²;143.382
 Faxinalzinho;Eleitorado;Eleitores;2257
 Faxinalzinho;PIB per capita a preços correntes;Reais;13018.52
@@ -4913,7 +4913,7 @@ Faxinalzinho;Matrícula - Ensino médio - 2009;Matrículas;123
 Faxinalzinho;Docentes - Ensino fundamental - 2009;Docentes;38
 Faxinalzinho;Docentes - Ensino médio - 2009;Docentes;14
 Faxinalzinho;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Faxinalzinho;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Faxinalzinho;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Faxinalzinho;Receitas orçamentárias realizadas - Correntes;Reais;720260974
 Faxinalzinho;Despesas orçamentárias empenhadas - Correntes;Reais;558331004
 Faxinalzinho;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -4943,7 +4943,7 @@ Fazenda Vilanova;Matrícula - Ensino médio - 2009;Matrículas;125
 Fazenda Vilanova;Docentes - Ensino fundamental - 2009;Docentes;32
 Fazenda Vilanova;Docentes - Ensino médio - 2009;Docentes;11
 Fazenda Vilanova;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Fazenda Vilanova;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Fazenda Vilanova;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Fazenda Vilanova;Receitas orçamentárias realizadas - Correntes;Reais;997937600
 Fazenda Vilanova;Despesas orçamentárias empenhadas - Correntes;Reais;746870700
 Fazenda Vilanova;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398992000
@@ -5024,7 +5024,7 @@ Floriano Peixoto;População residente - cor ou raça - Branca;pessoas;1969
 Floriano Peixoto;População residente - cor ou raça - Preta;pessoas;9
 Floriano Peixoto;População residente - cor ou raça - Parda;pessoas;38
 Floriano Peixoto;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;83
-Floriano Peixoto;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Floriano Peixoto;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Floriano Peixoto;Área da unidade territorial;Km²;168.428
 Floriano Peixoto;Eleitorado;Eleitores;2002
 Floriano Peixoto;PIB per capita a preços correntes;Reais;14782.48
@@ -5033,7 +5033,7 @@ Floriano Peixoto;Matrícula - Ensino médio - 2009;Matrículas;57
 Floriano Peixoto;Docentes - Ensino fundamental - 2009;Docentes;25
 Floriano Peixoto;Docentes - Ensino médio - 2009;Docentes;11
 Floriano Peixoto;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Floriano Peixoto;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Floriano Peixoto;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Floriano Peixoto;Receitas orçamentárias realizadas - Correntes;Reais;689702721
 Floriano Peixoto;Despesas orçamentárias empenhadas - Correntes;Reais;520113159
 Floriano Peixoto;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5123,7 +5123,7 @@ Forquetinha;Matrícula - Ensino médio - 2009;Matrículas;75
 Forquetinha;Docentes - Ensino fundamental - 2009;Docentes;23
 Forquetinha;Docentes - Ensino médio - 2009;Docentes;7
 Forquetinha;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Forquetinha;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Forquetinha;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Forquetinha;Receitas orçamentárias realizadas - Correntes;Reais;779256259
 Forquetinha;Despesas orçamentárias empenhadas - Correntes;Reais;551323087
 Forquetinha;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399663656
@@ -5243,7 +5243,7 @@ Garruchos;Matrícula - Ensino médio - 2009;Matrículas;146
 Garruchos;Docentes - Ensino fundamental - 2009;Docentes;43
 Garruchos;Docentes - Ensino médio - 2009;Docentes;10
 Garruchos;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Garruchos;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Garruchos;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Garruchos;Receitas orçamentárias realizadas - Correntes;Reais;1087827376
 Garruchos;Despesas orçamentárias empenhadas - Correntes;Reais;814577971
 Garruchos;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917663
@@ -5333,7 +5333,7 @@ Gentil;Matrícula - Ensino médio - 2009;Matrículas;65
 Gentil;Docentes - Ensino fundamental - 2009;Docentes;26
 Gentil;Docentes - Ensino médio - 2009;Docentes;9
 Gentil;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Gentil;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Gentil;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Gentil;Receitas orçamentárias realizadas - Correntes;Reais;735618662
 Gentil;Despesas orçamentárias empenhadas - Correntes;Reais;519201777
 Gentil;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917617
@@ -5474,7 +5474,7 @@ Gramado dos Loureiros;População residente - cor ou raça - Branca;pessoas;1508
 Gramado dos Loureiros;População residente - cor ou raça - Preta;pessoas;162
 Gramado dos Loureiros;População residente - cor ou raça - Parda;pessoas;272
 Gramado dos Loureiros;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;98
-Gramado dos Loureiros;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Gramado dos Loureiros;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Gramado dos Loureiros;Área da unidade territorial;Km²;131.396
 Gramado dos Loureiros;Eleitorado;Eleitores;1989
 Gramado dos Loureiros;PIB per capita a preços correntes;Reais;9324.83
@@ -5483,7 +5483,7 @@ Gramado dos Loureiros;Matrícula - Ensino médio - 2009;Matrículas;114
 Gramado dos Loureiros;Docentes - Ensino fundamental - 2009;Docentes;36
 Gramado dos Loureiros;Docentes - Ensino médio - 2009;Docentes;11
 Gramado dos Loureiros;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Gramado dos Loureiros;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Gramado dos Loureiros;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Gramado dos Loureiros;Receitas orçamentárias realizadas - Correntes;Reais;727782265
 Gramado dos Loureiros;Despesas orçamentárias empenhadas - Correntes;Reais;571242783
 Gramado dos Loureiros;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5513,7 +5513,7 @@ Gramado Xavier;Matrícula - Ensino médio - 2009;Matrículas;140
 Gramado Xavier;Docentes - Ensino fundamental - 2009;Docentes;54
 Gramado Xavier;Docentes - Ensino médio - 2009;Docentes;13
 Gramado Xavier;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Gramado Xavier;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Gramado Xavier;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Gramado Xavier;Receitas orçamentárias realizadas - Correntes;Reais;841440331
 Gramado Xavier;Despesas orçamentárias empenhadas - Correntes;Reais;627287063
 Gramado Xavier;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398639900
@@ -5603,7 +5603,7 @@ Guabiju;Matrícula - Ensino médio - 2009;Matrículas;61
 Guabiju;Docentes - Ensino fundamental - 2009;Docentes;22
 Guabiju;Docentes - Ensino médio - 2009;Docentes;10
 Guabiju;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Guabiju;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Guabiju;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Guabiju;Receitas orçamentárias realizadas - Correntes;Reais;672721385
 Guabiju;Despesas orçamentárias empenhadas - Correntes;Reais;487327697
 Guabiju;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5744,7 +5744,7 @@ Herveiras;População residente - cor ou raça - Branca;pessoas;2380
 Herveiras;População residente - cor ou raça - Preta;pessoas;49
 Herveiras;População residente - cor ou raça - Parda;pessoas;524
 Herveiras;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;111
-Herveiras;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Herveiras;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Herveiras;Área da unidade territorial;Km²;118.281
 Herveiras;Eleitorado;Eleitores;2185
 Herveiras;PIB per capita a preços correntes;Reais;9834.18
@@ -5753,7 +5753,7 @@ Herveiras;Matrícula - Ensino médio - 2009;Matrículas;126
 Herveiras;Docentes - Ensino fundamental - 2009;Docentes;46
 Herveiras;Docentes - Ensino médio - 2009;Docentes;11
 Herveiras;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Herveiras;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Herveiras;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Herveiras;Receitas orçamentárias realizadas - Correntes;Reais;720920075
 Herveiras;Despesas orçamentárias empenhadas - Correntes;Reais;559615445
 Herveiras;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -5864,7 +5864,7 @@ Ibarama;População residente - cor ou raça - Branca;pessoas;4089
 Ibarama;População residente - cor ou raça - Preta;pessoas;49
 Ibarama;População residente - cor ou raça - Parda;pessoas;224
 Ibarama;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;244
-Ibarama;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Ibarama;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ibarama;Área da unidade territorial;Km²;193.110
 Ibarama;Eleitorado;Eleitores;3334
 Ibarama;PIB per capita a preços correntes;Reais;12477.41
@@ -6194,7 +6194,7 @@ Inhacorá;População residente - cor ou raça - Branca;pessoas;1561
 Inhacorá;População residente - cor ou raça - Preta;pessoas;105
 Inhacorá;População residente - cor ou raça - Parda;pessoas;577
 Inhacorá;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;134
-Inhacorá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Inhacorá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Inhacorá;Área da unidade territorial;Km²;114.111
 Inhacorá;Eleitorado;Eleitores;1851
 Inhacorá;PIB per capita a preços correntes;Reais;13507.03
@@ -6383,7 +6383,7 @@ Itapuca;Matrícula - Ensino médio - 2009;Matrículas;88
 Itapuca;Docentes - Ensino fundamental - 2009;Docentes;37
 Itapuca;Docentes - Ensino médio - 2009;Docentes;11
 Itapuca;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Itapuca;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Itapuca;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Itapuca;Receitas orçamentárias realizadas - Correntes;Reais;703968053
 Itapuca;Despesas orçamentárias empenhadas - Correntes;Reais;538862776
 Itapuca;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -6464,7 +6464,7 @@ Itatiba do Sul;População residente - cor ou raça - Branca;pessoas;3505
 Itatiba do Sul;População residente - cor ou raça - Preta;pessoas;188
 Itatiba do Sul;População residente - cor ou raça - Parda;pessoas;441
 Itatiba do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;198
-Itatiba do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Itatiba do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Itatiba do Sul;Área da unidade territorial;Km²;212.194
 Itatiba do Sul;Eleitorado;Eleitores;3671
 Itatiba do Sul;PIB per capita a preços correntes;Reais;10156.48
@@ -6653,7 +6653,7 @@ Jacuizinho;Matrícula - Ensino médio - 2009;Matrículas;111
 Jacuizinho;Docentes - Ensino fundamental - 2009;Docentes;45
 Jacuizinho;Docentes - Ensino médio - 2009;Docentes;14
 Jacuizinho;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Jacuizinho;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Jacuizinho;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Jacuizinho;Receitas orçamentárias realizadas - Correntes;Reais;700124505
 Jacuizinho;Despesas orçamentárias empenhadas - Correntes;Reais;550766886
 Jacuizinho;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917511
@@ -6764,7 +6764,7 @@ Jaquirana;População residente - cor ou raça - Branca;pessoas;3014
 Jaquirana;População residente - cor ou raça - Preta;pessoas;196
 Jaquirana;População residente - cor ou raça - Parda;pessoas;906
 Jaquirana;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;167
-Jaquirana;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Jaquirana;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Jaquirana;Área da unidade territorial;Km²;907.939
 Jaquirana;Eleitorado;Eleitores;3759
 Jaquirana;PIB per capita a preços correntes;Reais;8386.99
@@ -6854,7 +6854,7 @@ Lagoa Bonita do Sul;População residente - cor ou raça - Branca;pessoas;2171
 Lagoa Bonita do Sul;População residente - cor ou raça - Preta;pessoas;40
 Lagoa Bonita do Sul;População residente - cor ou raça - Parda;pessoas;393
 Lagoa Bonita do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;138
-Lagoa Bonita do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Lagoa Bonita do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Lagoa Bonita do Sul;Área da unidade territorial;Km²;108.499
 Lagoa Bonita do Sul;Eleitorado;Eleitores;2209
 Lagoa Bonita do Sul;PIB per capita a preços correntes;Reais;14337.11
@@ -6863,7 +6863,7 @@ Lagoa Bonita do Sul;Matrícula - Ensino médio - 2009;Matrículas;105
 Lagoa Bonita do Sul;Docentes - Ensino fundamental - 2009;Docentes;37
 Lagoa Bonita do Sul;Docentes - Ensino médio - 2009;Docentes;13
 Lagoa Bonita do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Lagoa Bonita do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Lagoa Bonita do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lagoa Bonita do Sul;Receitas orçamentárias realizadas - Correntes;Reais;665234429
 Lagoa Bonita do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;560215912
 Lagoa Bonita do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398843654
@@ -6893,7 +6893,7 @@ Lagoa dos Três Cantos;Matrícula - Ensino médio - 2009;Matrículas;54
 Lagoa dos Três Cantos;Docentes - Ensino fundamental - 2009;Docentes;14
 Lagoa dos Três Cantos;Docentes - Ensino médio - 2009;Docentes;9
 Lagoa dos Três Cantos;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Lagoa dos Três Cantos;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Lagoa dos Três Cantos;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lagoa dos Três Cantos;Receitas orçamentárias realizadas - Correntes;Reais;743732915
 Lagoa dos Três Cantos;Despesas orçamentárias empenhadas - Correntes;Reais;532301163
 Lagoa dos Três Cantos;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -6974,7 +6974,7 @@ Lajeado do Bugre;População residente - cor ou raça - Branca;pessoas;1695
 Lajeado do Bugre;População residente - cor ou raça - Preta;pessoas;29
 Lajeado do Bugre;População residente - cor ou raça - Parda;pessoas;719
 Lajeado do Bugre;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;145
-Lajeado do Bugre;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Lajeado do Bugre;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Lajeado do Bugre;Área da unidade territorial;Km²;67.934
 Lajeado do Bugre;Eleitorado;Eleitores;1513
 Lajeado do Bugre;PIB per capita a preços correntes;Reais;10628.75
@@ -6983,7 +6983,7 @@ Lajeado do Bugre;Matrícula - Ensino médio - 2009;Matrículas;60
 Lajeado do Bugre;Docentes - Ensino fundamental - 2009;Docentes;35
 Lajeado do Bugre;Docentes - Ensino médio - 2009;Docentes;11
 Lajeado do Bugre;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Lajeado do Bugre;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Lajeado do Bugre;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lajeado do Bugre;Receitas orçamentárias realizadas - Correntes;Reais;602466059
 Lajeado do Bugre;Despesas orçamentárias empenhadas - Correntes;Reais;468758337
 Lajeado do Bugre;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399082694
@@ -7073,7 +7073,7 @@ Lindolfo Collor;Matrícula - Ensino médio - 2009;Matrículas;221
 Lindolfo Collor;Docentes - Ensino fundamental - 2009;Docentes;51
 Lindolfo Collor;Docentes - Ensino médio - 2009;Docentes;15
 Lindolfo Collor;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Lindolfo Collor;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Lindolfo Collor;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Lindolfo Collor;Receitas orçamentárias realizadas - Correntes;Reais;1078954493
 Lindolfo Collor;Despesas orçamentárias empenhadas - Correntes;Reais;814483683
 Lindolfo Collor;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7103,7 +7103,7 @@ Linha Nova;Matrícula - Ensino médio - 2009;Matrículas;43
 Linha Nova;Docentes - Ensino fundamental - 2009;Docentes;18
 Linha Nova;Docentes - Ensino médio - 2009;Docentes;9
 Linha Nova;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Linha Nova;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Linha Nova;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Linha Nova;Receitas orçamentárias realizadas - Correntes;Reais;614290157
 Linha Nova;Despesas orçamentárias empenhadas - Correntes;Reais;395382313
 Linha Nova;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7133,7 +7133,7 @@ Maçambara;Matrícula - Ensino médio - 2009;Matrículas;277
 Maçambara;Docentes - Ensino fundamental - 2009;Docentes;86
 Maçambara;Docentes - Ensino médio - 2009;Docentes;24
 Maçambara;Estabelecimentos de Saúde SUS;estabelecimentos;7
-Maçambara;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Maçambara;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Maçambara;Receitas orçamentárias realizadas - Correntes;Reais;1178855142
 Maçambara;Despesas orçamentárias empenhadas - Correntes;Reais;961022893
 Maçambara;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803766
@@ -7193,7 +7193,7 @@ Mampituba;Matrícula - Ensino médio - 2009;Matrículas;93
 Mampituba;Docentes - Ensino fundamental - 2009;Docentes;35
 Mampituba;Docentes - Ensino médio - 2009;Docentes;9
 Mampituba;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Mampituba;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Mampituba;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Mampituba;Receitas orçamentárias realizadas - Correntes;Reais;751019670
 Mampituba;Despesas orçamentárias empenhadas - Correntes;Reais;574903095
 Mampituba;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -7274,7 +7274,7 @@ Maratá;População residente - cor ou raça - Branca;pessoas;2449
 Maratá;População residente - cor ou raça - Preta;pessoas;16
 Maratá;População residente - cor ou raça - Parda;pessoas;58
 Maratá;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;18
-Maratá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Maratá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Maratá;Área da unidade territorial;Km²;81.179
 Maratá;Eleitorado;Eleitores;2157
 Maratá;PIB per capita a preços correntes;Reais;15618.97
@@ -7283,7 +7283,7 @@ Maratá;Matrícula - Ensino médio - 2009;Matrículas;92
 Maratá;Docentes - Ensino fundamental - 2009;Docentes;28
 Maratá;Docentes - Ensino médio - 2009;Docentes;9
 Maratá;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Maratá;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Maratá;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Maratá;Receitas orçamentárias realizadas - Correntes;Reais;897693330
 Maratá;Despesas orçamentárias empenhadas - Correntes;Reais;708467679
 Maratá;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7493,7 +7493,7 @@ Mato Castelhano;Matrícula - Ensino médio - 2009;Matrículas;101
 Mato Castelhano;Docentes - Ensino fundamental - 2009;Docentes;30
 Mato Castelhano;Docentes - Ensino médio - 2009;Docentes;11
 Mato Castelhano;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Mato Castelhano;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Mato Castelhano;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Mato Castelhano;Receitas orçamentárias realizadas - Correntes;Reais;785501826
 Mato Castelhano;Despesas orçamentárias empenhadas - Correntes;Reais;602722469
 Mato Castelhano;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398355186
@@ -7514,7 +7514,7 @@ Mato Leitão;População residente - cor ou raça - Branca;pessoas;3667
 Mato Leitão;População residente - cor ou raça - Preta;pessoas;57
 Mato Leitão;População residente - cor ou raça - Parda;pessoas;140
 Mato Leitão;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;35
-Mato Leitão;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Mato Leitão;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Mato Leitão;Área da unidade territorial;Km²;45.903
 Mato Leitão;Eleitorado;Eleitores;2897
 Mato Leitão;PIB per capita a preços correntes;Reais;24808.11
@@ -7544,7 +7544,7 @@ Mato Queimado;População residente - cor ou raça - Branca;pessoas;1472
 Mato Queimado;População residente - cor ou raça - Preta;pessoas;20
 Mato Queimado;População residente - cor ou raça - Parda;pessoas;307
 Mato Queimado;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;43
-Mato Queimado;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Mato Queimado;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Mato Queimado;Área da unidade territorial;Km²;114.641
 Mato Queimado;Eleitorado;Eleitores;1608
 Mato Queimado;PIB per capita a preços correntes;Reais;12959.74
@@ -7553,7 +7553,7 @@ Mato Queimado;Matrícula - Ensino médio - 2009;Matrículas;66
 Mato Queimado;Docentes - Ensino fundamental - 2009;Docentes;27
 Mato Queimado;Docentes - Ensino médio - 2009;Docentes;8
 Mato Queimado;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Mato Queimado;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Mato Queimado;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Mato Queimado;Receitas orçamentárias realizadas - Correntes;Reais;727210474
 Mato Queimado;Despesas orçamentárias empenhadas - Correntes;Reais;470653660
 Mato Queimado;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7574,7 +7574,7 @@ Maximiliano de Almeida;População residente - cor ou raça - Branca;pessoas;382
 Maximiliano de Almeida;População residente - cor ou raça - Preta;pessoas;187
 Maximiliano de Almeida;População residente - cor ou raça - Parda;pessoas;884
 Maximiliano de Almeida;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;243
-Maximiliano de Almeida;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Maximiliano de Almeida;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Maximiliano de Almeida;Área da unidade territorial;Km²;208.526
 Maximiliano de Almeida;Eleitorado;Eleitores;3880
 Maximiliano de Almeida;PIB per capita a preços correntes;Reais;13058.28
@@ -7703,7 +7703,7 @@ Monte Alegre dos Campos;Matrícula - Ensino médio - 2009;Matrículas;126
 Monte Alegre dos Campos;Docentes - Ensino fundamental - 2009;Docentes;39
 Monte Alegre dos Campos;Docentes - Ensino médio - 2009;Docentes;9
 Monte Alegre dos Campos;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Monte Alegre dos Campos;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Monte Alegre dos Campos;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Monte Alegre dos Campos;Receitas orçamentárias realizadas - Correntes;Reais;807287556
 Monte Alegre dos Campos;Despesas orçamentárias empenhadas - Correntes;Reais;628654219
 Monte Alegre dos Campos;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7724,7 +7724,7 @@ Monte Belo do Sul;População residente - cor ou raça - Branca;pessoas;2615
 Monte Belo do Sul;População residente - cor ou raça - Preta;pessoas;10
 Monte Belo do Sul;População residente - cor ou raça - Parda;pessoas;42
 Monte Belo do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;10
-Monte Belo do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Monte Belo do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Monte Belo do Sul;Área da unidade territorial;Km²;68.369
 Monte Belo do Sul;Eleitorado;Eleitores;2601
 Monte Belo do Sul;PIB per capita a preços correntes;Reais;20008.83
@@ -7883,7 +7883,7 @@ Morro Reuter;Matrícula - Ensino médio - 2009;Matrículas;229
 Morro Reuter;Docentes - Ensino fundamental - 2009;Docentes;63
 Morro Reuter;Docentes - Ensino médio - 2009;Docentes;17
 Morro Reuter;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Morro Reuter;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Morro Reuter;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Morro Reuter;Receitas orçamentárias realizadas - Correntes;Reais;1077577903
 Morro Reuter;Despesas orçamentárias empenhadas - Correntes;Reais;927202203
 Morro Reuter;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -7973,7 +7973,7 @@ Muitos Capões;Matrícula - Ensino médio - 2009;Matrículas;105
 Muitos Capões;Docentes - Ensino fundamental - 2009;Docentes;34
 Muitos Capões;Docentes - Ensino médio - 2009;Docentes;12
 Muitos Capões;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Muitos Capões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Muitos Capões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Muitos Capões;Receitas orçamentárias realizadas - Correntes;Reais;1154021091
 Muitos Capões;Despesas orçamentárias empenhadas - Correntes;Reais;898876141
 Muitos Capões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8003,7 +8003,7 @@ Muliterno;Matrícula - Ensino médio - 2009;Matrículas;74
 Muliterno;Docentes - Ensino fundamental - 2009;Docentes;23
 Muliterno;Docentes - Ensino médio - 2009;Docentes;9
 Muliterno;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Muliterno;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Muliterno;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Muliterno;Receitas orçamentárias realizadas - Correntes;Reais;658647968
 Muliterno;Despesas orçamentárias empenhadas - Correntes;Reais;462986848
 Muliterno;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917539
@@ -8063,7 +8063,7 @@ Nicolau Vergueiro;Matrícula - Ensino médio - 2009;Matrículas;63
 Nicolau Vergueiro;Docentes - Ensino fundamental - 2009;Docentes;16
 Nicolau Vergueiro;Docentes - Ensino médio - 2009;Docentes;7
 Nicolau Vergueiro;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Nicolau Vergueiro;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Nicolau Vergueiro;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nicolau Vergueiro;Receitas orçamentárias realizadas - Correntes;Reais;698156054
 Nicolau Vergueiro;Despesas orçamentárias empenhadas - Correntes;Reais;517285655
 Nicolau Vergueiro;Valor do Fundo de Participação dos Municípios  - FPM;Reais;407331507
@@ -8213,7 +8213,7 @@ Nova Boa Vista;Matrícula - Ensino médio - 2009;Matrículas;102
 Nova Boa Vista;Docentes - Ensino fundamental - 2009;Docentes;28
 Nova Boa Vista;Docentes - Ensino médio - 2009;Docentes;12
 Nova Boa Vista;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Nova Boa Vista;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Nova Boa Vista;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Boa Vista;Receitas orçamentárias realizadas - Correntes;Reais;799275050
 Nova Boa Vista;Despesas orçamentárias empenhadas - Correntes;Reais;546061165
 Nova Boa Vista;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398936033
@@ -8273,7 +8273,7 @@ Nova Candelária;Matrícula - Ensino médio - 2009;Matrículas;103
 Nova Candelária;Docentes - Ensino fundamental - 2009;Docentes;27
 Nova Candelária;Docentes - Ensino médio - 2009;Docentes;11
 Nova Candelária;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Nova Candelária;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Nova Candelária;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Candelária;Receitas orçamentárias realizadas - Correntes;Reais;891343452
 Nova Candelária;Despesas orçamentárias empenhadas - Correntes;Reais;619626266
 Nova Candelária;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917638
@@ -8333,7 +8333,7 @@ Nova Hartz;Matrícula - Ensino médio - 2009;Matrículas;926
 Nova Hartz;Docentes - Ensino fundamental - 2009;Docentes;140
 Nova Hartz;Docentes - Ensino médio - 2009;Docentes;34
 Nova Hartz;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Nova Hartz;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Nova Hartz;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Hartz;Receitas orçamentárias realizadas - Correntes;Reais;2423683265
 Nova Hartz;Despesas orçamentárias empenhadas - Correntes;Reais;1977037595
 Nova Hartz;Valor do Fundo de Participação dos Municípios  - FPM;Reais;797835124
@@ -8354,7 +8354,7 @@ Nova Pádua;População residente - cor ou raça - Branca;pessoas;2363
 Nova Pádua;População residente - cor ou raça - Preta;pessoas;9
 Nova Pádua;População residente - cor ou raça - Parda;pessoas;76
 Nova Pádua;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;12
-Nova Pádua;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Nova Pádua;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Nova Pádua;Área da unidade territorial;Km²;103.238
 Nova Pádua;Eleitorado;Eleitores;2102
 Nova Pádua;PIB per capita a preços correntes;Reais;17192.40
@@ -8483,7 +8483,7 @@ Nova Ramada;Matrícula - Ensino médio - 2009;Matrículas;88
 Nova Ramada;Docentes - Ensino fundamental - 2009;Docentes;30
 Nova Ramada;Docentes - Ensino médio - 2009;Docentes;8
 Nova Ramada;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Nova Ramada;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Nova Ramada;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Nova Ramada;Receitas orçamentárias realizadas - Correntes;Reais;822750446
 Nova Ramada;Despesas orçamentárias empenhadas - Correntes;Reais;655445263
 Nova Ramada;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8573,7 +8573,7 @@ Novo Barreiro;Matrícula - Ensino médio - 2009;Matrículas;187
 Novo Barreiro;Docentes - Ensino fundamental - 2009;Docentes;48
 Novo Barreiro;Docentes - Ensino médio - 2009;Docentes;17
 Novo Barreiro;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Novo Barreiro;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Novo Barreiro;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Barreiro;Receitas orçamentárias realizadas - Correntes;Reais;871613567
 Novo Barreiro;Despesas orçamentárias empenhadas - Correntes;Reais;685001033
 Novo Barreiro;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8603,7 +8603,7 @@ Novo Cabrais;Matrícula - Ensino médio - 2009;Matrículas;158
 Novo Cabrais;Docentes - Ensino fundamental - 2009;Docentes;40
 Novo Cabrais;Docentes - Ensino médio - 2009;Docentes;12
 Novo Cabrais;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Novo Cabrais;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Novo Cabrais;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Cabrais;Receitas orçamentárias realizadas - Correntes;Reais;880687219
 Novo Cabrais;Despesas orçamentárias empenhadas - Correntes;Reais;651074246
 Novo Cabrais;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917558
@@ -8654,7 +8654,7 @@ Novo Machado;População residente - cor ou raça - Branca;pessoas;3554
 Novo Machado;População residente - cor ou raça - Preta;pessoas;44
 Novo Machado;População residente - cor ou raça - Parda;pessoas;321
 Novo Machado;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;201
-Novo Machado;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Novo Machado;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Novo Machado;Área da unidade territorial;Km²;218.670
 Novo Machado;Eleitorado;Eleitores;3357
 Novo Machado;PIB per capita a preços correntes;Reais;12485.95
@@ -8663,7 +8663,7 @@ Novo Machado;Matrícula - Ensino médio - 2009;Matrículas;125
 Novo Machado;Docentes - Ensino fundamental - 2009;Docentes;44
 Novo Machado;Docentes - Ensino médio - 2009;Docentes;11
 Novo Machado;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Novo Machado;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Novo Machado;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Machado;Receitas orçamentárias realizadas - Correntes;Reais;848329289
 Novo Machado;Despesas orçamentárias empenhadas - Correntes;Reais;623788354
 Novo Machado;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8684,7 +8684,7 @@ Novo Tiradentes;População residente - cor ou raça - Branca;pessoas;1782
 Novo Tiradentes;População residente - cor ou raça - Preta;pessoas;77
 Novo Tiradentes;População residente - cor ou raça - Parda;pessoas;417
 Novo Tiradentes;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;142
-Novo Tiradentes;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Novo Tiradentes;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Novo Tiradentes;Área da unidade territorial;Km²;75.396
 Novo Tiradentes;Eleitorado;Eleitores;1965
 Novo Tiradentes;PIB per capita a preços correntes;Reais;9559.63
@@ -8693,7 +8693,7 @@ Novo Tiradentes;Matrícula - Ensino médio - 2009;Matrículas;102
 Novo Tiradentes;Docentes - Ensino fundamental - 2009;Docentes;36
 Novo Tiradentes;Docentes - Ensino médio - 2009;Docentes;14
 Novo Tiradentes;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Novo Tiradentes;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Novo Tiradentes;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Tiradentes;Receitas orçamentárias realizadas - Correntes;Reais;745032126
 Novo Tiradentes;Despesas orçamentárias empenhadas - Correntes;Reais;558776326
 Novo Tiradentes;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -8723,7 +8723,7 @@ Novo Xingu;Matrícula - Ensino médio - 2009;Matrículas;66
 Novo Xingu;Docentes - Ensino fundamental - 2009;Docentes;22
 Novo Xingu;Docentes - Ensino médio - 2009;Docentes;10
 Novo Xingu;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Novo Xingu;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Novo Xingu;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Novo Xingu;Receitas orçamentárias realizadas - Correntes;Reais;633879786
 Novo Xingu;Despesas orçamentárias empenhadas - Correntes;Reais;467872964
 Novo Xingu;Valor do Fundo de Participação dos Municípios  - FPM;Reais;395821260
@@ -8984,7 +8984,7 @@ Paraíso do Sul;População residente - cor ou raça - Branca;pessoas;6481
 Paraíso do Sul;População residente - cor ou raça - Preta;pessoas;299
 Paraíso do Sul;População residente - cor ou raça - Parda;pessoas;544
 Paraíso do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;247
-Paraíso do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Paraíso do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Paraíso do Sul;Área da unidade territorial;Km²;337.843
 Paraíso do Sul;Eleitorado;Eleitores;5810
 Paraíso do Sul;PIB per capita a preços correntes;Reais;12410.16
@@ -9023,7 +9023,7 @@ Pareci Novo;Matrícula - Ensino médio - 2009;Matrículas;112
 Pareci Novo;Docentes - Ensino fundamental - 2009;Docentes;37
 Pareci Novo;Docentes - Ensino médio - 2009;Docentes;11
 Pareci Novo;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Pareci Novo;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Pareci Novo;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pareci Novo;Receitas orçamentárias realizadas - Correntes;Reais;1050554982
 Pareci Novo;Despesas orçamentárias empenhadas - Correntes;Reais;790575836
 Pareci Novo;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9074,7 +9074,7 @@ Passa Sete;População residente - cor ou raça - Branca;pessoas;4413
 Passa Sete;População residente - cor ou raça - Preta;pessoas;123
 Passa Sete;População residente - cor ou raça - Parda;pessoas;532
 Passa Sete;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;355
-Passa Sete;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Passa Sete;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Passa Sete;Área da unidade territorial;Km²;304.540
 Passa Sete;Eleitorado;Eleitores;3729
 Passa Sete;PIB per capita a preços correntes;Reais;12231.87
@@ -9173,7 +9173,7 @@ Paulo Bento;Matrícula - Ensino médio - 2009;Matrículas;54
 Paulo Bento;Docentes - Ensino fundamental - 2009;Docentes;19
 Paulo Bento;Docentes - Ensino médio - 2009;Docentes;9
 Paulo Bento;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Paulo Bento;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Paulo Bento;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Paulo Bento;Receitas orçamentárias realizadas - Correntes;Reais;710208900
 Paulo Bento;Despesas orçamentárias empenhadas - Correntes;Reais;518370237
 Paulo Bento;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9224,7 +9224,7 @@ Pedras Altas;População residente - cor ou raça - Branca;pessoas;1438
 Pedras Altas;População residente - cor ou raça - Preta;pessoas;259
 Pedras Altas;População residente - cor ou raça - Parda;pessoas;500
 Pedras Altas;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;92
-Pedras Altas;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Pedras Altas;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Pedras Altas;Área da unidade territorial;Km²;1377.378
 Pedras Altas;Eleitorado;Eleitores;1994
 Pedras Altas;PIB per capita a preços correntes;Reais;16812.49
@@ -9233,7 +9233,7 @@ Pedras Altas;Matrícula - Ensino médio - 2009;Matrículas;69
 Pedras Altas;Docentes - Ensino fundamental - 2009;Docentes;50
 Pedras Altas;Docentes - Ensino médio - 2009;Docentes;7
 Pedras Altas;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Pedras Altas;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Pedras Altas;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pedras Altas;Receitas orçamentárias realizadas - Correntes;Reais;895706490
 Pedras Altas;Despesas orçamentárias empenhadas - Correntes;Reais;702766693
 Pedras Altas;Valor do Fundo de Participação dos Municípios  - FPM;Reais;376297339
@@ -9344,7 +9344,7 @@ Picada Café;População residente - cor ou raça - Branca;pessoas;4787
 Picada Café;População residente - cor ou raça - Preta;pessoas;44
 Picada Café;População residente - cor ou raça - Parda;pessoas;334
 Picada Café;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;32
-Picada Café;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Picada Café;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Picada Café;Área da unidade territorial;Km²;85.146
 Picada Café;Eleitorado;Eleitores;3754
 Picada Café;PIB per capita a preços correntes;Reais;25912.50
@@ -9383,7 +9383,7 @@ Pinhal;Matrícula - Ensino médio - 2009;Matrículas;111
 Pinhal;Docentes - Ensino fundamental - 2009;Docentes;37
 Pinhal;Docentes - Ensino médio - 2009;Docentes;17
 Pinhal;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Pinhal;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Pinhal;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pinhal;Receitas orçamentárias realizadas - Correntes;Reais;793589193
 Pinhal;Despesas orçamentárias empenhadas - Correntes;Reais;577607061
 Pinhal;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9404,7 +9404,7 @@ Pinhal da Serra;População residente - cor ou raça - Branca;pessoas;1584
 Pinhal da Serra;População residente - cor ou raça - Preta;pessoas;25
 Pinhal da Serra;População residente - cor ou raça - Parda;pessoas;500
 Pinhal da Serra;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;128
-Pinhal da Serra;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Pinhal da Serra;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Pinhal da Serra;Área da unidade territorial;Km²;437.352
 Pinhal da Serra;Eleitorado;Eleitores;2004
 Pinhal da Serra;PIB per capita a preços correntes;Reais;61753.05
@@ -9413,7 +9413,7 @@ Pinhal da Serra;Matrícula - Ensino médio - 2009;Matrículas;83
 Pinhal da Serra;Docentes - Ensino fundamental - 2009;Docentes;33
 Pinhal da Serra;Docentes - Ensino médio - 2009;Docentes;11
 Pinhal da Serra;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Pinhal da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Pinhal da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pinhal da Serra;Receitas orçamentárias realizadas - Correntes;Reais;1680544283
 Pinhal da Serra;Despesas orçamentárias empenhadas - Correntes;Reais;892046937
 Pinhal da Serra;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917537
@@ -9473,7 +9473,7 @@ Pinheirinho do Vale;Matrícula - Ensino médio - 2009;Matrículas;174
 Pinheirinho do Vale;Docentes - Ensino fundamental - 2009;Docentes;44
 Pinheirinho do Vale;Docentes - Ensino médio - 2009;Docentes;13
 Pinheirinho do Vale;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Pinheirinho do Vale;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Pinheirinho do Vale;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pinheirinho do Vale;Receitas orçamentárias realizadas - Correntes;Reais;886747977
 Pinheirinho do Vale;Despesas orçamentárias empenhadas - Correntes;Reais;692786900
 Pinheirinho do Vale;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9653,7 +9653,7 @@ Pontão;Matrícula - Ensino médio - 2009;Matrículas;190
 Pontão;Docentes - Ensino fundamental - 2009;Docentes;35
 Pontão;Docentes - Ensino médio - 2009;Docentes;20
 Pontão;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Pontão;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Pontão;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Pontão;Receitas orçamentárias realizadas - Correntes;Reais;1163004900
 Pontão;Despesas orçamentárias empenhadas - Correntes;Reais;865207000
 Pontão;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917500
@@ -9674,7 +9674,7 @@ Ponte Preta;População residente - cor ou raça - Branca;pessoas;1653
 Ponte Preta;População residente - cor ou raça - Preta;pessoas;16
 Ponte Preta;População residente - cor ou raça - Parda;pessoas;79
 Ponte Preta;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;26
-Ponte Preta;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Ponte Preta;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ponte Preta;Área da unidade territorial;Km²;99.873
 Ponte Preta;Eleitorado;Eleitores;1550
 Ponte Preta;PIB per capita a preços correntes;Reais;13974.92
@@ -9683,7 +9683,7 @@ Ponte Preta;Matrícula - Ensino médio - 2009;Matrículas;52
 Ponte Preta;Docentes - Ensino fundamental - 2009;Docentes;18
 Ponte Preta;Docentes - Ensino médio - 2009;Docentes;9
 Ponte Preta;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Ponte Preta;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Ponte Preta;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Ponte Preta;Receitas orçamentárias realizadas - Correntes;Reais;657947700
 Ponte Preta;Despesas orçamentárias empenhadas - Correntes;Reais;458566700
 Ponte Preta;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917600
@@ -9764,7 +9764,7 @@ Porto Lucena;População residente - cor ou raça - Branca;pessoas;4608
 Porto Lucena;População residente - cor ou raça - Preta;pessoas;76
 Porto Lucena;População residente - cor ou raça - Parda;pessoas;718
 Porto Lucena;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;252
-Porto Lucena;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Porto Lucena;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Porto Lucena;Área da unidade territorial;Km²;250.079
 Porto Lucena;Eleitorado;Eleitores;4770
 Porto Lucena;PIB per capita a preços correntes;Reais;8977.18
@@ -9794,7 +9794,7 @@ Porto Mauá;População residente - cor ou raça - Branca;pessoas;2196
 Porto Mauá;População residente - cor ou raça - Preta;pessoas;15
 Porto Mauá;População residente - cor ou raça - Parda;pessoas;278
 Porto Mauá;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;77
-Porto Mauá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Porto Mauá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Porto Mauá;Área da unidade territorial;Km²;105.561
 Porto Mauá;Eleitorado;Eleitores;2107
 Porto Mauá;PIB per capita a preços correntes;Reais;10648.91
@@ -9803,7 +9803,7 @@ Porto Mauá;Matrícula - Ensino médio - 2009;Matrículas;93
 Porto Mauá;Docentes - Ensino fundamental - 2009;Docentes;19
 Porto Mauá;Docentes - Ensino médio - 2009;Docentes;9
 Porto Mauá;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Porto Mauá;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Porto Mauá;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Porto Mauá;Receitas orçamentárias realizadas - Correntes;Reais;749414440
 Porto Mauá;Despesas orçamentárias empenhadas - Correntes;Reais;504972944
 Porto Mauá;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9824,7 +9824,7 @@ Porto Vera Cruz;População residente - cor ou raça - Branca;pessoas;1609
 Porto Vera Cruz;População residente - cor ou raça - Preta;pessoas;116
 Porto Vera Cruz;População residente - cor ou raça - Parda;pessoas;112
 Porto Vera Cruz;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;117
-Porto Vera Cruz;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Porto Vera Cruz;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Porto Vera Cruz;Área da unidade territorial;Km²;113.647
 Porto Vera Cruz;Eleitorado;Eleitores;1756
 Porto Vera Cruz;PIB per capita a preços correntes;Reais;10530.44
@@ -9833,7 +9833,7 @@ Porto Vera Cruz;Matrícula - Ensino médio - 2009;Matrículas;87
 Porto Vera Cruz;Docentes - Ensino fundamental - 2009;Docentes;28
 Porto Vera Cruz;Docentes - Ensino médio - 2009;Docentes;5
 Porto Vera Cruz;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Porto Vera Cruz;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Porto Vera Cruz;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Porto Vera Cruz;Receitas orçamentárias realizadas - Correntes;Reais;619671078
 Porto Vera Cruz;Despesas orçamentárias empenhadas - Correntes;Reais;479602221
 Porto Vera Cruz;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9914,7 +9914,7 @@ Presidente Lucena;População residente - cor ou raça - Branca;pessoas;2350
 Presidente Lucena;População residente - cor ou raça - Preta;pessoas;21
 Presidente Lucena;População residente - cor ou raça - Parda;pessoas;95
 Presidente Lucena;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;14
-Presidente Lucena;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Presidente Lucena;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Presidente Lucena;Área da unidade territorial;Km²;49.426
 Presidente Lucena;Eleitorado;Eleitores;1868
 Presidente Lucena;PIB per capita a preços correntes;Reais;13911.11
@@ -9923,7 +9923,7 @@ Presidente Lucena;Matrícula - Ensino médio - 2009;Matrículas;89
 Presidente Lucena;Docentes - Ensino fundamental - 2009;Docentes;23
 Presidente Lucena;Docentes - Ensino médio - 2009;Docentes;10
 Presidente Lucena;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Presidente Lucena;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Presidente Lucena;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Presidente Lucena;Receitas orçamentárias realizadas - Correntes;Reais;697110594
 Presidente Lucena;Despesas orçamentárias empenhadas - Correntes;Reais;526313877
 Presidente Lucena;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -9983,7 +9983,7 @@ Protásio Alves;Matrícula - Ensino médio - 2009;Matrículas;74
 Protásio Alves;Docentes - Ensino fundamental - 2009;Docentes;19
 Protásio Alves;Docentes - Ensino médio - 2009;Docentes;9
 Protásio Alves;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Protásio Alves;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Protásio Alves;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Protásio Alves;Receitas orçamentárias realizadas - Correntes;Reais;738851057
 Protásio Alves;Despesas orçamentárias empenhadas - Correntes;Reais;490087971
 Protásio Alves;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10073,7 +10073,7 @@ Quatro Irmãos;Matrícula - Ensino médio - 2009;Matrículas;59
 Quatro Irmãos;Docentes - Ensino fundamental - 2009;Docentes;24
 Quatro Irmãos;Docentes - Ensino médio - 2009;Docentes;9
 Quatro Irmãos;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Quatro Irmãos;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Quatro Irmãos;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Quatro Irmãos;Receitas orçamentárias realizadas - Correntes;Reais;730366196
 Quatro Irmãos;Despesas orçamentárias empenhadas - Correntes;Reais;550803970
 Quatro Irmãos;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10103,7 +10103,7 @@ Quevedos;Matrícula - Ensino médio - 2009;Matrículas;104
 Quevedos;Docentes - Ensino fundamental - 2009;Docentes;46
 Quevedos;Docentes - Ensino médio - 2009;Docentes;13
 Quevedos;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Quevedos;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Quevedos;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Quevedos;Receitas orçamentárias realizadas - Correntes;Reais;887839735
 Quevedos;Despesas orçamentárias empenhadas - Correntes;Reais;678015987
 Quevedos;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398930805
@@ -10253,7 +10253,7 @@ Rio dos Índios;Matrícula - Ensino médio - 2009;Matrículas;167
 Rio dos Índios;Docentes - Ensino fundamental - 2009;Docentes;89
 Rio dos Índios;Docentes - Ensino médio - 2009;Docentes;14
 Rio dos Índios;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Rio dos Índios;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Rio dos Índios;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Rio dos Índios;Receitas orçamentárias realizadas - Correntes;Reais;846932553
 Rio dos Índios;Despesas orçamentárias empenhadas - Correntes;Reais;664156449
 Rio dos Índios;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917547
@@ -10343,7 +10343,7 @@ Riozinho;Matrícula - Ensino médio - 2009;Matrículas;172
 Riozinho;Docentes - Ensino fundamental - 2009;Docentes;47
 Riozinho;Docentes - Ensino médio - 2009;Docentes;14
 Riozinho;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Riozinho;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Riozinho;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Riozinho;Receitas orçamentárias realizadas - Correntes;Reais;1027473530
 Riozinho;Despesas orçamentárias empenhadas - Correntes;Reais;734380634
 Riozinho;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803762
@@ -10424,7 +10424,7 @@ Rolador;População residente - cor ou raça - Branca;pessoas;2128
 Rolador;População residente - cor ou raça - Preta;pessoas;37
 Rolador;População residente - cor ou raça - Parda;pessoas;367
 Rolador;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;105
-Rolador;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Rolador;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Rolador;Área da unidade territorial;Km²;295.006
 Rolador;Eleitorado;Eleitores;2530
 Rolador;PIB per capita a preços correntes;Reais;15243.48
@@ -10433,7 +10433,7 @@ Rolador;Matrícula - Ensino médio - 2009;Matrículas;120
 Rolador;Docentes - Ensino fundamental - 2009;Docentes;41
 Rolador;Docentes - Ensino médio - 2009;Docentes;10
 Rolador;Estabelecimentos de Saúde SUS;estabelecimentos;8
-Rolador;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Rolador;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Rolador;Receitas orçamentárias realizadas - Correntes;Reais;853764784
 Rolador;Despesas orçamentárias empenhadas - Correntes;Reais;552026222
 Rolador;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399162368
@@ -10823,7 +10823,7 @@ São João do Polêsine;Matrícula - Ensino médio - 2009;Matrículas;111
 São João do Polêsine;Docentes - Ensino fundamental - 2009;Docentes;41
 São João do Polêsine;Docentes - Ensino médio - 2009;Docentes;14
 São João do Polêsine;Estabelecimentos de Saúde SUS;estabelecimentos;3
-São João do Polêsine;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São João do Polêsine;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São João do Polêsine;Receitas orçamentárias realizadas - Correntes;Reais;714653390
 São João do Polêsine;Despesas orçamentárias empenhadas - Correntes;Reais;549746918
 São João do Polêsine;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10883,7 +10883,7 @@ São José das Missões;Matrícula - Ensino médio - 2009;Matrículas;139
 São José das Missões;Docentes - Ensino fundamental - 2009;Docentes;36
 São José das Missões;Docentes - Ensino médio - 2009;Docentes;12
 São José das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São José das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São José das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José das Missões;Receitas orçamentárias realizadas - Correntes;Reais;670972590
 São José das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;549357240
 São José das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -10934,7 +10934,7 @@ São José do Hortêncio;População residente - cor ou raça - Branca;pessoas;4
 São José do Hortêncio;População residente - cor ou raça - Preta;pessoas;15
 São José do Hortêncio;População residente - cor ou raça - Parda;pessoas;76
 São José do Hortêncio;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;14
-São José do Hortêncio;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+São José do Hortêncio;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São José do Hortêncio;Área da unidade territorial;Km²;64.113
 São José do Hortêncio;Eleitorado;Eleitores;3020
 São José do Hortêncio;PIB per capita a preços correntes;Reais;13945.44
@@ -10943,7 +10943,7 @@ São José do Hortêncio;Matrícula - Ensino médio - 2009;Matrículas;139
 São José do Hortêncio;Docentes - Ensino fundamental - 2009;Docentes;39
 São José do Hortêncio;Docentes - Ensino médio - 2009;Docentes;14
 São José do Hortêncio;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São José do Hortêncio;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São José do Hortêncio;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José do Hortêncio;Receitas orçamentárias realizadas - Correntes;Reais;985414887
 São José do Hortêncio;Despesas orçamentárias empenhadas - Correntes;Reais;612188084
 São José do Hortêncio;Valor do Fundo de Participação dos Municípios  - FPM;Reais;396797313
@@ -10964,7 +10964,7 @@ São José do Inhacorá;População residente - cor ou raça - Branca;pessoas;20
 São José do Inhacorá;População residente - cor ou raça - Preta;pessoas;13
 São José do Inhacorá;População residente - cor ou raça - Parda;pessoas;102
 São José do Inhacorá;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;55
-São José do Inhacorá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+São José do Inhacorá;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São José do Inhacorá;Área da unidade territorial;Km²;77.806
 São José do Inhacorá;Eleitorado;Eleitores;1963
 São José do Inhacorá;PIB per capita a preços correntes;Reais;13161.40
@@ -11063,7 +11063,7 @@ São José do Sul;Matrícula - Ensino médio - 2009;Matrículas;44
 São José do Sul;Docentes - Ensino fundamental - 2009;Docentes;22
 São José do Sul;Docentes - Ensino médio - 2009;Docentes;6
 São José do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-São José do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São José do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José do Sul;Receitas orçamentárias realizadas - Correntes;Reais;768303444
 São José do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;504752686
 São José do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11093,7 +11093,7 @@ São José dos Ausentes;Matrícula - Ensino médio - 2009;Matrículas;102
 São José dos Ausentes;Docentes - Ensino fundamental - 2009;Docentes;40
 São José dos Ausentes;Docentes - Ensino médio - 2009;Docentes;10
 São José dos Ausentes;Estabelecimentos de Saúde SUS;estabelecimentos;7
-São José dos Ausentes;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São José dos Ausentes;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São José dos Ausentes;Receitas orçamentárias realizadas - Correntes;Reais;992714783
 São José dos Ausentes;Despesas orçamentárias empenhadas - Correntes;Reais;782913482
 São José dos Ausentes;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11324,7 +11324,7 @@ São Nicolau;População residente - cor ou raça - Branca;pessoas;4180
 São Nicolau;População residente - cor ou raça - Preta;pessoas;78
 São Nicolau;População residente - cor ou raça - Parda;pessoas;1430
 São Nicolau;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;421
-São Nicolau;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+São Nicolau;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São Nicolau;Área da unidade territorial;Km²;485.326
 São Nicolau;Eleitorado;Eleitores;4506
 São Nicolau;PIB per capita a preços correntes;Reais;9414.29
@@ -11393,7 +11393,7 @@ São Pedro da Serra;Matrícula - Ensino médio - 2009;Matrículas;0
 São Pedro da Serra;Docentes - Ensino fundamental - 2009;Docentes;30
 São Pedro da Serra;Docentes - Ensino médio - 2009;Docentes;0
 São Pedro da Serra;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São Pedro da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São Pedro da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Pedro da Serra;Receitas orçamentárias realizadas - Correntes;Reais;963015418
 São Pedro da Serra;Despesas orçamentárias empenhadas - Correntes;Reais;696869365
 São Pedro da Serra;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11414,7 +11414,7 @@ São Pedro das Missões;População residente - cor ou raça - Branca;pessoas;13
 São Pedro das Missões;População residente - cor ou raça - Preta;pessoas;60
 São Pedro das Missões;População residente - cor ou raça - Parda;pessoas;469
 São Pedro das Missões;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;117
-São Pedro das Missões;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+São Pedro das Missões;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 São Pedro das Missões;Área da unidade territorial;Km²;79.965
 São Pedro das Missões;Eleitorado;Eleitores;1424
 São Pedro das Missões;PIB per capita a preços correntes;Reais;11956.47
@@ -11423,7 +11423,7 @@ São Pedro das Missões;Matrícula - Ensino médio - 2009;Matrículas;95
 São Pedro das Missões;Docentes - Ensino fundamental - 2009;Docentes;41
 São Pedro das Missões;Docentes - Ensino médio - 2009;Docentes;14
 São Pedro das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;3
-São Pedro das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São Pedro das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Pedro das Missões;Receitas orçamentárias realizadas - Correntes;Reais;626026954
 São Pedro das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;523009786
 São Pedro das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11573,7 +11573,7 @@ São Valério do Sul;Matrícula - Ensino médio - 2009;Matrículas;63
 São Valério do Sul;Docentes - Ensino fundamental - 2009;Docentes;37
 São Valério do Sul;Docentes - Ensino médio - 2009;Docentes;11
 São Valério do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;3
-São Valério do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São Valério do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Valério do Sul;Receitas orçamentárias realizadas - Correntes;Reais;689953288
 São Valério do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;517781995
 São Valério do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11633,7 +11633,7 @@ São Valentim do Sul;Matrícula - Ensino médio - 2009;Matrículas;94
 São Valentim do Sul;Docentes - Ensino fundamental - 2009;Docentes;21
 São Valentim do Sul;Docentes - Ensino médio - 2009;Docentes;9
 São Valentim do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-São Valentim do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São Valentim do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Valentim do Sul;Receitas orçamentárias realizadas - Correntes;Reais;796648600
 São Valentim do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;555827100
 São Valentim do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398866700
@@ -11663,7 +11663,7 @@ São Vendelino;Matrícula - Ensino médio - 2009;Matrículas;111
 São Vendelino;Docentes - Ensino fundamental - 2009;Docentes;25
 São Vendelino;Docentes - Ensino médio - 2009;Docentes;11
 São Vendelino;Estabelecimentos de Saúde SUS;estabelecimentos;1
-São Vendelino;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+São Vendelino;Nascidos vivos -  registrados - lugar do registro;pessoas;
 São Vendelino;Receitas orçamentárias realizadas - Correntes;Reais;857237800
 São Vendelino;Despesas orçamentárias empenhadas - Correntes;Reais;588376600
 São Vendelino;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803800
@@ -11714,7 +11714,7 @@ Sério;População residente - cor ou raça - Branca;pessoas;2181
 Sério;População residente - cor ou raça - Preta;pessoas;19
 Sério;População residente - cor ou raça - Parda;pessoas;77
 Sério;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;116
-Sério;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Sério;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Sério;Área da unidade territorial;Km²;99.627
 Sério;Eleitorado;Eleitores;2194
 Sério;PIB per capita a preços correntes;Reais;10169.30
@@ -11753,7 +11753,7 @@ Sagrada Família;Matrícula - Ensino médio - 2009;Matrículas;108
 Sagrada Família;Docentes - Ensino fundamental - 2009;Docentes;33
 Sagrada Família;Docentes - Ensino médio - 2009;Docentes;16
 Sagrada Família;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Sagrada Família;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Sagrada Família;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Sagrada Família;Receitas orçamentárias realizadas - Correntes;Reais;679763261
 Sagrada Família;Despesas orçamentárias empenhadas - Correntes;Reais;494332980
 Sagrada Família;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917559
@@ -11783,7 +11783,7 @@ Saldanha Marinho;Matrícula - Ensino médio - 2009;Matrículas;125
 Saldanha Marinho;Docentes - Ensino fundamental - 2009;Docentes;33
 Saldanha Marinho;Docentes - Ensino médio - 2009;Docentes;12
 Saldanha Marinho;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Saldanha Marinho;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Saldanha Marinho;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Saldanha Marinho;Receitas orçamentárias realizadas - Correntes;Reais;978848627
 Saldanha Marinho;Despesas orçamentárias empenhadas - Correntes;Reais;728403320
 Saldanha Marinho;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917559
@@ -11843,7 +11843,7 @@ Salvador das Missões;Matrícula - Ensino médio - 2009;Matrículas;87
 Salvador das Missões;Docentes - Ensino fundamental - 2009;Docentes;31
 Salvador das Missões;Docentes - Ensino médio - 2009;Docentes;11
 Salvador das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;4
-Salvador das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Salvador das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Salvador das Missões;Receitas orçamentárias realizadas - Correntes;Reais;968530425
 Salvador das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;677626564
 Salvador das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -11963,7 +11963,7 @@ Santa Cecília do Sul;Matrícula - Ensino médio - 2009;Matrículas;74
 Santa Cecília do Sul;Docentes - Ensino fundamental - 2009;Docentes;24
 Santa Cecília do Sul;Docentes - Ensino médio - 2009;Docentes;8
 Santa Cecília do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santa Cecília do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Santa Cecília do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santa Cecília do Sul;Receitas orçamentárias realizadas - Correntes;Reais;700476369
 Santa Cecília do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;445578091
 Santa Cecília do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;389416765
@@ -12053,7 +12053,7 @@ Santa Margarida do Sul;Matrícula - Ensino médio - 2009;Matrículas;27
 Santa Margarida do Sul;Docentes - Ensino fundamental - 2009;Docentes;36
 Santa Margarida do Sul;Docentes - Ensino médio - 2009;Docentes;5
 Santa Margarida do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santa Margarida do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Santa Margarida do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santa Margarida do Sul;Receitas orçamentárias realizadas - Correntes;Reais;812419219
 Santa Margarida do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;742967641
 Santa Margarida do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -12384,9 +12384,9 @@ Santo Antônio das Missões;Docentes - Ensino fundamental - 2009;Docentes;144
 Santo Antônio das Missões;Docentes - Ensino médio - 2009;Docentes;38
 Santo Antônio das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;11
 Santo Antônio das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;128
-Santo Antônio das Missões;Receitas orçamentárias realizadas - Correntes;Reais;NULL
-Santo Antônio das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;NULL
-Santo Antônio das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;NULL
+Santo Antônio das Missões;Receitas orçamentárias realizadas - Correntes;Reais;
+Santo Antônio das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;
+Santo Antônio das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;
 Santo Antônio das Missões;Número de unidades locais;Unidades;447
 Santo Antônio das Missões;Pessoal ocupado total;Pessoas;1129
 Santo Antônio do Palma;Total de endereços urbanos;endereços;363
@@ -12413,7 +12413,7 @@ Santo Antônio do Palma;Matrícula - Ensino médio - 2009;Matrículas;76
 Santo Antônio do Palma;Docentes - Ensino fundamental - 2009;Docentes;20
 Santo Antônio do Palma;Docentes - Ensino médio - 2009;Docentes;8
 Santo Antônio do Palma;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santo Antônio do Palma;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Santo Antônio do Palma;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santo Antônio do Palma;Receitas orçamentárias realizadas - Correntes;Reais;776430037
 Santo Antônio do Palma;Despesas orçamentárias empenhadas - Correntes;Reais;561406300
 Santo Antônio do Palma;Valor do Fundo de Participação dos Municípios  - FPM;Reais;406445299
@@ -12443,7 +12443,7 @@ Santo Antônio do Planalto;Matrícula - Ensino médio - 2009;Matrículas;71
 Santo Antônio do Planalto;Docentes - Ensino fundamental - 2009;Docentes;24
 Santo Antônio do Planalto;Docentes - Ensino médio - 2009;Docentes;10
 Santo Antônio do Planalto;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Santo Antônio do Planalto;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Santo Antônio do Planalto;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santo Antônio do Planalto;Receitas orçamentárias realizadas - Correntes;Reais;839931673
 Santo Antônio do Planalto;Despesas orçamentárias empenhadas - Correntes;Reais;589827696
 Santo Antônio do Planalto;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398919151
@@ -12524,7 +12524,7 @@ Santo Expedito do Sul;População residente - cor ou raça - Branca;pessoas;2304
 Santo Expedito do Sul;População residente - cor ou raça - Preta;pessoas;38
 Santo Expedito do Sul;População residente - cor ou raça - Parda;pessoas;101
 Santo Expedito do Sul;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;128
-Santo Expedito do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Santo Expedito do Sul;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Santo Expedito do Sul;Área da unidade territorial;Km²;125.736
 Santo Expedito do Sul;Eleitorado;Eleitores;2029
 Santo Expedito do Sul;PIB per capita a preços correntes;Reais;16052.42
@@ -12533,7 +12533,7 @@ Santo Expedito do Sul;Matrícula - Ensino médio - 2009;Matrículas;135
 Santo Expedito do Sul;Docentes - Ensino fundamental - 2009;Docentes;45
 Santo Expedito do Sul;Docentes - Ensino médio - 2009;Docentes;15
 Santo Expedito do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Santo Expedito do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Santo Expedito do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Santo Expedito do Sul;Receitas orçamentárias realizadas - Correntes;Reais;698454348
 Santo Expedito do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;571908529
 Santo Expedito do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399803765
@@ -12773,7 +12773,7 @@ Senador Salgado Filho;Matrícula - Ensino médio - 2009;Matrículas;117
 Senador Salgado Filho;Docentes - Ensino fundamental - 2009;Docentes;33
 Senador Salgado Filho;Docentes - Ensino médio - 2009;Docentes;9
 Senador Salgado Filho;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Senador Salgado Filho;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Senador Salgado Filho;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Senador Salgado Filho;Receitas orçamentárias realizadas - Correntes;Reais;730771083
 Senador Salgado Filho;Despesas orçamentárias empenhadas - Correntes;Reais;587702451
 Senador Salgado Filho;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -12923,7 +12923,7 @@ Sete de Setembro;Matrícula - Ensino médio - 2009;Matrículas;70
 Sete de Setembro;Docentes - Ensino fundamental - 2009;Docentes;26
 Sete de Setembro;Docentes - Ensino médio - 2009;Docentes;10
 Sete de Setembro;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Sete de Setembro;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Sete de Setembro;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Sete de Setembro;Receitas orçamentárias realizadas - Correntes;Reais;662955426
 Sete de Setembro;Despesas orçamentárias empenhadas - Correntes;Reais;486925091
 Sete de Setembro;Valor do Fundo de Participação dos Municípios  - FPM;Reais;397132743
@@ -13283,7 +13283,7 @@ Taquaruçu do Sul;Matrícula - Ensino médio - 2009;Matrículas;97
 Taquaruçu do Sul;Docentes - Ensino fundamental - 2009;Docentes;35
 Taquaruçu do Sul;Docentes - Ensino médio - 2009;Docentes;14
 Taquaruçu do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Taquaruçu do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Taquaruçu do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Taquaruçu do Sul;Receitas orçamentárias realizadas - Correntes;Reais;747757386
 Taquaruçu do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;574711934
 Taquaruçu do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398936034
@@ -13433,7 +13433,7 @@ Tio Hugo;Matrícula - Ensino médio - 2009;Matrículas;111
 Tio Hugo;Docentes - Ensino fundamental - 2009;Docentes;26
 Tio Hugo;Docentes - Ensino médio - 2009;Docentes;9
 Tio Hugo;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Tio Hugo;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Tio Hugo;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Tio Hugo;Receitas orçamentárias realizadas - Correntes;Reais;840031103
 Tio Hugo;Despesas orçamentárias empenhadas - Correntes;Reais;667775027
 Tio Hugo;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -13493,7 +13493,7 @@ Toropi;Matrícula - Ensino médio - 2009;Matrículas;109
 Toropi;Docentes - Ensino fundamental - 2009;Docentes;35
 Toropi;Docentes - Ensino médio - 2009;Docentes;15
 Toropi;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Toropi;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Toropi;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Toropi;Receitas orçamentárias realizadas - Correntes;Reais;747831709
 Toropi;Despesas orçamentárias empenhadas - Correntes;Reais;522969521
 Toropi;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -13664,7 +13664,7 @@ Três Forquilhas;População residente - cor ou raça - Branca;pessoas;2566
 Três Forquilhas;População residente - cor ou raça - Preta;pessoas;228
 Três Forquilhas;População residente - cor ou raça - Parda;pessoas;106
 Três Forquilhas;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;95
-Três Forquilhas;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Três Forquilhas;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Três Forquilhas;Área da unidade territorial;Km²;217.390
 Três Forquilhas;Eleitorado;Eleitores;2736
 Três Forquilhas;PIB per capita a preços correntes;Reais;6952.06
@@ -13703,7 +13703,7 @@ Três Palmeiras;Matrícula - Ensino médio - 2009;Matrículas;207
 Três Palmeiras;Docentes - Ensino fundamental - 2009;Docentes;51
 Três Palmeiras;Docentes - Ensino médio - 2009;Docentes;21
 Três Palmeiras;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Três Palmeiras;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Três Palmeiras;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Três Palmeiras;Receitas orçamentárias realizadas - Correntes;Reais;1028823807
 Três Palmeiras;Despesas orçamentárias empenhadas - Correntes;Reais;743563684
 Três Palmeiras;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917561
@@ -13793,7 +13793,7 @@ Travesseiro;Matrícula - Ensino médio - 2009;Matrículas;79
 Travesseiro;Docentes - Ensino fundamental - 2009;Docentes;26
 Travesseiro;Docentes - Ensino médio - 2009;Docentes;8
 Travesseiro;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Travesseiro;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Travesseiro;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Travesseiro;Receitas orçamentárias realizadas - Correntes;Reais;803894119
 Travesseiro;Despesas orçamentárias empenhadas - Correntes;Reais;580452245
 Travesseiro;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -13904,7 +13904,7 @@ Tunas;População residente - cor ou raça - Branca;pessoas;3524
 Tunas;População residente - cor ou raça - Preta;pessoas;65
 Tunas;População residente - cor ou raça - Parda;pessoas;761
 Tunas;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;370
-Tunas;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Tunas;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Tunas;Área da unidade territorial;Km²;218.073
 Tunas;Eleitorado;Eleitores;3189
 Tunas;PIB per capita a preços correntes;Reais;10141.83
@@ -13943,7 +13943,7 @@ Tupanci do Sul;Matrícula - Ensino médio - 2009;Matrículas;44
 Tupanci do Sul;Docentes - Ensino fundamental - 2009;Docentes;28
 Tupanci do Sul;Docentes - Ensino médio - 2009;Docentes;9
 Tupanci do Sul;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Tupanci do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Tupanci do Sul;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Tupanci do Sul;Receitas orçamentárias realizadas - Correntes;Reais;641434857
 Tupanci do Sul;Despesas orçamentárias empenhadas - Correntes;Reais;489268985
 Tupanci do Sul;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399829632
@@ -14054,7 +14054,7 @@ Turuçu;População residente - cor ou raça - Branca;pessoas;3149
 Turuçu;População residente - cor ou raça - Preta;pessoas;133
 Turuçu;População residente - cor ou raça - Parda;pessoas;227
 Turuçu;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;143
-Turuçu;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Turuçu;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Turuçu;Área da unidade territorial;Km²;253.636
 Turuçu;Eleitorado;Eleitores;2903
 Turuçu;PIB per capita a preços correntes;Reais;10680.89
@@ -14063,7 +14063,7 @@ Turuçu;Matrícula - Ensino médio - 2009;Matrículas;207
 Turuçu;Docentes - Ensino fundamental - 2009;Docentes;34
 Turuçu;Docentes - Ensino médio - 2009;Docentes;12
 Turuçu;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Turuçu;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Turuçu;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Turuçu;Receitas orçamentárias realizadas - Correntes;Reais;1033175630
 Turuçu;Despesas orçamentárias empenhadas - Correntes;Reais;893457629
 Turuçu;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14084,7 +14084,7 @@ Ubiretama;População residente - cor ou raça - Branca;pessoas;2175
 Ubiretama;População residente - cor ou raça - Preta;pessoas;15
 Ubiretama;População residente - cor ou raça - Parda;pessoas;105
 Ubiretama;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;82
-Ubiretama;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Ubiretama;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Ubiretama;Área da unidade territorial;Km²;126.693
 Ubiretama;Eleitorado;Eleitores;1968
 Ubiretama;PIB per capita a preços correntes;Reais;13092.29
@@ -14093,7 +14093,7 @@ Ubiretama;Matrícula - Ensino médio - 2009;Matrículas;104
 Ubiretama;Docentes - Ensino fundamental - 2009;Docentes;29
 Ubiretama;Docentes - Ensino médio - 2009;Docentes;15
 Ubiretama;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Ubiretama;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Ubiretama;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Ubiretama;Receitas orçamentárias realizadas - Correntes;Reais;697434365
 Ubiretama;Despesas orçamentárias empenhadas - Correntes;Reais;514032828
 Ubiretama;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917553
@@ -14123,7 +14123,7 @@ União da Serra;Matrícula - Ensino médio - 2009;Matrículas;58
 União da Serra;Docentes - Ensino fundamental - 2009;Docentes;17
 União da Serra;Docentes - Ensino médio - 2009;Docentes;10
 União da Serra;Estabelecimentos de Saúde SUS;estabelecimentos;1
-União da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+União da Serra;Nascidos vivos -  registrados - lugar do registro;pessoas;
 União da Serra;Receitas orçamentárias realizadas - Correntes;Reais;697419844
 União da Serra;Despesas orçamentárias empenhadas - Correntes;Reais;522860716
 União da Serra;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14153,7 +14153,7 @@ Unistalda;Matrícula - Ensino médio - 2009;Matrículas;135
 Unistalda;Docentes - Ensino fundamental - 2009;Docentes;35
 Unistalda;Docentes - Ensino médio - 2009;Docentes;17
 Unistalda;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Unistalda;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Unistalda;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Unistalda;Receitas orçamentárias realizadas - Correntes;Reais;691188089
 Unistalda;Despesas orçamentárias empenhadas - Correntes;Reais;616034151
 Unistalda;Valor do Fundo de Participação dos Municípios  - FPM;Reais;399623443
@@ -14273,7 +14273,7 @@ Vale Real;Matrícula - Ensino médio - 2009;Matrículas;162
 Vale Real;Docentes - Ensino fundamental - 2009;Docentes;48
 Vale Real;Docentes - Ensino médio - 2009;Docentes;18
 Vale Real;Estabelecimentos de Saúde SUS;estabelecimentos;5
-Vale Real;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vale Real;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vale Real;Receitas orçamentárias realizadas - Correntes;Reais;955359772
 Vale Real;Despesas orçamentárias empenhadas - Correntes;Reais;733272706
 Vale Real;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917566
@@ -14303,7 +14303,7 @@ Vale Verde;Matrícula - Ensino médio - 2009;Matrículas;136
 Vale Verde;Docentes - Ensino fundamental - 2009;Docentes;40
 Vale Verde;Docentes - Ensino médio - 2009;Docentes;14
 Vale Verde;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Vale Verde;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vale Verde;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vale Verde;Receitas orçamentárias realizadas - Correntes;Reais;830944275
 Vale Verde;Despesas orçamentárias empenhadas - Correntes;Reais;624593617
 Vale Verde;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917554
@@ -14333,7 +14333,7 @@ Vanini;Matrícula - Ensino médio - 2009;Matrículas;70
 Vanini;Docentes - Ensino fundamental - 2009;Docentes;22
 Vanini;Docentes - Ensino médio - 2009;Docentes;11
 Vanini;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vanini;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vanini;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vanini;Receitas orçamentárias realizadas - Correntes;Reais;755774955
 Vanini;Despesas orçamentárias empenhadas - Correntes;Reais;564200753
 Vanini;Valor do Fundo de Participação dos Municípios  - FPM;Reais;400145293
@@ -14453,7 +14453,7 @@ Vespasiano Correa;Matrícula - Ensino médio - 2009;Matrículas;57
 Vespasiano Correa;Docentes - Ensino fundamental - 2009;Docentes;17
 Vespasiano Correa;Docentes - Ensino médio - 2009;Docentes;7
 Vespasiano Correa;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vespasiano Correa;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vespasiano Correa;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vespasiano Correa;Receitas orçamentárias realizadas - Correntes;Reais;768827927
 Vespasiano Correa;Despesas orçamentárias empenhadas - Correntes;Reais;490523352
 Vespasiano Correa;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14474,7 +14474,7 @@ Viadutos;População residente - cor ou raça - Branca;pessoas;4783
 Viadutos;População residente - cor ou raça - Preta;pessoas;21
 Viadutos;População residente - cor ou raça - Parda;pessoas;501
 Viadutos;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;177
-Viadutos;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Viadutos;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Viadutos;Área da unidade territorial;Km²;268.360
 Viadutos;Eleitorado;Eleitores;4768
 Viadutos;PIB per capita a preços correntes;Reais;10539.67
@@ -14534,7 +14534,7 @@ Vicente Dutra;População residente - cor ou raça - Branca;pessoas;4271
 Vicente Dutra;População residente - cor ou raça - Preta;pessoas;36
 Vicente Dutra;População residente - cor ou raça - Parda;pessoas;866
 Vicente Dutra;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;240
-Vicente Dutra;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Vicente Dutra;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Vicente Dutra;Área da unidade territorial;Km²;195.045
 Vicente Dutra;Eleitorado;Eleitores;4347
 Vicente Dutra;PIB per capita a preços correntes;Reais;9985.38
@@ -14594,7 +14594,7 @@ Vila Flores;População residente - cor ou raça - Branca;pessoas;2850
 Vila Flores;População residente - cor ou raça - Preta;pessoas;42
 Vila Flores;População residente - cor ou raça - Parda;pessoas;309
 Vila Flores;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;25
-Vila Flores;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Vila Flores;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Vila Flores;Área da unidade territorial;Km²;107.910
 Vila Flores;Eleitorado;Eleitores;2770
 Vila Flores;PIB per capita a preços correntes;Reais;22214.76
@@ -14633,7 +14633,7 @@ Vila Lângaro;Matrícula - Ensino médio - 2009;Matrículas;84
 Vila Lângaro;Docentes - Ensino fundamental - 2009;Docentes;28
 Vila Lângaro;Docentes - Ensino médio - 2009;Docentes;9
 Vila Lângaro;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vila Lângaro;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vila Lângaro;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vila Lângaro;Receitas orçamentárias realizadas - Correntes;Reais;809659614
 Vila Lângaro;Despesas orçamentárias empenhadas - Correntes;Reais;583861759
 Vila Lângaro;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14723,7 +14723,7 @@ Vista Alegre;Matrícula - Ensino médio - 2009;Matrículas;118
 Vista Alegre;Docentes - Ensino fundamental - 2009;Docentes;33
 Vista Alegre;Docentes - Ensino médio - 2009;Docentes;16
 Vista Alegre;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vista Alegre;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vista Alegre;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vista Alegre;Receitas orçamentárias realizadas - Correntes;Reais;730087378
 Vista Alegre;Despesas orçamentárias empenhadas - Correntes;Reais;583063809
 Vista Alegre;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917644
@@ -14753,7 +14753,7 @@ Vista Alegre do Prata;Matrícula - Ensino médio - 2009;Matrículas;53
 Vista Alegre do Prata;Docentes - Ensino fundamental - 2009;Docentes;15
 Vista Alegre do Prata;Docentes - Ensino médio - 2009;Docentes;7
 Vista Alegre do Prata;Estabelecimentos de Saúde SUS;estabelecimentos;1
-Vista Alegre do Prata;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vista Alegre do Prata;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vista Alegre do Prata;Receitas orçamentárias realizadas - Correntes;Reais;750373753
 Vista Alegre do Prata;Despesas orçamentárias empenhadas - Correntes;Reais;545202955
 Vista Alegre do Prata;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398843654
@@ -14783,7 +14783,7 @@ Vista Gaúcha;Matrícula - Ensino médio - 2009;Matrículas;134
 Vista Gaúcha;Docentes - Ensino fundamental - 2009;Docentes;30
 Vista Gaúcha;Docentes - Ensino médio - 2009;Docentes;16
 Vista Gaúcha;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Vista Gaúcha;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vista Gaúcha;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vista Gaúcha;Receitas orçamentárias realizadas - Correntes;Reais;828419354
 Vista Gaúcha;Despesas orçamentárias empenhadas - Correntes;Reais;575279120
 Vista Gaúcha;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398917557
@@ -14804,7 +14804,7 @@ Vitória das Missões;População residente - cor ou raça - Branca;pessoas;2768
 Vitória das Missões;População residente - cor ou raça - Preta;pessoas;162
 Vitória das Missões;População residente - cor ou raça - Parda;pessoas;517
 Vitória das Missões;População residente - classes de rendimento nominal mensal - Até 1/4 de salário mínimo ;pessoas;242
-Vitória das Missões;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;NULL
+Vitória das Missões;População residente - classes de rendimento nominal mensal - Mais de 30 salários mínimos ;pessoas;
 Vitória das Missões;Área da unidade territorial;Km²;259.610
 Vitória das Missões;Eleitorado;Eleitores;2962
 Vitória das Missões;PIB per capita a preços correntes;Reais;11691.07
@@ -14813,7 +14813,7 @@ Vitória das Missões;Matrícula - Ensino médio - 2009;Matrículas;166
 Vitória das Missões;Docentes - Ensino fundamental - 2009;Docentes;41
 Vitória das Missões;Docentes - Ensino médio - 2009;Docentes;13
 Vitória das Missões;Estabelecimentos de Saúde SUS;estabelecimentos;2
-Vitória das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Vitória das Missões;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Vitória das Missões;Receitas orçamentárias realizadas - Correntes;Reais;792556105
 Vitória das Missões;Despesas orçamentárias empenhadas - Correntes;Reais;613088400
 Vitória das Missões;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398924357
@@ -14843,7 +14843,7 @@ Westfália;Matrícula - Ensino médio - 2009;Matrículas;103
 Westfália;Docentes - Ensino fundamental - 2009;Docentes;34
 Westfália;Docentes - Ensino médio - 2009;Docentes;7
 Westfália;Estabelecimentos de Saúde SUS;estabelecimentos;3
-Westfália;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Westfália;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Westfália;Receitas orçamentárias realizadas - Correntes;Reais;1082183329
 Westfália;Despesas orçamentárias empenhadas - Correntes;Reais;748642744
 Westfália;Valor do Fundo de Participação dos Municípios  - FPM;Reais;398978858
@@ -14873,7 +14873,7 @@ Xangri-lá;Matrícula - Ensino médio - 2009;Matrículas;409
 Xangri-lá;Docentes - Ensino fundamental - 2009;Docentes;113
 Xangri-lá;Docentes - Ensino médio - 2009;Docentes;20
 Xangri-lá;Estabelecimentos de Saúde SUS;estabelecimentos;6
-Xangri-lá;Nascidos vivos -  registrados - lugar do registro;pessoas;NULL
+Xangri-lá;Nascidos vivos -  registrados - lugar do registro;pessoas;
 Xangri-lá;Receitas orçamentárias realizadas - Correntes;Reais;3719045474
 Xangri-lá;Despesas orçamentárias empenhadas - Correntes;Reais;3365004744
 Xangri-lá;Valor do Fundo de Participação dos Municípios  - FPM;Reais;531890081
