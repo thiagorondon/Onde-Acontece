@@ -44,8 +44,9 @@ sub view : Chained('object') : PathPart('') : Args(0) {
 
   my $m = $rs->related_resultset('municipios')->search(
     {
-      'municipios.nome' => {-like => ($c->req->params->{municipio} || 'Porto Alegre')},
-      tipo              => { -not => undef }
+      'municipios.nome' =>           {-like => ($c->req->params->{municipio} || 'Porto Alegre')},
+      'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2011 ) },
+      tipo              =>           { -not => undef }
     },
     {
       select => [
