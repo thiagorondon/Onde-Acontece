@@ -5,7 +5,7 @@
 			<label>Ano</label>
 
 			<select name="ano" class="span3">
-        [% FOR i IN [2..9] %]
+        [% FOR i IN [2..10] %]
   				<option value="[% 2000 + i %]" [% IF c.req.params.ano == (2000+i) %]selected=selected[% END %]>[% 2000 + i %]</option>
         [% END %]
 			</select>

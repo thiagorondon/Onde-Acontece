@@ -23,7 +23,10 @@ sub view : Chained('object') : PathPart('') : Args(0) {
       ->search( {}, { order_by => { -asc => 'nome' } } )->all ];
 
   my $s  =  $rs->related_resultset('municipios')->search(
-    { tipo => { -not => undef } },
+    {
+        'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2011 ) }, 
+        tipo => { -not => undef }
+    },
     { select => [
         'ocorrencias_municipio.ano',
         { sum => 'ocorrencias_municipio.quant' },
