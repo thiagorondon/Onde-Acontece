@@ -24,7 +24,7 @@ sub view : Chained('object') : PathPart('') : Args(0) {
 
   my $s  =  $rs->related_resultset('municipios')->search(
     {
-        'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2011 ) }, 
+        'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2010 ) }, 
         tipo => { -not => undef }
     },
     { select => [
@@ -48,7 +48,7 @@ sub view : Chained('object') : PathPart('') : Args(0) {
   my $m = $rs->related_resultset('municipios')->search(
     {
       'municipios.nome' =>           {-like => ($c->req->params->{municipio} || 'Porto Alegre')},
-      'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2011 ) },
+      'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2010 ) },
       tipo              =>           { -not => undef }
     },
     {
