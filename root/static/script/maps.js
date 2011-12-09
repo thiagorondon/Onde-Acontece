@@ -22,6 +22,7 @@
   });
   function fetch(type_id, year) {
     d3.json("/api/seguranca/RS?o_id=$$type&ano=$$year&content-type=application/json".replace('$$year', year).replace('$$type', type_id), function(json) {
+      $('#carregando').hide();
       $('#chart svg').remove();
       var region = d3.select("#chart").append("svg:svg").attr("id", "region").attr("class", "Reds").attr('width', '450px').attr('height', '400px');
        region.selectAll("path").data(json.features).enter().append("svg:path").attr("d", path).attr('fill', quantize).attr('original-title', function(d){

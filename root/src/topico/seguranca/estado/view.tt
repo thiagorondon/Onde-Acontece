@@ -40,7 +40,15 @@
 	<div class="row">
 		<div class="span8">
 			<div id="mapwrapper">
-				<div id="chart"></div>
+				<div id="chart">
+          <div id="carregando">
+          <br/><br/>
+          <center>
+          <img src="/static/images/loading.gif" /><br/>
+          Carregando o mapa...
+          </center>
+          </div>
+        </div>
 					<script src='/static/script/maps.js' type='text/javascript'> </script>
 				</div>
 			</div>
