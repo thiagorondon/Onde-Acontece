@@ -71,6 +71,7 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
   my ( $self, $c, $nome ) = @_;
   my $m = $c->stash->{object}->related_resultset('municipios')->search(
     { tipo              => { -not => undef },
+      'ocorrencias_municipio.ano' => { '<=' => ($c->req->params->{until} || 2010 ) },
       'municipios.nome' => $nome
     },
     { select => [
