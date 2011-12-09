@@ -1,6 +1,6 @@
 alter TABLE ocorrencias add column nome text;
 
-update ocorrencias set nome = 'Latrocínio' where id = 1;
+update ocorrencias set nome = 'Homicídio' where id = 1;
 update ocorrencias set nome = 'Furtos veículo' where id = 2;
 update ocorrencias set nome = 'Furtos' where id = 3;
 update ocorrencias set nome = 'Roubos' where id = 4;
