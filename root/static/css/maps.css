@@ -12,6 +12,9 @@ svg {
   stroke: #fff;
   stroke-width: 1.5px;
 }
+#chart path:hover {
+    cursor:pointer;cursor:hand;
+}
 #chart path.current {
     fill:rgb(66,146,198);
 }
