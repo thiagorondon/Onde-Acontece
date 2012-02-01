@@ -1,0 +1,10 @@
+
+sql/          Dump SQL (contendo dados dos mapas)
+schema/       Schema utilizado no banco de dados para deploy
+secretaria-seguranca-publica-rs/  Dados obtidos do site e transformados em csv.
+analise/      Informações compiladas baseado nas analises trabalhadas.
+xls2csv/      Dados por múnicipio em csv, no mesmo padrão.
+190-telefone-emergencia-rs/ Dados não utilizados ainda sobre o 190.
+transform/    Diretório temporario.
+
+

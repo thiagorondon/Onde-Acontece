@@ -1,0 +1,11 @@
+Fontes de Dados
+---------------
+
+Utilizamos os dados provenientes do IBGE (Instituto Brasileiro de Geografia e Estatística) contendo os polígonos dos mapas e informações de georeferenciamento, além dos dados do censo. Os dados do IBGE serão cruzados com dados fornecidos pela SSP (Secretaria de Segurança Pública) do estado do Rio Grande do Sul contendo as ocorrências relatadas nos call centers de Porto Alegre e dados gerais de ocorrências nas cidades do interior do estado. A princípio, apenas os dados do Rio Grande do Sul estarão disponíveis, mas acreditamos que quando a aplicação estiver funcionando, outros estados serão pressionados a divulgar seus dados também.
+
+http://www.ibge.gov.br/cidadesat/link.php?uf=rs
+http://www.ssp.rs.gov.br/
+ftp://geoftp.ibge.gov.br/mapas/malhas_digitais/
+http://mapicons.nicolasmollet.com/
+
+
