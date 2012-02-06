@@ -1,1 +1,13 @@
-insert into ocorrencias (tipo) values ('homicidio'), ('furtos_veiculo'), ('furtos'), ('roubos'), ('latrocionio'), ('roubo_veiculo'), ('extorsao'), ('extorsao_sequesto'), ('estelionato'), ('delitos_corrupcao'), ('posse_entorpecente'), ('delitos_municoes'), ('trafico_entorpecente');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (2, 'furtos_veiculo', 'Furtos veículo');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (3, 'furtos', 'Furtos');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (4, 'roubos', 'Roubos');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (5, 'latrocionio', 'Latrocínio');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (6, 'roubo_veiculo', 'Roubo veículo');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (7, 'extorsao', 'Extorsão');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (8, 'extorsao_sequesto', 'Extorsão mediante sequestro');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (9, 'estelionato', 'Estelionato');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (10, 'delitos_corrupcao', 'Delitos relac. à corrupção');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (11, 'posse_entorpecente', 'Posse Entorpecentes');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (12, 'delitos_municoes', 'Delitos relac. a armas e munições');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (13, 'trafico_entorpecente', 'Tráfico Entorpecentes');
+INSERT INTO ocorrencias (id, tipo, nome) VALUES (1, 'homicidio', 'Homicidios');
