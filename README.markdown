@@ -26,31 +26,37 @@ Utilizamos os dados provenientes do IBGE (Instituto Brasileiro de Geografia e Es
 INSTALAÇÃO RÁPIDA
 -----------------
 
-Esta instalação é baseada no Debian. É considera que você tenha o Postgresql instalado com o PostGIS, e
-com acesso ao usuário "ondeacontece" (local) com acesso para um banco de dados já criado chamado 'ondeacontece'.
+Esta instalação é baseada no Debian. O primeiro passo é:
 
-  $ echo "deb ftp://ftp.br.debian.org/debian/ squeeze main contrib non-free" >> /etc/apt/sources.list
-  $ apt-get update
-  $ apt-get install curl build-essential git-core
-  $ useradd ondeacontece -m 
-  $ su - ondeacontece
-  $ curl -kL http://install.perlbrew.pl | bash
-  $ source ~/perl5/perlbrew/etc/bashrc
-  $ perlbrew install perl-5.12.2
-  $ perlbrew switch perl-5.12.2
-  $ perlbrew install-cpanm
-  $ cpanm Dist::Zilla
-  $ git clone git://github.com/maluco/Onde-Acontece.git
-  $ cd Onde-Acontece
-  $ dzil listdeps | cpanm
-  $ ./deploydb.sh
+* Instalar o postgreSQL.
+* Instalar o PostGIS.
+* Criar permissões para o usuário 'ondeacontece' local.
+* Criar um banco de dados 'ondeacontece' com permissão para o usuário 'ondeacontece'.
+
+Feito isto, basta executar os comandos abaixo.
+
+    $ echo "deb ftp://ftp.br.debian.org/debian/ squeeze main contrib non-free" >> /etc/apt/sources.list
+    $ apt-get update
+    $ apt-get install curl build-essential git-core
+    $ useradd ondeacontece -m 
+    $ su - ondeacontece
+    $ curl -kL http://install.perlbrew.pl | bash
+    $ source ~/perl5/perlbrew/etc/bashrc
+    $ perlbrew install perl-5.12.2
+    $ perlbrew switch perl-5.12.2
+    $ perlbrew install-cpanm
+    $ cpanm Dist::Zilla
+    $ git clone git://github.com/maluco/Onde-Acontece.git
+    $ cd Onde-Acontece
+    $ dzil listdeps | cpanm
+    $ ./deploydb.sh
 
 EXECUTAR
 --------
 
 Para testar o aplicativo, basta executar:
 
-  $ scripts/onde_acontece.server.pl
+    $ scripts/onde_acontece.server.pl
 
 TODO
 ----
