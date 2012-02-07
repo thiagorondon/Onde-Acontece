@@ -1,3 +1,4 @@
+#!/bin/sh
 
 sh script/deploydb.sh ondeacontece
 sh script/populatedb.sh 
