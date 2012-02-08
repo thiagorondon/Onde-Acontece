@@ -3,6 +3,10 @@ $(function(){
 		{
 			"regexp": new RegExp('^PIB'),
 			"icon": '/static/images/pib.png'
+		},
+		{
+			"regexp": new RegExp('^Popula..o.residente.$'),
+			"icon": '/static/images/grupo-0.png'
 		}
 	],
 	$indices = $('#indicadores'),
