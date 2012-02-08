@@ -52,7 +52,7 @@
 </div>
 
 <div id="ribbon">
-  <a href="https://github.com/desarrollandoAmericaLatina/Onde-Acontece" rel="me"></a>
+  <a href="https://github.com/maluco/Onde-Acontece" rel="me"></a>
 </div>
 [% PROCESS footer.tt %]
 
