@@ -66,7 +66,7 @@ TODO
 * Resolver o problema de enconding e do nome do tipo do crime.
 * Melhorar a navegabilidade e o entedimento, adicionar um texto explicado de como utilizar o site, e o que pode ser retirado dele.
 * Oferecer um mecanismo de download do site atual, em JSON, TXT ou CSV.
-
+* Adicionar/Revisar libs que estão faltando no dist.ini (eg. XML::Simple)
 
 
 
