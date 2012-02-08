@@ -113,8 +113,8 @@
 				<p>Dados do Censo 2010
 					[%SET $api_censo = c.uri_for("/api/ibge/censo/$municipio")%]
 					<code>[%$api_censo%]</code>
-					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=application/json">JSON</a></span> <span class="label"><a target="_blank" href="[%$api_censo%]s?content-type=yaml">YAML</a></span>
-					<span class="label"><a target="_blank" href="v?content-type=text/xml">XML</a></span> 
+					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=application/json">JSON</a></span> <span class="label"><a target="_blank" href="[%$api_censo%]?content-type=yaml">YAML</a></span>
+					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=text/xml">XML</a></span>
 				</p>
 			</div>
 		</div>
