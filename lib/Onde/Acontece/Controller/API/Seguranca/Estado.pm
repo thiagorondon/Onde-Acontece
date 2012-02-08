@@ -4,6 +4,7 @@ use namespace::autoclean;
 
 BEGIN { extends 'Catalyst::Controller::REST'; }
 use JSON;
+use Devel::Peek;
 
 sub base : Chained('/api/seguranca/base') PathPart('') CaptureArgs(0) {
   my ( $self, $c ) = @_;
@@ -94,6 +95,8 @@ sub municipio_info : Chained('object') : PathPart('') : Arg(1) {
     push @{ $mun{ $r->{ocorrencia}{tipo} }{data} },
       [ $r->{ano}, $r->{ocorrencia}{quant} ];
   }
+
+  # warn Devel::Peek::Dump(($m->all)[0]->{ocorrencia}{nome_oco});
 
   $self->status_ok( $c, entity => { ocorrencias => \%mun } );
 

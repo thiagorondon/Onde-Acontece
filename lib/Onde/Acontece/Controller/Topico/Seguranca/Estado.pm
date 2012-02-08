@@ -30,12 +30,12 @@ sub view : Chained('object') : PathPart('') : Args(0) {
     { select => [
         'ocorrencias_municipio.ano',
         { sum => 'ocorrencias_municipio.quant' },
-        'ocorrencia.tipo'
+        'ocorrencia.nome'
       ],
       as       => [qw(ano quant tipo)],
       join     => { ocorrencias_municipio => 'ocorrencia' },
-      order_by => [qw(ocorrencias_municipio.ano ocorrencia.tipo)],
-      group_by => [qw(ocorrencias_municipio.ano ocorrencia.tipo)]
+      order_by => [qw(ocorrencias_municipio.ano ocorrencia.nome)],
+      group_by => [qw(ocorrencias_municipio.ano ocorrencia.nome)]
     }
   );
   my %data;
@@ -53,12 +53,12 @@ sub view : Chained('object') : PathPart('') : Args(0) {
     },
     {
       select => [
-        qw(municipios.nome ocorrencia.tipo ocorrencias_municipio.ano ocorrencias_municipio.quant)
+        qw(municipios.nome ocorrencia.nome ocorrencias_municipio.ano ocorrencias_municipio.quant)
       ],
       as   => [qw(nome tipo ano quant)],
       join => { ocorrencias_municipio => 'ocorrencia' },
       order_by =>
-        [qw(ocorrencias_municipio.ano ocorrencia.tipo municipios.nome )],
+        [qw(ocorrencias_municipio.ano ocorrencia.nome municipios.nome )],
     }
   );
   my %mun;

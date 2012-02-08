@@ -60,8 +60,8 @@
 					<ul>
 						<li><a href="#index">Indíces</a></li>
 						<li><a href="#ranking">Ranking</a></li>
-						<li><a href="#ocorrencias">Números do Estado</a></li>
 						<li><a href="#municipio">Números do Município</a></li>
+						<li><a href="#ocorrencias">Números do Estado</a></li>
 						<li><a href="#api">API</a></li>
 					</ul>
 				</div>
@@ -74,21 +74,12 @@
 			</div>
 		</div>
 	</div> 
+  [% FOREACH m IN mun.keys.sort %] 
+  <h1 id="cidade">[% m %]</h1>
+  [% END %]
 	<h2 id="index">Indíces</h2>
 	<div class="indicadores well " style="width:900px" id="indicadores">
 	</div>
-
-    <table id="ocorrencias" class="zebra-striped bordered-table">
-        <tr><th></th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
-      [% FOREACH t IN estado.keys %]
-        <tr><td>[% t %]</td>
-        [% FOREACH y IN estado.$t %]
-          <td>[% y.1 %]</td>
-        [% END %]
-        </tr>
-      [% END %]
-    </table>
-
 	[% FOREACH m IN mun.keys.sort %]
 	<div id="graficos">
 		<div class="row">
@@ -128,6 +119,19 @@
 			</div>
 		</div>
 	</div>
+
+    <h3>Acompanhamento Anual de ocorrências no estado.</h3>
+
+    <table id="ocorrencias" class="zebra-striped bordered-table">
+        <tr><th></th>[% FOREACH y IN estado.${estado.keys.0} %]<th>[% y.0 %]</th>[% END %]</tr>
+      [% FOREACH t IN estado.keys %]
+        <tr><td>[% t %]</td>
+        [% FOREACH y IN estado.$t %]
+          <td>[% y.1 %]</td>
+        [% END %]
+        </tr>
+      [% END %]
+    </table>
 
 
 	
