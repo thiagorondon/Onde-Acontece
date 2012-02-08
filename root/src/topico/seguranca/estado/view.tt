@@ -18,12 +18,13 @@
         [% END %] 
 			</select>
     </div>
+	[%SET municipio = 'Porto Alegre'%]
     <div class="clearfix row">
       <label>Município</label>
 		<select name="municipio" class="span3">
 			<option value="">Todos</option>
 			[% FOR m IN municipios_lista %]
-			<option value="[% m.nome %]" [% IF c.req.params.municipio == m.nome %]selected=selected[% END %]>[% m.nome %]</option>
+			<option value="[% m.nome %]" [% IF c.req.params.municipio == m.nome %]selected=selected[%SET municipio = m.nome%][% END %]>[% m.nome %]</option>
 			[% END %]
 		</select>
 
@@ -71,12 +72,7 @@
 		</div>
 	</div> 
 	<h2 id="index">Indíces</h2>
-	<div class="indicadores well span10">
-		<p><img src="/static/images/pib.png">PIB $$</p>
-		<p><img src="/static/images/grupo.png"/>3 homicídios por 1000 habitantes (total: 10000 habitantes)</p>
-		<p><img src="/static/images/grupo-0.png"/>nenhum homicídio registrado (total: 10000 habitantes)</p>
-		<p><img src="/static/images/territorio.png"/>3 homicídios por 1000 km² (total: 10000 km²)</p>
-		<p><img src="/static/images/territorio-0.png"/>nenhum homicídio km² (total: 10000 km²)</p>
+	<div class="indicadores well " style="width:900px" id="indicadores">
 	</div>
 
     <table id="ocorrencias" class="zebra-striped bordered-table">
@@ -110,4 +106,22 @@
 	</table>
 	[% END %]
 
+	<div class="row">
+		<div class="span16">
+			<h3>API</h3>
+			<div>
+				<p>Dados do Censo 2010
+					[%SET $api_censo = c.uri_for("/api/ibge/censo/$municipio")%]
+					<code>[%$api_censo%]</code>
+					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=application/json">JSON</a></span> <span class="label"><a target="_blank" href="[%$api_censo%]s?content-type=yaml">YAML</a></span>
+					<span class="label"><a target="_blank" href="v?content-type=text/xml">XML</a></span> 
+				</p>
+			</div>
+		</div>
+	</div>
+
+
+	
 </div>
+
+<script src="/static/script/indices.js" type="text/javascript"></script>
