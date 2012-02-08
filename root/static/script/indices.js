@@ -1,4 +1,30 @@
 $(function(){
+	function CurrencyFormatted(amount)
+	{
+		amount = new String(amount);  // cast string
+		var delimiter = "."; // replace comma if desired
+		var a = amount.split('.',2)
+		var d = a[1];
+		var i = parseInt(a[0]);
+		if(isNaN(i)) { return ''; }
+		var minus = '';
+		if(i < 0) { minus = '-'; }
+		i = Math.abs(i);
+		var n = new String(i);
+		var a = [];
+		while(n.length > 3)
+		{
+			var nn = n.substr(n.length-3);
+			a.unshift(nn);
+			n = n.substr(0,n.length-3);
+		}
+		if(n.length > 0) { a.unshift(n); }
+		n = a.join(delimiter);
+		if(!d || d.length < 1) { amount = n; }
+		else { amount = n + ',' + d; }
+		amount = minus + amount;
+		return amount;
+	}
 	var _types = [
 		{
 			"regexp": new RegExp('^PIB'),
@@ -7,19 +33,30 @@ $(function(){
 		{
 			"regexp": new RegExp('^Popula..o.residente.$'),
 			"icon": '/static/images/grupo-0.png'
+		},
+		{
+			"regexp": new RegExp('unidade territorial'),
+			"icon": '/static/images/grupo-0.png'
+		},
+		{
+			"regexp": new RegExp('^Eleitorado'),
+			"icon": '/static/images/grupo-0.png'
 		}
 	],
 	$indices = $('#indicadores'),
 	_censo,
+	_gettext = function(feature){
+		feature.properties.valor_str = (feature.properties.unidade == 'Reais'? 'R$ ': '') + CurrencyFormatted(feature.properties.valor);
+		return feature.properties.descricao + ': ' + feature.properties.valor_str + ' ' + feature.properties.unidade;
+	},
 	show_censo = function(){
 		var $list = $('<ul></ul>');
 		for(var iFeat in _censo.features){
 			var feature = _censo.features[iFeat], type;
 			
 			var $li = $('<li></li>');
-			feature.properties.valor_str = (feature.properties.unidade == 'Reais'? 'R$ ': '') + feature.properties.valor;
 			
-			$li.text(feature.properties.descricao + ' ' + feature.properties.valor_str + ' ' + feature.properties.unidade);
+			$li.text(_gettext(feature));
 			
 			$list.append($li);
 		}
@@ -47,9 +84,7 @@ $(function(){
 					if ( type.regexp.test(feature.properties.descricao) == true ){
 						
 						var $el = $('<p></p>');
-						feature.properties.valor_str = (feature.properties.unidade == 'Reais'? 'R$ ': '') + feature.properties.valor;
-						
-						$el.text(feature.properties.descricao + ' ' + feature.properties.valor_str + ' ' + feature.properties.unidade);
+						$el.text(_gettext(feature));
 
 						if (type.icon){
 							$el.prepend('<img src="' + type.icon + '"/>');
@@ -64,7 +99,7 @@ $(function(){
 					if ($div[0]){
 						$div.toggle();
 					}else{
-						$div = $('<div class="censo"></div>');
+						$div = $('<div style="margin-top: 1em;" class="censo"></div>');
 						$div.append(show_censo());
 						
 						$indices.append($div);

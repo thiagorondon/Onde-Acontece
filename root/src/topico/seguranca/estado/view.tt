@@ -4,17 +4,19 @@
 		<div class="clearfix row">
 			<label>Ano</label>
 
+		[%SET ano = 2002 %]
 			<select name="ano" class="span3">
         [% FOR i IN [2..10] %]
-  				<option value="[% 2000 + i %]" [% IF c.req.params.ano == (2000+i) %]selected=selected[% END %]>[% 2000 + i %]</option>
+  				<option value="[% 2000 + i %]" [% IF c.req.params.ano == (2000+i) %][%SET ano=2000 + i%]selected=selected[% END %]>[% 2000 + i %]</option>
         [% END %]
 			</select>
 		</div>
+		[%SET ocorrencia = 0 %]
 		<div class="clearfix row">
 			<label>Ocorrência</label>
 			<select name="ocorrencia" class="span3">
         [% FOR o IN ocorrencias %]
-				  <option value="[% o.id %]" [% IF c.req.params.ocorrencia == o.id %]selected=selected[% END %]>[% o.nome %]</option>
+				  <option value="[% o.id %]" [% IF c.req.params.ocorrencia == o.id %][%SET ocorrencia = o.id%]selected=selected[% END %]>[% o.nome %]</option>
         [% END %] 
 			</select>
     </div>
@@ -60,6 +62,7 @@
 						<li><a href="#ranking">Ranking</a></li>
 						<li><a href="#ocorrencias">Números do Estado</a></li>
 						<li><a href="#municipio">Números do Município</a></li>
+						<li><a href="#api">API</a></li>
 					</ul>
 				</div>
 				<div class="well">
@@ -108,13 +111,19 @@
 
 	<div class="row">
 		<div class="span16">
-			<h3>API</h3>
-			<div>
-				<p>Dados do Censo 2010
+			<h2 id="api">API</h2>
+			<div class="well">
+				<p>Dados do Censo 2010:
 					[%SET $api_censo = c.uri_for("/api/ibge/censo/$municipio")%]
-					<code>[%$api_censo%]</code>
+					
 					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=application/json">JSON</a></span> <span class="label"><a target="_blank" href="[%$api_censo%]?content-type=yaml">YAML</a></span>
-					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=text/xml">XML</a></span>
+					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=text/xml">XML</a></span><code>[%$api_censo%]</code>
+				</p>
+				<p>Mapa de criminalidade:
+					[%SET $api_mapa = c.uri_for("/api/seguranca/RS?o_id=$municipio&ano=$ano")%]
+					<span class="label"><a target="_blank" href="[%$api_mapa%]?content-type=application/json">JSON</a></span> <span class="label"><a target="_blank" href="[%$api_mapa%]?content-type=yaml">YAML</a></span>
+					<span class="label"><a target="_blank" href="[%$api_mapa%]?content-type=text/xml">XML</a></span>
+					<code>[%$api_mapa%]</code>
 				</p>
 			</div>
 		</div>
