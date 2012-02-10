@@ -23,7 +23,15 @@ sub view : Chained('object') : PathPart('') : Args(0) ActionClass('REST') {
 
 sub view_GET {
   my ( $self, $c ) = @_;
-
+  if($c->req->query_parameters->{download}) {
+    my $filename = $c->stash->{object}->search({})->first->{cidade};
+    for($c->req->content_type || $c->req->params->{'content-type'}) {
+      /json/ and $filename .= '.json' or
+      /xml/ and $filename .= '.xml' or
+      /ya?ml/ and $filename .= '.yml'
+    }
+    $c->res->header('Content-Disposition', qq[attachment; filename="$filename"]);
+  }
   $self->status_ok(
     $c,
     entity => {

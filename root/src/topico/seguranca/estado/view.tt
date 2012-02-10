@@ -105,10 +105,10 @@
 			<h2 id="api">API</h2>
 			<div class="well">
 				<p>Dados do Censo 2010:
-					[%SET $api_censo = c.uri_for("/api/ibge/censo/$municipio")%]
+					[% SET api_censo = c.uri_for_action("/api/ibge/censo/view", [municipio]) %]
 					
-					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=application/json">JSON</a></span> <span class="label"><a target="_blank" href="[%$api_censo%]?content-type=yaml">YAML</a></span>
-					<span class="label"><a target="_blank" href="[%$api_censo%]?content-type=text/xml">XML</a></span><code>[%$api_censo%]</code>
+					<span class="label"><a target="_blank" href="[% c.uri_for_action("/api/ibge/censo/view", [municipio], {'content-type' => 'application/json', download => 1}) %]">JSON</a></span> <span class="label"><a target="_blank" href="[% c.uri_for_action("/api/ibge/censo/view", [municipio], {'content-type' => 'text/yaml', download => 1}) %]">YAML</a></span>
+					<span class="label"><a target="_blank" href="[% c.uri_for_action("/api/ibge/censo/view", [municipio], {'content-type' => 'text/xml', download => 1}) %]">XML</a></span><code> [% api_censo %]</code>
 				</p>
 				<p>Mapa de criminalidade:
 					[%SET $api_mapa = c.uri_for("/api/seguranca/RS")%]
