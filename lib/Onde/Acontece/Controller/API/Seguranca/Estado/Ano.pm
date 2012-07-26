@@ -26,7 +26,7 @@ sub root_GET {
     and $col->result_source->has_column($oc);
 
   my $rows = $c->stash->{collection}->search_rs(
-    {},
+    { ano => $ano },
     { select => [ 'municipio', $oc, "rate_$oc" ],
       result_class => 'DBIx::Class::ResultClass::HashRefInflator'
     }
