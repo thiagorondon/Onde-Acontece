@@ -51,3 +51,37 @@ pressionados a divulgar seus dados também.
 <li><a href="http://mapicons.nicolasmollet.com/">http://mapicons.nicolasmollet.com/</a></li>
 </ul>
 
+<h2>Tecnologias utilizadas</h2>
+
+<h3>Perl</h3>
+<p>
+Perl é uma linguagem de programação com mais de 25 anos de desenvolvimento,
+portável para mais de 100 plataformas diferentes( de dispositivos portáteis a
+mainframes). É uma linguagem multi-paradigma e suporta orientação a objetos,
+programação funcional e procedural. Com mais de 21,000 módulos extensivamente
+testados e disponíveis em sua biblioteca on-line, o CPAN.
+</p>
+
+<p>
+Perl inclui suporte a poderosas ferramentas de manipulação de texto, imagens,
+integração com banco de dados e desenvolvimento web. Os módulos desenvolvidos
+em perl são projetados para permitir e encorajar o reuso, o que facilita o
+nivelamento da lógica de negócio através de diversas plataformas, sejam elas
+aplicações web, scripts e todo tipo de componentes de integração. Um exemplo
+são as bibliotecas de interação com bancos de dados, que provêem a integração
+com quase todas os bancos de dados existentes junto com uma camada de
+abstração que possibilita a troca de banco de dados sem a necessidade de
+reescrever código.
+</p>
+
+<h3>Postgis</h3>
+
+<p>PostGIS é uma extensão que adiciona ao PostgrSQL suporte a objetos geográficos
+e operações geoespaciais. É possível, por exemplo, determinar operações e
+medidas como distância, área, perímetro com base nos dados geoespaciais
+disponíveis.</p>
+
+
+
+
+
