@@ -24,8 +24,40 @@ Utilizamos os dados provenientes do IBGE (Instituto Brasileiro de Geografia e Es
  * http://www.ssp.rs.gov.br/
  * ftp://geoftp.ibge.gov.br/mapas/malhas_digitais/
  * http://mapicons.nicolasmollet.com/
+ * http://www.acessoainformacao.rs.gov.br.
 
-INSTALAÇÃO RÁPIDA
+Tecnologias utilizadas
+----------------------
+
+Perl
+----
+
+Perl é uma linguagem de programação com mais de 25 anos de desenvolvimento,
+portável para mais de 100 plataformas diferentes( de dispositivos portáteis a
+mainframes). É uma linguagem multi-paradigma e suporta orientação a objetos,
+programação funcional e procedural. Com mais de 21,000 módulos extensivamente
+testados e disponíveis em sua biblioteca on-line, o CPAN.
+
+Perl inclui suporte a poderosas ferramentas de manipulação de texto, imagens,
+integração com banco de dados e desenvolvimento web. Os módulos desenvolvidos
+em perl são projetados para permitir e encorajar o reuso, o que facilita o
+nivelamento da lógica de negócio através de diversas plataformas, sejam elas
+aplicações web, scripts e todo tipo de componentes de integração. Um exemplo
+são as bibliotecas de interação com bancos de dados, que provêem a integração
+com quase todas os bancos de dados existentes junto com uma camada de
+abstração que possibilita a troca de banco de dados sem a necessidade de
+reescrever código.
+
+Postgis
+-------
+
+PostGIS é uma extensão que adiciona ao PostgrSQL suporte a objetos geográficos
+e operações geoespaciais. É possível, por exemplo, determinar operações e
+medidas como distância, área, perímetro com base nos dados geoespaciais
+disponíveis.
+
+
+Instalação rápida
 -----------------
 
 Esta instalação é baseada no Debian. O primeiro passo é:
@@ -53,12 +85,13 @@ Feito isto, basta executar os comandos abaixo.
     $ dzil listdeps | cpanm
     $ ./deploydb.sh
 
-EXECUTAR
+Executar
 --------
 
 Para testar o aplicativo, basta executar:
 
     $ scripts/onde_acontece.server.pl
+
 
 TODO
 ----
