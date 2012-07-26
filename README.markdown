@@ -4,7 +4,9 @@ Onde Acontece ?
 
 http://www.ondeacontece.com.br/
 
-Este projeto foi desenvolvido durante o evento "Desarrolando America" pela comunidade "São Paulo Perl Mongers" e Opendata-BR".
+Este projeto foi desenvolvido durante o evento "Desarrolando America" pela comunidade "São Paulo Perl Mongers" e "Opendata-BR".
+
+Durante o FISL13 foi implementado o sistema de rank baseado na cidade e tipo de crime, além de ser apresentando uma maneira simples do projeto ser reutilizado baseado em uma documentação e uma distribuição no próprio site de um pacote .tar.gz.
 
 Descrição da Idéia
 ------------------
