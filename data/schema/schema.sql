@@ -503,3 +503,7 @@ GRANT ALL ON SCHEMA public TO PUBLIC;
 -- PostgreSQL database dump complete
 --
 
+create table municipio_ibge_to_ssprs (
+  nome_ibge text not null,
+  nome_ssprs text not null
+);
