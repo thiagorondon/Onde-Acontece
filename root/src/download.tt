@@ -1,0 +1,43 @@
+
+<h2>Download</h2>
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://github.com/thiagorondon/Onde-Acontece/zipball/master">https://github.com/thiagorondon/Onde-Acontece/zipball/master</a></li>
+</ul>
+
+
+<h2>Instalação rápida</h2>
+
+<p>Esta instalação é baseada no Debian. O primeiro passo é:</p>
+
+<ul>
+<li>Instalar o postgreSQL.</li>
+<li>Instalar o PostGIS.</li>
+<li>Criar permissões para o usuário 'ondeacontece' local.</li>
+<li>Criar um banco de dados 'ondeacontece' com permissão para o usuário 'ondeacontece'.</li>
+</ul>
+
+<p>
+Feito isto, basta executar os comandos abaixo.
+</p>
+
+<blockquote>
+$ echo "deb ftp://ftp.br.debian.org/debian/ squeeze main contrib non-free" >> /etc/apt/sources.list
+$ apt-get update
+$ apt-get install curl build-essential git-core
+$ useradd ondeacontece -m 
+$ su - ondeacontece
+$ curl -kL http://install.perlbrew.pl | bash
+$ source ~/perl5/perlbrew/etc/bashrc
+$ perlbrew install perl-5.12.2
+$ perlbrew switch perl-5.12.2
+$ perlbrew install-cpanm
+$ cpanm Dist::Zilla
+$ git clone git://github.com/maluco/Onde-Acontece.git
+$ cd Onde-Acontece
+$ dzil listdeps | cpanm
+$ ./deploydb.sh
+</blockquote>
+

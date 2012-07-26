@@ -38,6 +38,9 @@ sub root : Chained('base') PathPart('') Args(0) {
 
 }
 
+sub download : Chained('base') Args(0) {
+}
+
 sub contato : Chained('base') Args(0) {
 }
 
