@@ -1,12 +1,9 @@
 
 <h2>Download</h2>
 
-<h2>Download</h2>
-
 <ul>
 <li><a href="https://github.com/thiagorondon/Onde-Acontece/zipball/master">https://github.com/thiagorondon/Onde-Acontece/zipball/master</a></li>
 </ul>
-
 
 <h2>Instalação rápida</h2>
 
@@ -24,6 +21,7 @@ Feito isto, basta executar os comandos abaixo.
 </p>
 
 <blockquote>
+<pre>
 $ echo "deb ftp://ftp.br.debian.org/debian/ squeeze main contrib non-free" >> /etc/apt/sources.list
 $ apt-get update
 $ apt-get install curl build-essential git-core
@@ -39,5 +37,6 @@ $ git clone git://github.com/maluco/Onde-Acontece.git
 $ cd Onde-Acontece
 $ dzil listdeps | cpanm
 $ ./deploydb.sh
+</pre>
 </blockquote>
 
