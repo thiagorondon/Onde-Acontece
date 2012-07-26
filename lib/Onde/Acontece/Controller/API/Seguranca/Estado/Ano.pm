@@ -25,15 +25,22 @@ sub root_GET {
     unless !( $oc =~ /^(municipio|ano)$/ )
     and $col->result_source->has_column($oc);
 
-  my $data = $c->stash->{collection}->search_rs(
+  my $rows = $c->stash->{collection}->search_rs(
     {},
     { select => [ 'municipio', $oc, "rate_$oc" ],
       result_class => 'DBIx::Class::ResultClass::HashRefInflator'
     }
   );
-#  $c->res->content_type('application/json');
-  warn $data->first;
-  $self->status_ok( $c, entity => [ $data->all ] );
+  my $count = $rows->count;
+  my $table =
+    [ map { [ @{$_}{ 'municipio', $oc, "rate_$oc" } ] } $rows->all ];
+  my $data = {
+    aaData               => $table,
+    iTotalRecords        => $count,
+    iTotalDisplayRecords => $count,
+    sEcho                => 0
+  };
+  $self->status_ok( $c, entity => $data );
 }
 
 1;
