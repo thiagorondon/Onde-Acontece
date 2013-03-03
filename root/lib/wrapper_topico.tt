@@ -21,22 +21,21 @@
 <link rel="stylesheet" type="text/css" href="/static/css/maps.css" />
 <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css" />
 
-<!--[if lte IE 8]><script language="javascript" type="text/javascript" src="/static/script/excanvas.min.js"></script><![endif]-->
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.6.0"></script>
+
 <script language="javascript" type="text/javascript" src="/static/script/jquery.js"></script>
+<!--[if lte IE 8]><script language="javascript" type="text/javascript" src="/static/script/excanvas.min.js"></script><![endif]-->
+
 <script language="javascript" type="text/javascript" src="/static/script/jquery.flot.js"></script>
 <script language="javascript" type="text/javascript" src="/static/script/jquery.flot.pie.js"></script>
-<script language="javascript" type="text/javascript" src="/static/script/load.graph.js"></script>
 <script language="javascript" type="text/javascript" src="/static/script/jquery.qtip.min.js"></script>
+<script language="javascript" type="text/javascript" src="/static/script/load.graph.js"></script>
 
-    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.6.0"></script>
-    <style type="text/css">
-      svg{ display:block }
-      @importurl("http://mbostock.github.com/d3/style.css?1.10.0");
-      @importurl("http://mbostock.github.com/d3/syntax.css?1.6.0");
-   </style>
-
-    <script src='http://mbostock.github.com/d3/d3.geo.js?2.6.0' type='text/javascript'> </script>
-
+<style type="text/css">
+    svg{ display:block }
+    @importurl("http://mbostock.github.com/d3/style.css?1.10.0");
+    @importurl("http://mbostock.github.com/d3/syntax.css?1.6.0");
+</style>
 </head>
 <body>
 
@@ -59,7 +58,7 @@
 				scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:70px;"	allowTransparency="true"></iframe>
 			<div id="fb-root" style="text-align: center">
 				<fb:comments href="www.ondeacontece.com.br" num_posts="10"></fb:comments>
-			</div> 
+			</div>
 		</div>
 	</div>
 </div>

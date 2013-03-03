@@ -4,8 +4,8 @@
         @import "http://datatables.net/release-datatables/media/css/demo_table.css";
     </style>
 
-    <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" language="javascript" src="http://datatables.net/release-datatables/media/js/jquery.dataTables.js"></script>
+
+    <script type="text/javascript" language="javascript" src="/static/script/jquery.dataTables.min.js"></script>
     <script type="text/javascript" charset="utf-8">
         $(document).ready(function() {
                 $('#example').dataTable({
@@ -36,7 +36,7 @@
 			<select name="ocorrencia" class="span3">
         [% FOR o IN ocorrencias %]
 				  <option value="[% o.id %]" [% IF c.req.params.ocorrencia == o.id %][%SET ocorrencia = o.id%]selected=selected[% END %]>[% o.nome %]</option>
-        [% END %] 
+        [% END %]
 			</select>
     </div>
 	[%SET municipio = 'Porto Alegre'%]
@@ -92,8 +92,8 @@
 				</div>
 			</div>
 		</div>
-	</div> 
-  [% FOREACH m IN mun.keys.sort %] 
+	</div>
+  [% FOREACH m IN mun.keys.sort %]
   <h1 id="cidade">[% m %]</h1>
   [% END %]
 	<h2 id="index">Indíces</h2>
@@ -125,7 +125,7 @@
 			<div class="well">
 				<p>Dados do Censo 2010:
 					[% SET api_censo = c.uri_for_action("/api/ibge/censo/view", [municipio]) %]
-					
+
 					<span class="label"><a target="_blank" href="[% c.uri_for_action("/api/ibge/censo/view", [municipio], {'content-type' => 'application/json', download => 1}) %]">JSON</a></span> <span class="label"><a target="_blank" href="[% c.uri_for_action("/api/ibge/censo/view", [municipio], {'content-type' => 'text/yaml', download => 1}) %]">YAML</a></span>
 					<span class="label"><a target="_blank" href="[% c.uri_for_action("/api/ibge/censo/view", [municipio], {'content-type' => 'text/xml', download => 1}) %]">XML</a></span><code> [% api_censo %]</code>
 				</p>
@@ -153,7 +153,7 @@
     </table>
 
 <h2>Rank</h2>
-	
+
 <table cellpadding="0" cellspacing="0" border="0" class="display" id="example">
         <thead>
             <tr>
