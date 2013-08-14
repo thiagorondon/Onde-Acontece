@@ -33,7 +33,7 @@ $ perlbrew install perl-5.12.2
 $ perlbrew switch perl-5.12.2
 $ perlbrew install-cpanm
 $ cpanm Dist::Zilla
-$ git clone git://github.com/maluco/Onde-Acontece.git
+$ git clone git://github.com/thiagorondon/Onde-Acontece.git
 $ cd Onde-Acontece
 $ dzil listdeps | cpanm
 $ ./deploydb.sh
